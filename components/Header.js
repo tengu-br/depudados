@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import NavLinks from "./NavLinks";
+import Link from "next/link";
 
 import headerLogo from "../assets/img/logo.png";
 
@@ -52,14 +53,14 @@ const HeaderHome = (props) => {
         <div className="main-menu-wrap">
           <div className="container">
             <div className="row align-items-center">
-              <div className="col-xl-3 col-lg-3 col-md-4 col-6">
+              <div className="col-lg-2 col-md-3 col-6">
                 <div className="logo">
                   <a href="/">
                     <img src={headerLogo} alt="jironis" />
                   </a>
                 </div>
               </div>
-              <div className="col-xl-6 col-lg-6 col-md-4 col-6 menu-button">
+              <div className="col-lg-8 col-md-6 col-6 menu-button">
                 <div className="menu--inner-area clearfix">
                   <div className="menu-wraper">
                     <nav>
@@ -76,11 +77,13 @@ const HeaderHome = (props) => {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-3 col-md-4 col-sm-5 d-md-block d-none">
+              <div className="col-lg-2 col-md-3 col-sm-5 d-md-block d-none">
                 <div className="urgent-call text-right">
-                  <a href="#" className="btn">
-                    Get Jironis
+                  <Link href="/sobre">
+                    <a className="btn">
+                      Sobre
                   </a>
+                  </Link>
                 </div>
               </div>
             </div>

@@ -19,8 +19,6 @@ import Footer from "../components/Footer";
 const HomePage = () => {
   return (
     <Layout pageTitle="Jironis">
-      <Header />
-      <MobileMenu />
       <Banner />
       <Features />
       <FunFacts />
@@ -33,7 +31,6 @@ const HomePage = () => {
       <Clients />
       <BlogHome />
       <CtaOne />
-      <Footer />
     </Layout>
   );
 };

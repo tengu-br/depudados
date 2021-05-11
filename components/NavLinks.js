@@ -11,7 +11,12 @@ const NavLinks = () => {
   };
   return (
     <ul className="main-nav__navigation-box">
-      <li className="dropdown">
+      <li>
+        <Link href="/">
+          Home
+        </Link>
+      </li>
+      {/* <li className="dropdown">
         <Link href="/">
           <>
             <a>Home</a>
@@ -30,63 +35,32 @@ const NavLinks = () => {
             </Link>
           </li>
         </ul>
-      </li>
+      </li> */}
       <li>
-        <ScrollLink
-          activeClass="current"
-          to="features"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          Features
-        </ScrollLink>
+        <Link href="/presenca">
+          Presença
+        </Link>
       </li>
 
       <li>
-        <ScrollLink
-          activeClass="current"
-          to="app"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          App Screens
-        </ScrollLink>
+        <Link href="/gastos">
+          Gastos
+        </Link>
       </li>
       <li>
-        <ScrollLink
-          activeClass="current"
-          to="pricing"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          Pricing
-        </ScrollLink>
-      </li>
-      <li className="dropdown">
-        <Link href="/news">
-          <>
-            <a>News</a>
-            <i className="fa fa-angle-down" onClick={handleDropdownStatus}></i>
-          </>
+        <Link href="/proposicoes">
+          Proposições
         </Link>
-        <ul className="dropdown-list">
-          <li>
-            <Link href="/news">
-              <a>News</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/news-details">
-              <a>News Details</a>
-            </Link>
-          </li>
-        </ul>
+      </li>
+      <li>
+        <Link href="/partidos">
+          Partidos
+        </Link>
+      </li>
+      <li>
+        <Link href="/deputados">
+          Deputados
+        </Link>
       </li>
     </ul>
   );
