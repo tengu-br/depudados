@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
     "bootstrap": "^5.0.0",
+    "echarts": "^5.1.1",
+    "echarts-for-react": "^3.0.1",
     "next": "^10.2.0",
     "next-images": "^1.7.0",
     "react": "^17.0.2",
