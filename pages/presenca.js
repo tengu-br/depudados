@@ -1,8 +1,11 @@
 import React from "react";
 import Layout from "../components/Layout";
-import ReactECharts from 'echarts-for-react';
+import PieChart from '../components/charts/PieChart';
+import PresencaCard from '../components/cards/PresencaCard'
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
+import { Typography } from "@material-ui/core";
+import styled from 'styled-components'
 
 /*
 GRÁFICOS:
@@ -22,79 +25,70 @@ GRÁFICOS:
     SEARCHABLE LIST
 */
 
-
 const Presenca = () => {
-
-    const data = {
-        tooltip: {
-            trigger: 'item'
-        },
-        legend: {
-            top: '5%',
-            left: 'center'
-        },
-        series: [
-            {
-                name: '访问来源',
-                type: 'pie',
-                radius: ['40%', '70%'],
-                avoidLabelOverlap: false,
-                label: {
-                    show: false,
-                    position: 'center'
-                },
-                emphasis: {
-                    label: {
-                        show: true,
-                        fontSize: '40',
-                        fontWeight: 'bold'
-                    }
-                },
-                labelLine: {
-                    show: false
-                },
-                data: [
-                    { value: 1048, name: '搜索引擎' },
-                    { value: 735, name: '直接访问' },
-                    { value: 580, name: '邮件营销' },
-                    { value: 484, name: '联盟广告' },
-                    { value: 300, name: '视频广告' }
-                ]
-            }
-        ]
-    }
-    {/* <ReactECharts
-                        option={data}
-                        notMerge={true}
-                        lazyUpdate={true}
-                        theme={"theme_name"}
-                    /> */}
-    return (
-        <Layout pageTitle="Presença">
-            <Grid container spacing={3} style={{ paddingTop: '12%', paddingBottom: '5%' }}>
-                <Grid item xs={12} md={4}>
-                    <Paper elevation={3}>Presença média</Paper>
-                </Grid>
-                <Grid item xs={12} md={4}>
-                    <Paper elevation={3}>Mais Faltão</Paper>
-                </Grid>
-                <Grid item xs={12} md={4}>
-                    <Paper elevation={3}>Sempre Presente</Paper>
-                </Grid>
-                <Grid item xs={12} md={6}>
-                    <Paper elevation={3}>Piores presenças</Paper>
-                </Grid>
-                <Grid item xs={12} md={6}>
-                    <Paper elevation={3}>Presença por região</Paper>
-                </Grid>
-                <Grid item xs={12}>
-                    <Paper elevation={3}>Presença por partido</Paper>
-                </Grid>
-                <Grid item xs={12}>
-                    <Paper elevation={3}>Lista completa</Paper>
-                </Grid>
-            </Grid>
-        </Layout>
-    );
+  const prop = {
+    mock1: {
+      name: 'Presença',
+      size: '36',
+      data: [
+        { value: 91.87, name: 'Presença', selected: true },
+        { value: 8.13, name: 'Falta' },
+      ]
+    },
+    mock2: {
+      name: 'Presença',
+      size: '18',
+      data: [
+        { value: 84.50, name: 'Presença', selected: true },
+        { value: 15.50, name: 'Falta' },
+      ]
+    },
+  }
+  return (
+    <Layout pageTitle="Presença">
+      <Grid container spacing={3} style={{ paddingTop: '12%', paddingBottom: '5%', width: '100%', margin: '0px' }}>
+        <Grid item xs={12} sm={12} md={4}>
+          <Paper elevation={3}>
+            <Typography variant='h6' align='center'>
+              Presença média por deputado
+                        </Typography>
+            <PieChart textsize={prop.mock1.size} data={prop.mock1.data} name={prop.mock1.name} />
+          </Paper>
+        </Grid>
+        <Grid item xs={12} sm={6} md={4}>
+          <Paper elevation={3}>
+            <PresencaCard
+              titulo='Mais Faltão'
+              nome='Adriano do Baldy'
+              partido='PP-GO'
+              porcentagem='84.5%'
+              faltas='16 Faltas não justificadas' />
+          </Paper>
+        </Grid>
+        <Grid item xs={12} sm={6} md={4}>
+          <Paper elevation={3}>
+            <PresencaCard
+              titulo='Sempre Presente'
+              nome='Afonso Florence'
+              partido='PT-BA'
+              porcentagem='100%'
+              faltas='0 Faltas não justificadas' />
+          </Paper>
+        </Grid>
+        <Grid item xs={12} md={6}>
+          <Paper elevation={3}>Piores presenças</Paper>
+        </Grid>
+        <Grid item xs={12} md={6}>
+          <Paper elevation={3}>Presença por região</Paper>
+        </Grid>
+        <Grid item xs={12}>
+          <Paper elevation={3}>Presença por partido</Paper>
+        </Grid>
+        <Grid item xs={12}>
+          <Paper elevation={3}>Lista completa</Paper>
+        </Grid>
+      </Grid>
+    </Layout >
+  );
 };
 export default Presenca;
