@@ -9,41 +9,36 @@ display:flex;
 align-items:center;
 `
 const DeputadoAvatar = styled.div`
-width: 50%;
-padding-right: 0.5em;
+
 `
 
 const DeputadoDados = styled.div`
-width: 50%;
+padding-left: 1em;
 display: flex;
 flex-direction: column;
 `
 
-
 const PresencaCard = ({ imgSrc, titulo, nome, partido, porcentagem, faltas }) => {
 
   return (
-    <>
-      <Typography variant='h6' align='center'>
+    <React.Fragment>
+      <Typography variant='h6' align='center' style={{ paddingTop: '1em' }}>
         {titulo}
       </Typography>
       <DeputadoCard>
         <DeputadoAvatar>
-          <img src='https://via.placeholder.com/350x470' />
+          <img height='224' width='167' src='https://via.placeholder.com/167x224' />
         </DeputadoAvatar>
         <DeputadoDados>
-          <Typography variant='body1' align='center' style={{ paddingBottom: '2em' }}>
+          <Typography variant='h6' align='center' style={{ paddingBottom: '2em' }}>
             {nome}<br /> {partido}
           </Typography>
           <Typography variant='h3' align='center'>
             {porcentagem}
           </Typography>
-          <Typography variant='body1' align='center' style={{ paddingTop: '2em' }}>
-            {faltas}
-          </Typography>
         </DeputadoDados>
       </DeputadoCard>
-    </>
+    </React.Fragment>
   )
 
 }

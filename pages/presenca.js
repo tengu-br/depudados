@@ -2,6 +2,8 @@ import React from "react";
 import Layout from "../components/Layout";
 import PieChart from '../components/charts/PieChart';
 import PresencaCard from '../components/cards/PresencaCard'
+import HorizBarChart from '../components/charts/HorizBarChart'
+import GeoPresenca from '../components/charts/GeoPresenca'
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import { Typography } from "@material-ui/core";
@@ -48,7 +50,7 @@ const Presenca = () => {
     <Layout pageTitle="Presença">
       <Grid container spacing={3} style={{ paddingTop: '12%', paddingBottom: '5%', width: '100%', margin: '0px' }}>
         <Grid item xs={12} sm={12} md={4}>
-          <Paper elevation={3}>
+          <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
             <Typography variant='h6' align='center'>
               Presença média por deputado
                         </Typography>
@@ -56,7 +58,7 @@ const Presenca = () => {
           </Paper>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
-          <Paper elevation={3}>
+          <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
             <PresencaCard
               titulo='Mais Faltão'
               nome='Adriano do Baldy'
@@ -66,7 +68,7 @@ const Presenca = () => {
           </Paper>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
-          <Paper elevation={3}>
+          <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
             <PresencaCard
               titulo='Sempre Presente'
               nome='Afonso Florence'
@@ -76,16 +78,26 @@ const Presenca = () => {
           </Paper>
         </Grid>
         <Grid item xs={12} md={6}>
-          <Paper elevation={3}>Piores presenças</Paper>
+          <Paper elevation={6} style={{ height: '100%', width: '100%' }}>
+            <Typography variant='h6' align='center'>
+              Piores presenças
+                        </Typography>
+            <HorizBarChart />
+          </Paper>
         </Grid>
         <Grid item xs={12} md={6}>
-          <Paper elevation={3}>Presença por região</Paper>
+          <Paper elevation={6}>
+            <Typography variant='h6' align='center'>
+              Presença por região
+            </Typography>
+            <GeoPresenca />
+          </Paper>
         </Grid>
         <Grid item xs={12}>
-          <Paper elevation={3}>Presença por partido</Paper>
+          <Paper elevation={6}>Presença por partido</Paper>
         </Grid>
         <Grid item xs={12}>
-          <Paper elevation={3}>Lista completa</Paper>
+          <Paper elevation={6}>Lista completa</Paper>
         </Grid>
       </Grid>
     </Layout >
