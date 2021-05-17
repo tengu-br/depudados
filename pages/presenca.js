@@ -77,7 +77,7 @@ const Presenca = () => {
               faltas='0 Faltas não justificadas' />
           </Paper>
         </Grid>
-        <Grid item xs={12} md={6}>
+        <Grid item xs={12} md={8}>
           <Paper elevation={6} style={{ height: '100%', width: '100%' }}>
             <Typography variant='h6' align='center'>
               Piores presenças
@@ -85,8 +85,8 @@ const Presenca = () => {
             <HorizBarChart />
           </Paper>
         </Grid>
-        <Grid item xs={12} md={6}>
-          <Paper elevation={6}>
+        <Grid item xs={4}>
+          <Paper elevation={6} style={{ height: '100%', width: '100%' }}>
             <Typography variant='h6' align='center'>
               Presença por região
             </Typography>
@@ -94,7 +94,7 @@ const Presenca = () => {
           </Paper>
         </Grid>
         <Grid item xs={12}>
-          <Paper elevation={6}>Presença por partido</Paper>
+          <Paper elevation={6} >Presença por partido</Paper>
         </Grid>
         <Grid item xs={12}>
           <Paper elevation={6}>Lista completa</Paper>

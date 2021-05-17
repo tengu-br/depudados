@@ -31,7 +31,6 @@ const HorizBarChart = ({ name, data, textsize }) => {
       notMerge={true}
       lazyUpdate={true}
       ref={chart}
-      style={{ height: '100%', width: '100%' }}
     />
   )
 }
