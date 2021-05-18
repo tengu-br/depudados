@@ -5,9 +5,6 @@ import footerLogo from "../assets/img/logo.png";
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="footerbg">
-        <img src={footerBg} className="svg" alt="" />
-      </div>
       <div className="footer-top pt-120 pb-110">
         <div className="container">
           <div className="row">

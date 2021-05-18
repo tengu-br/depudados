@@ -1,13 +1,15 @@
 import React from "react";
 import Layout from "../components/Layout";
 import PieChart from '../components/charts/PieChart';
-import PresencaCard from '../components/cards/PresencaCard'
+import PresencaCard from '../components/cards/BigCard'
 import HorizBarChart from '../components/charts/HorizBarChart'
 import GeoPresenca from '../components/charts/GeoPresenca'
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import { Typography } from "@material-ui/core";
 import styled from 'styled-components'
+import VerticalBarChart from "../components/charts/VerticalBarChart";
+import DeputadosList from "../components/lists/DeputadosList";
 
 /*
 GRÁFICOS:
@@ -41,8 +43,8 @@ const Presenca = () => {
       name: 'Presença',
       size: '18',
       data: [
-        { value: 84.50, name: 'Presença', selected: true },
-        { value: 15.50, name: 'Falta' },
+        { value: '84.50%', name: 'Presença', selected: true },
+        { value: '15.50%', name: 'Falta' },
       ]
     },
   }
@@ -64,7 +66,7 @@ const Presenca = () => {
               nome='Adriano do Baldy'
               partido='PP-GO'
               porcentagem='84.5%'
-              faltas='16 Faltas não justificadas' />
+              size='large' />
           </Paper>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
@@ -74,7 +76,7 @@ const Presenca = () => {
               nome='Afonso Florence'
               partido='PT-BA'
               porcentagem='100%'
-              faltas='0 Faltas não justificadas' />
+              size='large' />
           </Paper>
         </Grid>
         <Grid item xs={12} md={8}>
@@ -94,10 +96,17 @@ const Presenca = () => {
           </Paper>
         </Grid>
         <Grid item xs={12}>
-          <Paper elevation={6} >Presença por partido</Paper>
+          <Paper elevation={6} >
+            <Typography variant='h6' align='center'>
+              Presença média por partido
+            </Typography>
+            <VerticalBarChart />
+          </Paper>
         </Grid>
         <Grid item xs={12}>
-          <Paper elevation={6}>Lista completa</Paper>
+          <Paper elevation={6}>
+            <DeputadosList />
+          </Paper>
         </Grid>
       </Grid>
     </Layout >

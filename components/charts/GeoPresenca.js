@@ -49,6 +49,7 @@ const GeoPresenca = ({ name, data, textsize }) => {
     series: [
       {
         name: 'Presença',
+        selectedMode: false,
         type: 'map',
         roam: false,
         map: 'BR',
@@ -65,7 +66,7 @@ const GeoPresenca = ({ name, data, textsize }) => {
           { name: 'Bahia', value: 98 },
           { name: 'Ceará', value: 90 },
           { name: 'Distrito Federal', value: 94 },
-          { name: 'Espírito Sando', value: 81 },
+          { name: 'Espírito Santo', value: 81 },
           { name: 'Goiás', value: 70 },
           { name: 'Maranhão', value: 100 },
           { name: 'Mato Grosso', value: 99 },
