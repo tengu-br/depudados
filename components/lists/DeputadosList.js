@@ -3,7 +3,7 @@ import MUIDataTable from "mui-datatables";
 
 
 
-const DeputadosList = () => {
+const DeputadosList = (elevation) => {
   const columns = ["Name", "Company", "City", "State"];
 
   const data = [
@@ -14,7 +14,8 @@ const DeputadosList = () => {
   ];
 
   const options = {
-    selectableRows	: 'none',
+    selectableRows: 'none',
+    elevation: elevation,
     textLabels: {
       body: {
         noMatch: "Sem resultados compatíveis",
