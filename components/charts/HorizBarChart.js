@@ -3,24 +3,45 @@ import ReactECharts from 'echarts-for-react';
 
 const HorizBarChart = ({ name, data, textsize }) => {
 
-  const chart = useRef(null);
+  data.reverse()
+
   
+  var yAxisData = []
+  data.map((deputado) => {
+    yAxisData.push(deputado.nomeEleitoral)
+  })
+
+  var xAxisData = []
+  data.map((deputado) => {
+    xAxisData.push(Math.round(deputado.presencaSessoes * 100 + Number.EPSILON))
+  })
+
+  const chart = useRef(null);
+
   const option = {
+    grid: {
+      left: 100,
+      top:8,
+    },
     name: 'Teste',
-    barMinWidth: 21,
     tooltip: {
       trigger: 'item',
     },
     xAxis: {
       type: 'value',
-      min: 50,
+      min: 0,
+      max: 100,
     },
     yAxis: {
       type: 'category',
-      data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'Oit', 'Nov', 'Dez']
+      data: yAxisData,
+      axisLabel: {
+        interval: 0,
+        rotate: 30
+      }
     },
     series: [{
-      data: [120, 200, 150, 80, 70, 110, 130, 88, 190, 75],
+      data: xAxisData,
       type: 'bar'
     }]
   }

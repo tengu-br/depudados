@@ -15,7 +15,7 @@ display: flex;
 flex-direction: column;
 `
 
-const PresencaCard = ({ imgSrc, titulo, nome, partido, porcentagem, size }) => {
+const PresencaCard = ({ foto, titulo, nome, partido, porcentagem, size }) => {
 
   return (
     <React.Fragment>
@@ -23,7 +23,7 @@ const PresencaCard = ({ imgSrc, titulo, nome, partido, porcentagem, size }) => {
         {titulo}
       </Typography>
       <DeputadoCard>
-        <img height='224' width='167' src='https://via.placeholder.com/167x224' />
+        <img height='224' width='167' src={foto} />
         <DeputadoDados>
           <Typography variant='h6' align='center' style={{ paddingBottom: '2em' }}>
             {nome}<br /> {partido}

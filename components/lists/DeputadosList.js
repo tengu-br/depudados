@@ -1,17 +1,16 @@
 import MUIDataTable from "mui-datatables";
 
+const DeputadosList = ({ data, elevation }) => {
+
+  var compiledData = []
+
+  data.map((deputado) => {
+    compiledData.push([deputado.nome, deputado.partido, deputado.uf, Math.round(deputado.presencaSessoes * 100 + Number.EPSILON)+'%'])
+  })
+
+  const columns = ["Nome", "Partido", "Estado", "Presença"];
 
 
-
-const DeputadosList = (elevation) => {
-  const columns = ["Name", "Company", "City", "State"];
-
-  const data = [
-    ["Joe James", "Test Corp", "Yonkers", "NY"],
-    ["John Walsh", "Test Corp", "Hartford", "CT"],
-    ["Bob Herm", "Test Corp", "Tampa", "FL"],
-    ["James Houston", "Test Corp", "Dallas", "TX"],
-  ];
 
   const options = {
     selectableRows: 'none',
@@ -50,7 +49,7 @@ const DeputadosList = (elevation) => {
   return (
     <MUIDataTable
       title={"Lista Completa"}
-      data={data}
+      data={compiledData}
       columns={columns}
       options={options}
     />

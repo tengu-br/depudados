@@ -3,6 +3,18 @@ import ReactECharts from 'echarts-for-react';
 
 const VerticalBarChart = ({ name, data, textsize }) => {
 
+  var xAxisData = []
+  var yAxisData = []
+
+  for (const sigla in data) {
+    if (Object.hasOwnProperty.call(data, sigla)) {
+      if (data[sigla].qtdDeputados !== 0) {
+        xAxisData.push(sigla)
+        yAxisData.push(Math.round(data[sigla].somaPresenca / data[sigla].qtdDeputados * 100 + Number.EPSILON))
+      }
+    }
+  }
+
   const chart = useRef(null);
 
   const option = {
@@ -13,14 +25,22 @@ const VerticalBarChart = ({ name, data, textsize }) => {
     },
     xAxis: {
       type: 'category',
-      data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'Oit', 'Nov', 'Dez', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'Oit', 'Nov', 'Dez', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'Oit', 'Nov', 'Dez', 'Trez', 'Twe', 'Gow']
+      data: xAxisData,
+      axisLabel: {
+        interval: 0,
+        rotate: -25,
+        width: 55,
+        overflow:'truncate',
+        padding: -10,
+        margin: 16,
+      }
     },
     yAxis: {
       type: 'value',
-      min: 50,
+      min: 92,
     },
     series: [{
-      data: [120, 200, 150, 80, 70, 110, 130, 88, 190, 75, 120, 200, 150, 80, 70, 110, 130, 88, 190, 75, 120, 200, 150, 80, 70, 110, 130, 88, 190, 75, 96, 100, 150],
+      data: yAxisData,
       type: 'bar'
     }]
   }
