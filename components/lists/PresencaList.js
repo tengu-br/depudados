@@ -43,6 +43,16 @@ const DeputadosList = ({ data, elevation }) => {
         title: "Mostrar Colunas",
         titleAria: "Mostrar/Esconder Colunas",
       },
+    },
+    customSort: (data, colIndex, order, meta) => {
+      return data.sort((a, b) => {
+        // Sort se for a string com valor numerico
+        if (colIndex === 3) {
+          return (parseFloat(a.data[colIndex].replace(/[^0-9-,]/g, '')) < parseFloat(b.data[colIndex].replace(/[^0-9-,%]/g, '')) ? -1 : 1) * (order === 'desc' ? 1 : -1);
+        } else {
+          return (a.data[colIndex] < b.data[colIndex] ? -1 : 1) * (order === 'desc' ? 1 : -1);
+        }
+      });
     }
   };
 

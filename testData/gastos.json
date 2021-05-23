@@ -1,0 +1,5255 @@
+{
+  "gastoMedio": 28338.641883240743,
+  "gastoMediano": 29745.297407407405,
+  "deputadoGastoMenor": {
+      "ideCadastro": "216313",
+      "matricula": "581",
+      "nome": "RAFAEL PEREIRA SOUSA",
+      "dias": 16,
+      "sessoes": 20,
+      "faltasSessoes": 0,
+      "faltasDias": 0,
+      "presencaDias": 1,
+      "presencaSessoes": 1,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/216313.jpg",
+      "siglaUf": "PB",
+      "siglaPartido": "PSDB",
+      "nomeEleitoral": "Rafafá",
+      "ultimoStatus": "2021-04-13T16:38",
+      "gastos": [
+          {
+              "ano": 2019,
+              "mes": 2,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 3,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 4,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 5,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 6,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 7,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 8,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 9,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 10,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 11,
+              "valor": 0
+          },
+          {
+              "ano": 2019,
+              "mes": 12,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 1,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 2,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 3,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 4,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 5,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 6,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 7,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 8,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 9,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 10,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 11,
+              "valor": 0
+          },
+          {
+              "ano": 2020,
+              "mes": 12,
+              "valor": 0
+          },
+          {
+              "ano": 2021,
+              "mes": 1,
+              "valor": 0
+          },
+          {
+              "ano": 2021,
+              "mes": 2,
+              "valor": 0
+          },
+          {
+              "ano": 2021,
+              "mes": 3,
+              "valor": 0
+          },
+          {
+              "ano": 2021,
+              "mes": 4,
+              "valor": 0
+          }
+      ],
+      "gastoMedio": 0,
+      "gastoMenor": 0,
+      "gastoMaior": 0,
+      "gastoTotal": 0,
+      "proposicoes": "6"
+  },
+  "deputadoGastoMaior": {
+      "ideCadastro": "178839",
+      "matricula": "56",
+      "nome": "JESSICA ROJAS SALES",
+      "dias": 144,
+      "sessoes": 214,
+      "faltasSessoes": 11,
+      "faltasDias": 9,
+      "presencaDias": 0.9375,
+      "presencaSessoes": 0.9485981308411215,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178839.jpg",
+      "siglaUf": "AC",
+      "siglaPartido": "MDB",
+      "nomeEleitoral": "Jéssica Sales",
+      "ultimoStatus": "2019-02-01T11:45",
+      "gastos": [
+          {
+              "ano": 2019,
+              "mes": 2,
+              "valor": 61637.71
+          },
+          {
+              "ano": 2019,
+              "mes": 3,
+              "valor": 42352.05
+          },
+          {
+              "ano": 2019,
+              "mes": 4,
+              "valor": 47132.79
+          },
+          {
+              "ano": 2019,
+              "mes": 5,
+              "valor": 57445.24
+          },
+          {
+              "ano": 2019,
+              "mes": 6,
+              "valor": 35008.11
+          },
+          {
+              "ano": 2019,
+              "mes": 7,
+              "valor": 48022.07
+          },
+          {
+              "ano": 2019,
+              "mes": 8,
+              "valor": 43219.33
+          },
+          {
+              "ano": 2019,
+              "mes": 9,
+              "valor": 39569.79
+          },
+          {
+              "ano": 2019,
+              "mes": 10,
+              "valor": 46185.3
+          },
+          {
+              "ano": 2019,
+              "mes": 11,
+              "valor": 36861.2
+          },
+          {
+              "ano": 2019,
+              "mes": 12,
+              "valor": 28537.34
+          },
+          {
+              "ano": 2020,
+              "mes": 1,
+              "valor": 32671.16
+          },
+          {
+              "ano": 2020,
+              "mes": 2,
+              "valor": 35307.11
+          },
+          {
+              "ano": 2020,
+              "mes": 3,
+              "valor": 45278.9
+          },
+          {
+              "ano": 2020,
+              "mes": 4,
+              "valor": 31140.88
+          },
+          {
+              "ano": 2020,
+              "mes": 5,
+              "valor": 23286.52
+          },
+          {
+              "ano": 2020,
+              "mes": 6,
+              "valor": 39641.11
+          },
+          {
+              "ano": 2020,
+              "mes": 7,
+              "valor": 49633.42
+          },
+          {
+              "ano": 2020,
+              "mes": 8,
+              "valor": 52215
+          },
+          {
+              "ano": 2020,
+              "mes": 9,
+              "valor": 55497.91
+          },
+          {
+              "ano": 2020,
+              "mes": 10,
+              "valor": 27986.71
+          },
+          {
+              "ano": 2020,
+              "mes": 11,
+              "valor": 51301.81
+          },
+          {
+              "ano": 2020,
+              "mes": 12,
+              "valor": 83308.34
+          },
+          {
+              "ano": 2021,
+              "mes": 1,
+              "valor": 41149.29
+          },
+          {
+              "ano": 2021,
+              "mes": 2,
+              "valor": 53744.99
+          },
+          {
+              "ano": 2021,
+              "mes": 3,
+              "valor": 59452.7
+          },
+          {
+              "ano": 2021,
+              "mes": 4,
+              "valor": 55100
+          }
+      ],
+      "gastoMedio": 45284.695555555554,
+      "gastoMenor": 23286.52,
+      "gastoMaior": 83308.34,
+      "gastoTotal": 1222686.78,
+      "proposicoes": "3"
+  },
+  "gastosPorUnidadeFederativa": {
+      "AC": {
+          "nome": "Acre",
+          "qtdDeputados": 8,
+          "somaGastos": 327009.83648148144
+      },
+      "AL": {
+          "nome": "Alagoas",
+          "qtdDeputados": 9,
+          "somaGastos": 278168.90101139597
+      },
+      "AP": {
+          "nome": "Amapá",
+          "qtdDeputados": 8,
+          "somaGastos": 306739.748994709
+      },
+      "AM": {
+          "nome": "Amazonas",
+          "qtdDeputados": 8,
+          "somaGastos": 273509.50074074074
+      },
+      "BA": {
+          "nome": "Bahia",
+          "qtdDeputados": 39,
+          "somaGastos": 1259817.9885499282
+      },
+      "CE": {
+          "nome": "Ceará",
+          "qtdDeputados": 22,
+          "somaGastos": 672575.4533343305
+      },
+      "DF": {
+          "nome": "Distrito Federal",
+          "qtdDeputados": 8,
+          "somaGastos": 128826.81819172112
+      },
+      "ES": {
+          "nome": "Espírito Santo",
+          "qtdDeputados": 10,
+          "somaGastos": 260985.0411111111
+      },
+      "GO": {
+          "nome": "Goiás",
+          "qtdDeputados": 17,
+          "somaGastos": 458775.63317094016
+      },
+      "MA": {
+          "nome": "Maranhão",
+          "qtdDeputados": 18,
+          "somaGastos": 592962.2355529655
+      },
+      "MT": {
+          "nome": "Mato Grosso",
+          "qtdDeputados": 8,
+          "somaGastos": 228423.22562962963
+      },
+      "MS": {
+          "nome": "Mato Grosso do Sul",
+          "qtdDeputados": 8,
+          "somaGastos": 219937.39037037035
+      },
+      "MG": {
+          "nome": "Minas Gerais",
+          "qtdDeputados": 53,
+          "somaGastos": 1383755.5519617412
+      },
+      "PA": {
+          "nome": "Pará",
+          "qtdDeputados": 17,
+          "somaGastos": 539912.2891760684
+      },
+      "PB": {
+          "nome": "Paraíba",
+          "qtdDeputados": 12,
+          "somaGastos": 389040.70641025645
+      },
+      "PR": {
+          "nome": "Paraná",
+          "qtdDeputados": 30,
+          "somaGastos": 853463.5524700852
+      },
+      "PE": {
+          "nome": "Pernambuco",
+          "qtdDeputados": 25,
+          "somaGastos": 744110.8024537036
+      },
+      "PI": {
+          "nome": "Piauí",
+          "qtdDeputados": 10,
+          "somaGastos": 319855.29170370364
+      },
+      "RJ": {
+          "nome": "Rio de Janeiro",
+          "qtdDeputados": 46,
+          "somaGastos": 1201935.7865527063
+      },
+      "RN": {
+          "nome": "Rio Grande do Norte",
+          "qtdDeputados": 8,
+          "somaGastos": 251783.50154882157
+      },
+      "RS": {
+          "nome": "Rio Grande do Sul",
+          "qtdDeputados": 31,
+          "somaGastos": 771507.7832638889
+      },
+      "RO": {
+          "nome": "Rondônia",
+          "qtdDeputados": 8,
+          "somaGastos": 196827.0818518519
+      },
+      "RR": {
+          "nome": "Roraima",
+          "qtdDeputados": 8,
+          "somaGastos": 276343.68743961357
+      },
+      "SC": {
+          "nome": "Santa Catarina",
+          "qtdDeputados": 16,
+          "somaGastos": 340201.7083420538
+      },
+      "SP": {
+          "nome": "São Paulo",
+          "qtdDeputados": 70,
+          "somaGastos": 1733912.9994183085
+      },
+      "SE": {
+          "nome": "Sergipe",
+          "qtdDeputados": 8,
+          "somaGastos": 264170.03037037037
+      },
+      "TO": {
+          "nome": "Tocantins",
+          "qtdDeputados": 8,
+          "somaGastos": 263170.74
+      }
+  },
+  "gastoMedioTotal": 14537723.286102502,
+  "listaDeputadosMaioresGastos": [
+      {
+          "ideCadastro": "178839",
+          "matricula": "56",
+          "nome": "JESSICA ROJAS SALES",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 11,
+          "faltasDias": 9,
+          "presencaDias": 0.9375,
+          "presencaSessoes": 0.9485981308411215,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178839.jpg",
+          "siglaUf": "AC",
+          "siglaPartido": "MDB",
+          "nomeEleitoral": "Jéssica Sales",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 61637.71
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 42352.05
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 47132.79
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 57445.24
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 35008.11
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 48022.07
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 43219.33
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 39569.79
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 46185.3
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 36861.2
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 28537.34
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 32671.16
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 35307.11
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 45278.9
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 31140.88
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 23286.52
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 39641.11
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 49633.42
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 52215
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 55497.91
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 27986.71
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 51301.81
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 83308.34
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 41149.29
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 53744.99
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 59452.7
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 55100
+              }
+          ],
+          "gastoMedio": 45284.695555555554,
+          "gastoMenor": 23286.52,
+          "gastoMaior": 83308.34,
+          "gastoTotal": 1222686.78,
+          "proposicoes": "3"
+      },
+      {
+          "ideCadastro": "141459",
+          "matricula": "124",
+          "nome": "JOÃO DA SILVA MAIA",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 0,
+          "faltasDias": 0,
+          "presencaDias": 1,
+          "presencaSessoes": 1,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
+          "siglaUf": "RN",
+          "siglaPartido": "PL",
+          "nomeEleitoral": "João Maia",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 35679.69
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 54486.98
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 30695.51
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 67168.22
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 26319.97
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 48394.17
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 90513.3
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 55553.43
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 23881.28
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 31374.92
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 9087.55
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 55354.59
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 78271.72
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 57613.25
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 41776.47
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 41707.35
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 47891.17
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 42552.75
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 40769.88
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 40821.75
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 41830.99
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 19903.1
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 10527.59
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 55358.23
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 51525.27
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 54160.34
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 41973.39
+              }
+          ],
+          "gastoMedio": 44266.40222222222,
+          "gastoMenor": 9087.55,
+          "gastoMaior": 90513.3,
+          "gastoTotal": 1195192.8599999999,
+          "proposicoes": "2"
+      },
+      {
+          "ideCadastro": "204435",
+          "matricula": "52",
+          "nome": "JESUS SERGIO DE MENEZES",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 1,
+          "faltasDias": 1,
+          "presencaDias": 0.9930555555555556,
+          "presencaSessoes": 0.9953271028037384,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204435.jpg",
+          "siglaUf": "AC",
+          "siglaPartido": "PDT",
+          "nomeEleitoral": "Jesus Sérgio",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 16759.62
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 40580.42
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 28339.78
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 19205.65
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 64830.19
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 42458.89
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 34075.87
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 65613.62
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 67480.86
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 46001.15
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 62493.88
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 28395.67
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 58173.76
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 37061.07
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 44652.6
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 38537.33
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 25675.28
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 42798.84
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 67621.89
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 45492.61
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 66747.67
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 76096.91
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 15655.09
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 20098.58
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 47238.32
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 40814.07
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 43973.24
+              }
+          ],
+          "gastoMedio": 43958.25407407408,
+          "gastoMenor": 15655.09,
+          "gastoMaior": 76096.91,
+          "gastoTotal": 1186872.86,
+          "proposicoes": "12"
+      },
+      {
+          "ideCadastro": "204556",
+          "matricula": "42",
+          "nome": "MARCELO RAMOS RODRIGUES",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 0,
+          "faltasDias": 0,
+          "presencaDias": 1,
+          "presencaSessoes": 1,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204556.jpg",
+          "siglaUf": "AM",
+          "siglaPartido": "PL",
+          "nomeEleitoral": "Marcelo Ramos",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 37832.17
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 49923.26
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 46937.19
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 50671.84
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 37294.14
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 40035.27
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 45164.09
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 41666.72
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 43482.38
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 46197.3
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 39608.83
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 40284.79
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 53600.03
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 38456.56
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 41837.23
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 27699.43
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 43730.46
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 51081.88
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 41840.28
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 55204.81
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 45633.54
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 44263.05
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 54640.32
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 33222.11
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 35123.39
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 55226.78
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 37825.92
+              }
+          ],
+          "gastoMedio": 43647.54703703703,
+          "gastoMenor": 27699.43,
+          "gastoMaior": 55226.78,
+          "gastoTotal": 1178483.7699999998,
+          "proposicoes": "175"
+      },
+      {
+          "ideCadastro": "74043",
+          "matricula": "136",
+          "nome": "JOSÉ WELLINGTON ROBERTO",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 1,
+          "faltasDias": 1,
+          "presencaDias": 0.9930555555555556,
+          "presencaSessoes": 0.9953271028037384,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+          "siglaUf": "PB",
+          "siglaPartido": "PL",
+          "nomeEleitoral": "Wellington Roberto",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 38709.55
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 34484.07
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 48194.95
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 48888.37
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 50729.4
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 44169.26
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 38546.69
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 38417.33
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 45596.43
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 39992.63
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 48932.08
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 48398.37
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 36519.81
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 39901.99
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 34823.48
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 50118.97
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 38169.81
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 41208.73
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 42148.67
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 47254.65
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 50912.19
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 47724.82
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 42224.48
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 39754.85
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 40038.08
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 39818.98
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 36059.57
+              }
+          ],
+          "gastoMedio": 42656.97074074074,
+          "gastoMenor": 34484.07,
+          "gastoMaior": 50912.19,
+          "gastoTotal": 1151738.21,
+          "proposicoes": "12"
+      },
+      {
+          "ideCadastro": "73943",
+          "matricula": "58",
+          "nome": "MARIA PERPÉTUA DE ALMEIDA",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 3,
+          "faltasDias": 2,
+          "presencaDias": 0.9861111111111112,
+          "presencaSessoes": 0.985981308411215,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73943.jpg",
+          "siglaUf": "AC",
+          "siglaPartido": "PCdoB",
+          "nomeEleitoral": "Perpétua Almeida",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 23246.65
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 41043.34
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 66029.85
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 59985.6
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 64399.65
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 65360.86
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 45804.14
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 37828.27
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 57254
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 42364.77
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 32357.83
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 40907.94
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 47954.64
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 42940.05
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 24946.07
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 25229.43
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 22819.72
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 25525.6
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 33163.45
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 44534.69
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 45913.31
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 44923.77
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 86534.49
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 28616.47
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 48017.42
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 34212.14
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 19040.87
+              }
+          ],
+          "gastoMedio": 42627.9637037037,
+          "gastoMenor": 19040.87,
+          "gastoMaior": 86534.49,
+          "gastoTotal": 1150955.02,
+          "proposicoes": "41"
+      },
+      {
+          "ideCadastro": "160531",
+          "matricula": "5",
+          "nome": "JOHNATHAN PEREIRA DE JESUS",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 5,
+          "faltasDias": 2,
+          "presencaDias": 0.9861111111111112,
+          "presencaSessoes": 0.9766355140186916,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160531.jpg",
+          "siglaUf": "RR",
+          "siglaPartido": "REPUBLICANOS",
+          "nomeEleitoral": "Jhonatan de Jesus",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 72162.96
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 44897.44
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 34036.98
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 37537.79
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 47169.86
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 48966.82
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 46925.24
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 40216.19
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 39844.78
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 32423.92
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 72061.07
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 38002.55
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 41779.4
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 26083.77
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 18197.66
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 28249.76
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 24345.28
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 8481.73
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 18320.53
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 24247.77
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 28180.06
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 154255.19
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 99274.03
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 23729.82
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 25176.14
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 55000
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 10000
+              }
+          ],
+          "gastoMedio": 42206.175555555565,
+          "gastoMenor": 8481.73,
+          "gastoMaior": 154255.19,
+          "gastoTotal": 1139566.7400000002,
+          "proposicoes": "1"
+      },
+      {
+          "ideCadastro": "74044",
+          "matricula": "138",
+          "nome": "JOSÉ WILSON SANTIAGO",
+          "dias": 142,
+          "sessoes": 211,
+          "faltasSessoes": 0,
+          "faltasDias": 0,
+          "presencaDias": 1,
+          "presencaSessoes": 1,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
+          "siglaUf": "PB",
+          "siglaPartido": "PTB",
+          "nomeEleitoral": "Wilson Santiago",
+          "ultimoStatus": "2020-02-05T22:46",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 17697.59
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 27791.53
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 36866.11
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 22380.99
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 43376.93
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 60757.67
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 71397.32
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 74340.99
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 49486.12
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 32216.02
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 8713.49
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 0
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 18499.6
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 15293.61
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 34411.88
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 41165.78
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 32341.13
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 73353.71
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 35942.3
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 31244.92
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 50111.59
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 53255.39
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 70755.58
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 43784.19
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 65075.27
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 47968.77
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 34042.52
+              }
+          ],
+          "gastoMedio": 42010.42307692308,
+          "gastoMenor": 0,
+          "gastoMaior": 74340.99,
+          "gastoTotal": 1092271,
+          "proposicoes": "11"
+      },
+      {
+          "ideCadastro": "178921",
+          "matricula": "159",
+          "nome": "SEBASTIAO IGNACIO DE OLIVEIRA JUNIOR",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 42,
+          "faltasDias": 29,
+          "presencaDias": 0.7986111111111112,
+          "presencaSessoes": 0.8037383177570093,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178921.jpg",
+          "siglaUf": "PE",
+          "siglaPartido": "AVANTE",
+          "nomeEleitoral": "Sebastião Oliveira",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 22586.64
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 27932.34
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 29006.35
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 36165.27
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 57915.75
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 39341.25
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 53415.5
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 54971.2
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 57988.38
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 56943.15
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 27879.7
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 54839.67
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 46810.53
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 34993.03
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 17864.82
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 19116.15
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 21767.23
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 39740.91
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 40681.51
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 46525.4
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 45575.18
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 84617.4
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 43969.27
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 31067.95
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 50542.71
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 45914.72
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 36556.58
+              }
+          ],
+          "gastoMedio": 41656.61444444445,
+          "gastoMenor": 17864.82,
+          "gastoMaior": 84617.4,
+          "gastoTotal": 1124728.59,
+          "proposicoes": "3"
+      },
+      {
+          "ideCadastro": "204353",
+          "matricula": "11",
+          "nome": "ALINE PARANHOS VARONIL GURGEL",
+          "dias": 144,
+          "sessoes": 214,
+          "faltasSessoes": 24,
+          "faltasDias": 19,
+          "presencaDias": 0.8680555555555556,
+          "presencaSessoes": 0.8878504672897196,
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+          "siglaUf": "AP",
+          "siglaPartido": "REPUBLICANOS",
+          "nomeEleitoral": "Aline Gurgel",
+          "ultimoStatus": "2019-02-01T11:45",
+          "gastos": [
+              {
+                  "ano": 2019,
+                  "mes": 2,
+                  "valor": 42043.4
+              },
+              {
+                  "ano": 2019,
+                  "mes": 3,
+                  "valor": 59640.05
+              },
+              {
+                  "ano": 2019,
+                  "mes": 4,
+                  "valor": 52913.66
+              },
+              {
+                  "ano": 2019,
+                  "mes": 5,
+                  "valor": 36266.47
+              },
+              {
+                  "ano": 2019,
+                  "mes": 6,
+                  "valor": 40172.79
+              },
+              {
+                  "ano": 2019,
+                  "mes": 7,
+                  "valor": 54397.63
+              },
+              {
+                  "ano": 2019,
+                  "mes": 8,
+                  "valor": 38563.62
+              },
+              {
+                  "ano": 2019,
+                  "mes": 9,
+                  "valor": 35802.07
+              },
+              {
+                  "ano": 2019,
+                  "mes": 10,
+                  "valor": 60561.78
+              },
+              {
+                  "ano": 2019,
+                  "mes": 11,
+                  "valor": 16967.73
+              },
+              {
+                  "ano": 2019,
+                  "mes": 12,
+                  "valor": 28434.95
+              },
+              {
+                  "ano": 2020,
+                  "mes": 1,
+                  "valor": 46286.45
+              },
+              {
+                  "ano": 2020,
+                  "mes": 2,
+                  "valor": 30325.95
+              },
+              {
+                  "ano": 2020,
+                  "mes": 3,
+                  "valor": 56711.94
+              },
+              {
+                  "ano": 2020,
+                  "mes": 4,
+                  "valor": 21008.04
+              },
+              {
+                  "ano": 2020,
+                  "mes": 5,
+                  "valor": 12735.71
+              },
+              {
+                  "ano": 2020,
+                  "mes": 6,
+                  "valor": 40735.71
+              },
+              {
+                  "ano": 2020,
+                  "mes": 7,
+                  "valor": 44037.46
+              },
+              {
+                  "ano": 2020,
+                  "mes": 8,
+                  "valor": 55575.72
+              },
+              {
+                  "ano": 2020,
+                  "mes": 9,
+                  "valor": 57156.44
+              },
+              {
+                  "ano": 2020,
+                  "mes": 10,
+                  "valor": 49235.72
+              },
+              {
+                  "ano": 2020,
+                  "mes": 11,
+                  "valor": 64456.17
+              },
+              {
+                  "ano": 2020,
+                  "mes": 12,
+                  "valor": 12735.72
+              },
+              {
+                  "ano": 2021,
+                  "mes": 1,
+                  "valor": 53412
+              },
+              {
+                  "ano": 2021,
+                  "mes": 2,
+                  "valor": 56771.09
+              },
+              {
+                  "ano": 2021,
+                  "mes": 3,
+                  "valor": 15970.61
+              },
+              {
+                  "ano": 2021,
+                  "mes": 4,
+                  "valor": 38270
+              }
+          ],
+          "gastoMedio": 41525.51407407407,
+          "gastoMenor": 12735.71,
+          "gastoMaior": 64456.17,
+          "gastoTotal": 1121188.88,
+          "proposicoes": "9"
+      }
+  ],
+  "quantidadeDeputados": 513,
+  "gastosPorPartido": {
+      "MDB": {
+          "somaGastos": 1013105.4661842901,
+          "qtdDeputados": 34
+      },
+      "PTB": {
+          "somaGastos": 328961.6301139602,
+          "qtdDeputados": 10
+      },
+      "PDT": {
+          "somaGastos": 786459.093988604,
+          "qtdDeputados": 25
+      },
+      "PT": {
+          "somaGastos": 1707935.4798376067,
+          "qtdDeputados": 53
+      },
+      "DEM": {
+          "somaGastos": 833572.513857258,
+          "qtdDeputados": 29
+      },
+      "PCdoB": {
+          "somaGastos": 233372.81074074077,
+          "qtdDeputados": 7
+      },
+      "PSB": {
+          "somaGastos": 737639.088081624,
+          "qtdDeputados": 30
+      },
+      "PSDB": {
+          "somaGastos": 887181.3221666665,
+          "qtdDeputados": 33
+      },
+      "PTC": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "PSC": {
+          "somaGastos": 311511.20098148147,
+          "qtdDeputados": 11
+      },
+      "PMN": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "CIDADANIA": {
+          "somaGastos": 161705.7311538462,
+          "qtdDeputados": 7
+      },
+      "PV": {
+          "somaGastos": 85002.19185185185,
+          "qtdDeputados": 4
+      },
+      "AVANTE": {
+          "somaGastos": 224996.14603059585,
+          "qtdDeputados": 8
+      },
+      "PP": {
+          "somaGastos": 1155491.5690250546,
+          "qtdDeputados": 40
+      },
+      "PSTU": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "PCB": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "PRTB": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "DC": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "PCO": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "PODE": {
+          "somaGastos": 261437.82529629627,
+          "qtdDeputados": 10
+      },
+      "PSL": {
+          "somaGastos": 1318166.9625641026,
+          "qtdDeputados": 53
+      },
+      "REPUBLICANOS": {
+          "somaGastos": 988344.7710292019,
+          "qtdDeputados": 33
+      },
+      "PSOL": {
+          "somaGastos": 232982.9062962963,
+          "qtdDeputados": 10
+      },
+      "PL": {
+          "somaGastos": 1251487.2789076462,
+          "qtdDeputados": 41
+      },
+      "PSD": {
+          "somaGastos": 982972.5824404149,
+          "qtdDeputados": 35
+      },
+      "PATRIOTA": {
+          "somaGastos": 180403.62814814816,
+          "qtdDeputados": 6
+      },
+      "PROS": {
+          "somaGastos": 336691.0226595053,
+          "qtdDeputados": 11
+      },
+      "SOLIDARIEDADE": {
+          "somaGastos": 432293.9100322061,
+          "qtdDeputados": 14
+      },
+      "NOVO": {
+          "somaGastos": 59029.113233618235,
+          "qtdDeputados": 8
+      },
+      "REDE": {
+          "somaGastos": 26979.041481481476,
+          "qtdDeputados": 1
+      },
+      "PMB": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      },
+      "UP": {
+          "somaGastos": 0,
+          "qtdDeputados": 0
+      }
+  },
+  "listaCompleta": [
+      {
+          "nome": "Jéssica Sales",
+          "partido": "MDB",
+          "uf": "AC",
+          "gastoMedio": 45284.695555555554
+      },
+      {
+          "nome": "João Maia",
+          "partido": "PL",
+          "uf": "RN",
+          "gastoMedio": 44266.40222222222
+      },
+      {
+          "nome": "Jesus Sérgio",
+          "partido": "PDT",
+          "uf": "AC",
+          "gastoMedio": 43958.25407407408
+      },
+      {
+          "nome": "Marcelo Ramos",
+          "partido": "PL",
+          "uf": "AM",
+          "gastoMedio": 43647.54703703703
+      },
+      {
+          "nome": "Wellington Roberto",
+          "partido": "PL",
+          "uf": "PB",
+          "gastoMedio": 42656.97074074074
+      },
+      {
+          "nome": "Perpétua Almeida",
+          "partido": "PCdoB",
+          "uf": "AC",
+          "gastoMedio": 42627.9637037037
+      },
+      {
+          "nome": "Jhonatan de Jesus",
+          "partido": "REPUBLICANOS",
+          "uf": "RR",
+          "gastoMedio": 42206.175555555565
+      },
+      {
+          "nome": "Wilson Santiago",
+          "partido": "PTB",
+          "uf": "PB",
+          "gastoMedio": 42010.42307692308
+      },
+      {
+          "nome": "Sebastião Oliveira",
+          "partido": "AVANTE",
+          "uf": "PE",
+          "gastoMedio": 41656.61444444445
+      },
+      {
+          "nome": "Aline Gurgel",
+          "partido": "REPUBLICANOS",
+          "uf": "AP",
+          "gastoMedio": 41525.51407407407
+      },
+      {
+          "nome": "Juscelino Filho",
+          "partido": "DEM",
+          "uf": "MA",
+          "gastoMedio": 41335.864444444436
+      },
+      {
+          "nome": "Dra. Vanda Milani",
+          "partido": "SOLIDARIEDADE",
+          "uf": "AC",
+          "gastoMedio": 41273.486666666664
+      },
+      {
+          "nome": "Luiz Carlos",
+          "partido": "PSDB",
+          "uf": "AP",
+          "gastoMedio": 41193.078518518516
+      },
+      {
+          "nome": "Delegado Éder Mauro",
+          "partido": "PSD",
+          "uf": "PA",
+          "gastoMedio": 41111.6014814815
+      },
+      {
+          "nome": "Silas Câmara",
+          "partido": "REPUBLICANOS",
+          "uf": "AM",
+          "gastoMedio": 40926.98666666668
+      },
+      {
+          "nome": "Flaviano Melo",
+          "partido": "MDB",
+          "uf": "AC",
+          "gastoMedio": 40727.86074074074
+      },
+      {
+          "nome": "João Daniel",
+          "partido": "PT",
+          "uf": "SE",
+          "gastoMedio": 40458.45777777778
+      },
+      {
+          "nome": "Beto Faro",
+          "partido": "PT",
+          "uf": "PA",
+          "gastoMedio": 40313.46518518519
+      },
+      {
+          "nome": "Vinicius Gurgel",
+          "partido": "PL",
+          "uf": "AP",
+          "gastoMedio": 40304.74714285714
+      },
+      {
+          "nome": "Coronel Chrisóstomo",
+          "partido": "PSL",
+          "uf": "RO",
+          "gastoMedio": 40044.090740740736
+      },
+      {
+          "nome": "Marreca Filho",
+          "partido": "PATRIOTA",
+          "uf": "MA",
+          "gastoMedio": 39897.864444444436
+      },
+      {
+          "nome": "Edilázio Júnior",
+          "partido": "PSD",
+          "uf": "MA",
+          "gastoMedio": 39883.707407407404
+      },
+      {
+          "nome": "Júlio Cesar",
+          "partido": "PSD",
+          "uf": "PI",
+          "gastoMedio": 39843.17148148148
+      },
+      {
+          "nome": "João Marcelo Souza",
+          "partido": "MDB",
+          "uf": "MA",
+          "gastoMedio": 39834.154814814814
+      },
+      {
+          "nome": "Camilo Capiberibe",
+          "partido": "PSB",
+          "uf": "AP",
+          "gastoMedio": 39798.66814814814
+      },
+      {
+          "nome": "Cássio Andrade",
+          "partido": "PSB",
+          "uf": "PA",
+          "gastoMedio": 39697.18615384615
+      },
+      {
+          "nome": "Flávio Nogueira",
+          "partido": "PDT",
+          "uf": "PI",
+          "gastoMedio": 39534.979629629626
+      },
+      {
+          "nome": "Edna Henrique",
+          "partido": "PSDB",
+          "uf": "PB",
+          "gastoMedio": 39471.00592592593
+      },
+      {
+          "nome": "Sidney Leite",
+          "partido": "PSD",
+          "uf": "AM",
+          "gastoMedio": 39396.88148148149
+      },
+      {
+          "nome": "Vicentinho Júnior",
+          "partido": "PL",
+          "uf": "TO",
+          "gastoMedio": 39305.75111111112
+      },
+      {
+          "nome": "Mara Rocha",
+          "partido": "PSDB",
+          "uf": "AC",
+          "gastoMedio": 39255.34925925927
+      },
+      {
+          "nome": "Hildo Rocha",
+          "partido": "MDB",
+          "uf": "MA",
+          "gastoMedio": 39249.014814814815
+      },
+      {
+          "nome": "Silvia Cristina",
+          "partido": "PDT",
+          "uf": "RO",
+          "gastoMedio": 39247.56703703704
+      },
+      {
+          "nome": "Vaidon Oliveira",
+          "partido": "PROS",
+          "uf": "CE",
+          "gastoMedio": 39246.1336
+      },
+      {
+          "nome": "Ricardo Teobaldo",
+          "partido": "PODE",
+          "uf": "PE",
+          "gastoMedio": 39220.31444444443
+      },
+      {
+          "nome": "Gonzaga Patriota",
+          "partido": "PSB",
+          "uf": "PE",
+          "gastoMedio": 39155.800740740735
+      },
+      {
+          "nome": "Pedro Lucas Fernandes",
+          "partido": "PTB",
+          "uf": "MA",
+          "gastoMedio": 39092.089259259265
+      },
+      {
+          "nome": "Gil Cutrim",
+          "partido": "REPUBLICANOS",
+          "uf": "MA",
+          "gastoMedio": 39063.038888888885
+      },
+      {
+          "nome": "Nereu Crispim",
+          "partido": "PSL",
+          "uf": "RS",
+          "gastoMedio": 39006.78
+      },
+      {
+          "nome": "Daniel Almeida",
+          "partido": "PCdoB",
+          "uf": "BA",
+          "gastoMedio": 38986.09925925927
+      },
+      {
+          "nome": "Boca Aberta",
+          "partido": "PROS",
+          "uf": "PR",
+          "gastoMedio": 38773.969259259255
+      },
+      {
+          "nome": "Haroldo Cathedral",
+          "partido": "PSD",
+          "uf": "RR",
+          "gastoMedio": 38702.520740740736
+      },
+      {
+          "nome": "André Abdon",
+          "partido": "PP",
+          "uf": "AP",
+          "gastoMedio": 38654.13148148148
+      },
+      {
+          "nome": "Alan Rick",
+          "partido": "DEM",
+          "uf": "AC",
+          "gastoMedio": 38621.708148148144
+      },
+      {
+          "nome": "AJ Albuquerque",
+          "partido": "PP",
+          "uf": "CE",
+          "gastoMedio": 38511.608888888884
+      },
+      {
+          "nome": "Fábio Henrique",
+          "partido": "PDT",
+          "uf": "SE",
+          "gastoMedio": 38415.559259259266
+      },
+      {
+          "nome": "Paulo Bengtson",
+          "partido": "PTB",
+          "uf": "PA",
+          "gastoMedio": 38304.89481481481
+      },
+      {
+          "nome": "Olival Marques",
+          "partido": "DEM",
+          "uf": "PA",
+          "gastoMedio": 38248.85851851852
+      },
+      {
+          "nome": "Frei Anastacio Ribeiro",
+          "partido": "PT",
+          "uf": "PB",
+          "gastoMedio": 38115.57962962964
+      },
+      {
+          "nome": "Nivaldo Albuquerque",
+          "partido": "PTB",
+          "uf": "AL",
+          "gastoMedio": 38080.071851851855
+      },
+      {
+          "nome": "Tereza Nelma",
+          "partido": "PSDB",
+          "uf": "AL",
+          "gastoMedio": 38054.15259259259
+      },
+      {
+          "nome": "José Guimarães",
+          "partido": "PT",
+          "uf": "CE",
+          "gastoMedio": 38050.73481481482
+      },
+      {
+          "nome": "Joseildo Ramos",
+          "partido": "PT",
+          "uf": "BA",
+          "gastoMedio": 37998.11461538461
+      },
+      {
+          "nome": "Airton Faleiro",
+          "partido": "PT",
+          "uf": "PA",
+          "gastoMedio": 37862.22888888889
+      },
+      {
+          "nome": "Beto Rosado",
+          "partido": "PP",
+          "uf": "RN",
+          "gastoMedio": 37861.50222222222
+      },
+      {
+          "nome": "Júnior Mano",
+          "partido": "PL",
+          "uf": "CE",
+          "gastoMedio": 37857.602592592586
+      },
+      {
+          "nome": "José Airton Félix Cirilo",
+          "partido": "PT",
+          "uf": "CE",
+          "gastoMedio": 37848.06259259259
+      },
+      {
+          "nome": "Eduardo Costa",
+          "partido": "PTB",
+          "uf": "PA",
+          "gastoMedio": 37819.749259259246
+      },
+      {
+          "nome": "Fernando Rodolfo",
+          "partido": "PL",
+          "uf": "PE",
+          "gastoMedio": 37710.34888888889
+      },
+      {
+          "nome": "Ronaldo Carletto",
+          "partido": "PP",
+          "uf": "BA",
+          "gastoMedio": 37625.3811111111
+      },
+      {
+          "nome": "Fábio Mitidieri",
+          "partido": "PSD",
+          "uf": "SE",
+          "gastoMedio": 37603.938148148154
+      },
+      {
+          "nome": "Domingos Neto",
+          "partido": "PSD",
+          "uf": "CE",
+          "gastoMedio": 37590.995
+      },
+      {
+          "nome": "Gleisi Hoffmann",
+          "partido": "PT",
+          "uf": "PR",
+          "gastoMedio": 37537.321851851855
+      },
+      {
+          "nome": "Hugo Motta",
+          "partido": "REPUBLICANOS",
+          "uf": "PB",
+          "gastoMedio": 37529.92555555556
+      },
+      {
+          "nome": "Ossesio Silva",
+          "partido": "REPUBLICANOS",
+          "uf": "PE",
+          "gastoMedio": 37520.92555555556
+      },
+      {
+          "nome": "Ottaci Nascimento",
+          "partido": "SOLIDARIEDADE",
+          "uf": "RR",
+          "gastoMedio": 37518.47521739131
+      },
+      {
+          "nome": "Junior Lourenço",
+          "partido": "PL",
+          "uf": "MA",
+          "gastoMedio": 37452.40090909091
+      },
+      {
+          "nome": "Tito",
+          "partido": "AVANTE",
+          "uf": "BA",
+          "gastoMedio": 37403.816956521754
+      },
+      {
+          "nome": "Alexandre Frota",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 37374.47666666666
+      },
+      {
+          "nome": "José Ricardo",
+          "partido": "PT",
+          "uf": "AM",
+          "gastoMedio": 37275.78111111111
+      },
+      {
+          "nome": "Dagoberto Nogueira",
+          "partido": "PDT",
+          "uf": "MS",
+          "gastoMedio": 37272.79555555555
+      },
+      {
+          "nome": "Beto Pereira",
+          "partido": "PSDB",
+          "uf": "MS",
+          "gastoMedio": 37270.450370370374
+      },
+      {
+          "nome": "Celso Sabino",
+          "partido": "PSDB",
+          "uf": "PA",
+          "gastoMedio": 37231.36000000001
+      },
+      {
+          "nome": "Acácio Favacho",
+          "partido": "PROS",
+          "uf": "AP",
+          "gastoMedio": 37146.80037037037
+      },
+      {
+          "nome": "Vavá Martins",
+          "partido": "REPUBLICANOS",
+          "uf": "PA",
+          "gastoMedio": 37138.02740740742
+      },
+      {
+          "nome": "Uldurico Junior",
+          "partido": "PROS",
+          "uf": "BA",
+          "gastoMedio": 37069.657692307694
+      },
+      {
+          "nome": "Luizianne Lins",
+          "partido": "PT",
+          "uf": "CE",
+          "gastoMedio": 37007.206666666665
+      },
+      {
+          "nome": "Eduardo Bismarck",
+          "partido": "PDT",
+          "uf": "CE",
+          "gastoMedio": 37002.682592592595
+      },
+      {
+          "nome": "Alex Santana",
+          "partido": "PDT",
+          "uf": "BA",
+          "gastoMedio": 36960.43407407407
+      },
+      {
+          "nome": "Aníbal Gomes",
+          "partido": "DEM",
+          "uf": "CE",
+          "gastoMedio": 36946.20444444444
+      },
+      {
+          "nome": "Margarete Coelho",
+          "partido": "PP",
+          "uf": "PI",
+          "gastoMedio": 36885.3674074074
+      },
+      {
+          "nome": "Silvio Costa Filho",
+          "partido": "REPUBLICANOS",
+          "uf": "PE",
+          "gastoMedio": 36865.380370370374
+      },
+      {
+          "nome": "Cristiano Vale",
+          "partido": "PL",
+          "uf": "PA",
+          "gastoMedio": 36852.411851851844
+      },
+      {
+          "nome": "Herculano Passos",
+          "partido": "MDB",
+          "uf": "SP",
+          "gastoMedio": 36707.60333333333
+      },
+      {
+          "nome": "Augusto Coutinho",
+          "partido": "SOLIDARIEDADE",
+          "uf": "PE",
+          "gastoMedio": 36680.27888888889
+      },
+      {
+          "nome": "Marcelo Nilo",
+          "partido": "PSB",
+          "uf": "BA",
+          "gastoMedio": 36664.12407407407
+      },
+      {
+          "nome": "Marx Beltrão",
+          "partido": "PSD",
+          "uf": "AL",
+          "gastoMedio": 36662.853333333325
+      },
+      {
+          "nome": "Afonso Motta",
+          "partido": "PDT",
+          "uf": "RS",
+          "gastoMedio": 36604.61481481481
+      },
+      {
+          "nome": "Zeca Dirceu",
+          "partido": "PT",
+          "uf": "PR",
+          "gastoMedio": 36601.09370370371
+      },
+      {
+          "nome": "Cleber Verde",
+          "partido": "REPUBLICANOS",
+          "uf": "MA",
+          "gastoMedio": 36597.510416666664
+      },
+      {
+          "nome": "Roman",
+          "partido": "PATRIOTA",
+          "uf": "PR",
+          "gastoMedio": 36568.27074074075
+      },
+      {
+          "nome": "Shéridan",
+          "partido": "PSDB",
+          "uf": "RR",
+          "gastoMedio": 36553.9162962963
+      },
+      {
+          "nome": "Hélio Leite",
+          "partido": "DEM",
+          "uf": "PA",
+          "gastoMedio": 36543.29037037036
+      },
+      {
+          "nome": "José Nunes",
+          "partido": "PSD",
+          "uf": "BA",
+          "gastoMedio": 36541.91703703704
+      },
+      {
+          "nome": "Zé Neto",
+          "partido": "PT",
+          "uf": "BA",
+          "gastoMedio": 36416.04037037037
+      },
+      {
+          "nome": "Osires Damaso",
+          "partido": "PSC",
+          "uf": "TO",
+          "gastoMedio": 36335.08740740741
+      },
+      {
+          "nome": "Marina Santos",
+          "partido": "SOLIDARIEDADE",
+          "uf": "PI",
+          "gastoMedio": 36332.31185185185
+      },
+      {
+          "nome": "Leonardo Gadelha",
+          "partido": "PSC",
+          "uf": "PB",
+          "gastoMedio": 36321.98
+      },
+      {
+          "nome": "Professor Alcides",
+          "partido": "PP",
+          "uf": "GO",
+          "gastoMedio": 36233.87444444446
+      },
+      {
+          "nome": "Paulo Pimenta",
+          "partido": "PT",
+          "uf": "RS",
+          "gastoMedio": 36149.77333333333
+      },
+      {
+          "nome": "Marcos Aurélio Sampaio",
+          "partido": "MDB",
+          "uf": "PI",
+          "gastoMedio": 36097.90333333333
+      },
+      {
+          "nome": "Enio Verri",
+          "partido": "PT",
+          "uf": "PR",
+          "gastoMedio": 36084.08148148148
+      },
+      {
+          "nome": "Loester Trutis",
+          "partido": "PSL",
+          "uf": "MS",
+          "gastoMedio": 36058.6574074074
+      },
+      {
+          "nome": "Paulo Teixeira",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 35964.97185185186
+      },
+      {
+          "nome": "Heitor Freire",
+          "partido": "PSL",
+          "uf": "CE",
+          "gastoMedio": 35963.98555555556
+      },
+      {
+          "nome": "Lafayette de Andrada",
+          "partido": "REPUBLICANOS",
+          "uf": "MG",
+          "gastoMedio": 35961.30074074074
+      },
+      {
+          "nome": "Euclydes Pettersen",
+          "partido": "PSC",
+          "uf": "MG",
+          "gastoMedio": 35960.054444444446
+      },
+      {
+          "nome": "Sergio Souza",
+          "partido": "MDB",
+          "uf": "PR",
+          "gastoMedio": 35918.834074074075
+      },
+      {
+          "nome": "Iracema Portella",
+          "partido": "PP",
+          "uf": "PI",
+          "gastoMedio": 35917.68518518518
+      },
+      {
+          "nome": "Misael Varella",
+          "partido": "PSD",
+          "uf": "MG",
+          "gastoMedio": 35875.95807692307
+      },
+      {
+          "nome": "Roberto Alves",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 35870.28407407408
+      },
+      {
+          "nome": "Afonso Florence",
+          "partido": "PT",
+          "uf": "BA",
+          "gastoMedio": 35865.95703703704
+      },
+      {
+          "nome": "Leur Lomanto Júnior",
+          "partido": "DEM",
+          "uf": "BA",
+          "gastoMedio": 35860.29
+      },
+      {
+          "nome": "Charles Fernandes",
+          "partido": "PSD",
+          "uf": "BA",
+          "gastoMedio": 35856.90259259259
+      },
+      {
+          "nome": "Gustinho Ribeiro",
+          "partido": "SOLIDARIEDADE",
+          "uf": "SE",
+          "gastoMedio": 35842.38296296297
+      },
+      {
+          "nome": "Dra. Soraya Manato",
+          "partido": "PSL",
+          "uf": "ES",
+          "gastoMedio": 35822.47
+      },
+      {
+          "nome": "Abílio Santana",
+          "partido": "PL",
+          "uf": "BA",
+          "gastoMedio": 35808.07888888888
+      },
+      {
+          "nome": "Giovani Cherini",
+          "partido": "PL",
+          "uf": "RS",
+          "gastoMedio": 35715.86814814815
+      },
+      {
+          "nome": "Josimar Maranhãozinho",
+          "partido": "PL",
+          "uf": "MA",
+          "gastoMedio": 35679.10458333334
+      },
+      {
+          "nome": "Orlando Silva",
+          "partido": "PCdoB",
+          "uf": "SP",
+          "gastoMedio": 35531.392222222225
+      },
+      {
+          "nome": "Elmar Nascimento",
+          "partido": "DEM",
+          "uf": "BA",
+          "gastoMedio": 35471.094814814816
+      },
+      {
+          "nome": "Aelton Freitas",
+          "partido": "PL",
+          "uf": "MG",
+          "gastoMedio": 35404.785
+      },
+      {
+          "nome": "Sergio Toledo",
+          "partido": "PL",
+          "uf": "AL",
+          "gastoMedio": 35383.32111111112
+      },
+      {
+          "nome": "André Figueiredo",
+          "partido": "PDT",
+          "uf": "CE",
+          "gastoMedio": 35335.55222222222
+      },
+      {
+          "nome": "Aroldo Martins",
+          "partido": "REPUBLICANOS",
+          "uf": "PR",
+          "gastoMedio": 35293.644814814805
+      },
+      {
+          "nome": "LEO DE BRITO",
+          "partido": "PT",
+          "uf": "AC",
+          "gastoMedio": 35260.51833333333
+      },
+      {
+          "nome": "José Rocha",
+          "partido": "PL",
+          "uf": "BA",
+          "gastoMedio": 35246.86074074073
+      },
+      {
+          "nome": "Pompeo de Mattos",
+          "partido": "PDT",
+          "uf": "RS",
+          "gastoMedio": 35243.18222222223
+      },
+      {
+          "nome": "Toninho Wandscheer",
+          "partido": "PROS",
+          "uf": "PR",
+          "gastoMedio": 35230.44851851851
+      },
+      {
+          "nome": "Waldenor Pereira",
+          "partido": "PT",
+          "uf": "BA",
+          "gastoMedio": 35215.00740740741
+      },
+      {
+          "nome": "Capitão Augusto",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 35179.39962962963
+      },
+      {
+          "nome": "Vander Loubet",
+          "partido": "PT",
+          "uf": "MS",
+          "gastoMedio": 35124.043333333335
+      },
+      {
+          "nome": "Félix Mendonça Júnior",
+          "partido": "PDT",
+          "uf": "BA",
+          "gastoMedio": 35082.81407407407
+      },
+      {
+          "nome": "Efraim Filho",
+          "partido": "DEM",
+          "uf": "PB",
+          "gastoMedio": 35031.69814814815
+      },
+      {
+          "nome": "Raimundo Costa",
+          "partido": "PL",
+          "uf": "BA",
+          "gastoMedio": 34998.45444444445
+      },
+      {
+          "nome": "Claudio Cajado",
+          "partido": "PP",
+          "uf": "BA",
+          "gastoMedio": 34947.73259259259
+      },
+      {
+          "nome": "Severino Pessoa",
+          "partido": "REPUBLICANOS",
+          "uf": "AL",
+          "gastoMedio": 34709.30730769231
+      },
+      {
+          "nome": "Fabio Reis",
+          "partido": "MDB",
+          "uf": "SE",
+          "gastoMedio": 34706.82925925925
+      },
+      {
+          "nome": "Marília Arraes",
+          "partido": "PT",
+          "uf": "PE",
+          "gastoMedio": 34669.88629629629
+      },
+      {
+          "nome": "Arthur Oliveira Maia",
+          "partido": "DEM",
+          "uf": "BA",
+          "gastoMedio": 34628.84666666667
+      },
+      {
+          "nome": "Pedro Augusto Bezerra",
+          "partido": "PTB",
+          "uf": "CE",
+          "gastoMedio": 34618.59814814814
+      },
+      {
+          "nome": "Luisa Canziani",
+          "partido": "PTB",
+          "uf": "PR",
+          "gastoMedio": 34482.75444444445
+      },
+      {
+          "nome": "Vermelho",
+          "partido": "PSD",
+          "uf": "PR",
+          "gastoMedio": 34446.154814814814
+      },
+      {
+          "nome": "Julian Lemos",
+          "partido": "PSL",
+          "uf": "PB",
+          "gastoMedio": 34430.30814814814
+      },
+      {
+          "nome": "Vinicius Farah",
+          "partido": "MDB",
+          "uf": "RJ",
+          "gastoMedio": 34421.47
+      },
+      {
+          "nome": "Luiz Nishimori",
+          "partido": "PL",
+          "uf": "PR",
+          "gastoMedio": 34379.17814814815
+      },
+      {
+          "nome": "Alice Portugal",
+          "partido": "PCdoB",
+          "uf": "BA",
+          "gastoMedio": 34348.32000000001
+      },
+      {
+          "nome": "Lauriete",
+          "partido": "PSC",
+          "uf": "ES",
+          "gastoMedio": 34324.37296296296
+      },
+      {
+          "nome": "Carlos Veras",
+          "partido": "PT",
+          "uf": "PE",
+          "gastoMedio": 34307.96851851852
+      },
+      {
+          "nome": "Leda Sadala",
+          "partido": "AVANTE",
+          "uf": "AP",
+          "gastoMedio": 34258.57888888889
+      },
+      {
+          "nome": "Da Vitoria",
+          "partido": "CIDADANIA",
+          "uf": "ES",
+          "gastoMedio": 34220.16296296296
+      },
+      {
+          "nome": "Moses Rodrigues",
+          "partido": "MDB",
+          "uf": "CE",
+          "gastoMedio": 34203.24307692308
+      },
+      {
+          "nome": "Bacelar",
+          "partido": "PODE",
+          "uf": "BA",
+          "gastoMedio": 34199.68185185185
+      },
+      {
+          "nome": "Nilson Pinto",
+          "partido": "PSDB",
+          "uf": "PA",
+          "gastoMedio": 34145.71703703704
+      },
+      {
+          "nome": "Paulo Guedes",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 34119.8962962963
+      },
+      {
+          "nome": "Odair Cunha",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 34068.61444444444
+      },
+      {
+          "nome": "Daniel Silveira",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 34009.00185185185
+      },
+      {
+          "nome": "Juninho do Pneu",
+          "partido": "DEM",
+          "uf": "RJ",
+          "gastoMedio": 33914.79074074075
+      },
+      {
+          "nome": "Dulce Miranda",
+          "partido": "MDB",
+          "uf": "TO",
+          "gastoMedio": 33873.61592592593
+      },
+      {
+          "nome": "Professora Marcivania",
+          "partido": "PCdoB",
+          "uf": "AP",
+          "gastoMedio": 33858.23037037038
+      },
+      {
+          "nome": "Hiran Gonçalves",
+          "partido": "PP",
+          "uf": "RR",
+          "gastoMedio": 33776.08333333333
+      },
+      {
+          "nome": "Alceu Moreira",
+          "partido": "MDB",
+          "uf": "RS",
+          "gastoMedio": 33773.403333333335
+      },
+      {
+          "nome": "Vinicius Carvalho",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 33726.765185185184
+      },
+      {
+          "nome": "Alexandre Leite",
+          "partido": "DEM",
+          "uf": "SP",
+          "gastoMedio": 33704.32703703704
+      },
+      {
+          "nome": "Mário Negromonte Jr.",
+          "partido": "PP",
+          "uf": "BA",
+          "gastoMedio": 33689.08444444444
+      },
+      {
+          "nome": "Giacobo",
+          "partido": "PL",
+          "uf": "PR",
+          "gastoMedio": 33680.181851851856
+      },
+      {
+          "nome": "Walter Alves",
+          "partido": "MDB",
+          "uf": "RN",
+          "gastoMedio": 33612.07962962962
+      },
+      {
+          "nome": "Paulo Freire Costa",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 33536.91192307692
+      },
+      {
+          "nome": "Padre João",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 33516.0262962963
+      },
+      {
+          "nome": "Rubens Otoni",
+          "partido": "PT",
+          "uf": "GO",
+          "gastoMedio": 33419.46185185185
+      },
+      {
+          "nome": "Alencar Santana Braga",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 33417.986296296294
+      },
+      {
+          "nome": "Tiago Dimas",
+          "partido": "SOLIDARIEDADE",
+          "uf": "TO",
+          "gastoMedio": 33411.764814814815
+      },
+      {
+          "nome": "Alex Manente",
+          "partido": "CIDADANIA",
+          "uf": "SP",
+          "gastoMedio": 33297.69703703703
+      },
+      {
+          "nome": "Domingos Sávio",
+          "partido": "PSDB",
+          "uf": "MG",
+          "gastoMedio": 33295.29592592592
+      },
+      {
+          "nome": "Bozzella",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 33288.78740740742
+      },
+      {
+          "nome": "Magda Mofatto",
+          "partido": "PL",
+          "uf": "GO",
+          "gastoMedio": 33273.041923076926
+      },
+      {
+          "nome": "Damião Feliciano",
+          "partido": "PDT",
+          "uf": "PB",
+          "gastoMedio": 33267.020000000004
+      },
+      {
+          "nome": "Capitão Alberto Neto",
+          "partido": "REPUBLICANOS",
+          "uf": "AM",
+          "gastoMedio": 33120.24259259259
+      },
+      {
+          "nome": "Pedro Westphalen",
+          "partido": "PP",
+          "uf": "RS",
+          "gastoMedio": 33084.38481481481
+      },
+      {
+          "nome": "Leonardo Monteiro",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 33082.36444444445
+      },
+      {
+          "nome": "Dr. Jaziel",
+          "partido": "PL",
+          "uf": "CE",
+          "gastoMedio": 33053.18481481482
+      },
+      {
+          "nome": "João Carlos Bacelar",
+          "partido": "PL",
+          "uf": "BA",
+          "gastoMedio": 33028.88148148148
+      },
+      {
+          "nome": "Cezinha de Madureira",
+          "partido": "PSD",
+          "uf": "SP",
+          "gastoMedio": 32998.21111111111
+      },
+      {
+          "nome": "Gelson Azevedo",
+          "partido": "PL",
+          "uf": "RJ",
+          "gastoMedio": 32953.276666666665
+      },
+      {
+          "nome": "Alexandre Padilha",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 32835.575925925936
+      },
+      {
+          "nome": "Marlon Santos",
+          "partido": "PDT",
+          "uf": "RS",
+          "gastoMedio": 32705.01222222222
+      },
+      {
+          "nome": "Ricardo Barros",
+          "partido": "PP",
+          "uf": "PR",
+          "gastoMedio": 32616.8862962963
+      },
+      {
+          "nome": "Gurgel",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 32595.411851851855
+      },
+      {
+          "nome": "Gastão Vieira",
+          "partido": "PROS",
+          "uf": "MA",
+          "gastoMedio": 32557.867499999997
+      },
+      {
+          "nome": "Túlio Gadêlha",
+          "partido": "PDT",
+          "uf": "PE",
+          "gastoMedio": 32491.734444444446
+      },
+      {
+          "nome": "Pedro Lupion",
+          "partido": "DEM",
+          "uf": "PR",
+          "gastoMedio": 32439.553703703707
+      },
+      {
+          "nome": "Aguinaldo Ribeiro",
+          "partido": "PP",
+          "uf": "PB",
+          "gastoMedio": 32401.166666666668
+      },
+      {
+          "nome": "Delegado Marcelo Freitas",
+          "partido": "PSL",
+          "uf": "MG",
+          "gastoMedio": 32344.66
+      },
+      {
+          "nome": "Zé Carlos",
+          "partido": "PT",
+          "uf": "MA",
+          "gastoMedio": 32252.598518518524
+      },
+      {
+          "nome": "Antonio Brito",
+          "partido": "PSD",
+          "uf": "BA",
+          "gastoMedio": 32211.480740740735
+      },
+      {
+          "nome": "Valmir Assunção",
+          "partido": "PT",
+          "uf": "BA",
+          "gastoMedio": 32178.66037037038
+      },
+      {
+          "nome": "Osmar Terra",
+          "partido": "MDB",
+          "uf": "RS",
+          "gastoMedio": 32113.354375000003
+      },
+      {
+          "nome": "Vanderlei Macris",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 32098.33888888889
+      },
+      {
+          "nome": "Chiquinho Brazão",
+          "partido": "AVANTE",
+          "uf": "RJ",
+          "gastoMedio": 32001.612962962958
+      },
+      {
+          "nome": "Aluisio Mendes",
+          "partido": "PSC",
+          "uf": "MA",
+          "gastoMedio": 31982.624444444446
+      },
+      {
+          "nome": "Léo Motta",
+          "partido": "PSL",
+          "uf": "MG",
+          "gastoMedio": 31976.536296296286
+      },
+      {
+          "nome": "Paulo Abi-Ackel",
+          "partido": "PSDB",
+          "uf": "MG",
+          "gastoMedio": 31965.797037037035
+      },
+      {
+          "nome": "Marcos Pereira",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 31943.608518518515
+      },
+      {
+          "nome": "Stefano Aguiar",
+          "partido": "PSD",
+          "uf": "MG",
+          "gastoMedio": 31901.838148148145
+      },
+      {
+          "nome": "Valtenir Pereira",
+          "partido": "MDB",
+          "uf": "MT",
+          "gastoMedio": 31891.295999999995
+      },
+      {
+          "nome": "Filipe Barros",
+          "partido": "PSL",
+          "uf": "PR",
+          "gastoMedio": 31882.197037037044
+      },
+      {
+          "nome": "Carlos Henrique Gaguim",
+          "partido": "DEM",
+          "uf": "TO",
+          "gastoMedio": 31860.82703703703
+      },
+      {
+          "nome": "Rui Falcão",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 31855.250370370366
+      },
+      {
+          "nome": "Gutemberg Reis",
+          "partido": "MDB",
+          "uf": "RJ",
+          "gastoMedio": 31782.400000000005
+      },
+      {
+          "nome": "Benedita da Silva",
+          "partido": "PT",
+          "uf": "RJ",
+          "gastoMedio": 31743.771111111113
+      },
+      {
+          "nome": "Neri Geller",
+          "partido": "PP",
+          "uf": "MT",
+          "gastoMedio": 31738.683333333327
+      },
+      {
+          "nome": "Rogério Correia",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 31679.85111111111
+      },
+      {
+          "nome": "Ricardo Silva",
+          "partido": "PSB",
+          "uf": "SP",
+          "gastoMedio": 31662.61066666667
+      },
+      {
+          "nome": "Jaqueline Cassol",
+          "partido": "PP",
+          "uf": "RO",
+          "gastoMedio": 31569.207407407415
+      },
+      {
+          "nome": "Luiz Antônio Corrêa",
+          "partido": "PL",
+          "uf": "RJ",
+          "gastoMedio": 31558.814444444448
+      },
+      {
+          "nome": "Cacá Leão",
+          "partido": "PP",
+          "uf": "BA",
+          "gastoMedio": 31544.69962962962
+      },
+      {
+          "nome": "Francisco Jr.",
+          "partido": "PSD",
+          "uf": "GO",
+          "gastoMedio": 31465.254074074073
+      },
+      {
+          "nome": "Delegado Antônio Furtado",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 31389.73555555556
+      },
+      {
+          "nome": "Edio Lopes",
+          "partido": "PL",
+          "uf": "RR",
+          "gastoMedio": 31365.350000000006
+      },
+      {
+          "nome": "Márcio Labre",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 31320.08074074074
+      },
+      {
+          "nome": "Reinhold Stephanes Junior",
+          "partido": "PSD",
+          "uf": "PR",
+          "gastoMedio": 31285.172692307686
+      },
+      {
+          "nome": "Geninho Zuliani",
+          "partido": "DEM",
+          "uf": "SP",
+          "gastoMedio": 31276.09962962963
+      },
+      {
+          "nome": "Felipe Francischini",
+          "partido": "PSL",
+          "uf": "PR",
+          "gastoMedio": 31267.09888888889
+      },
+      {
+          "nome": "Professora Dorinha Seabra Rezende",
+          "partido": "DEM",
+          "uf": "TO",
+          "gastoMedio": 31182.664074074073
+      },
+      {
+          "nome": "Emidinho Madeira",
+          "partido": "PSB",
+          "uf": "MG",
+          "gastoMedio": 31120.525185185186
+      },
+      {
+          "nome": "Flordelis",
+          "partido": "PSD",
+          "uf": "RJ",
+          "gastoMedio": 31091.222307692315
+      },
+      {
+          "nome": "Igor Timo",
+          "partido": "PODE",
+          "uf": "MG",
+          "gastoMedio": 31054.876296296294
+      },
+      {
+          "nome": "Dr. Leonardo",
+          "partido": "SOLIDARIEDADE",
+          "uf": "MT",
+          "gastoMedio": 31048.628148148153
+      },
+      {
+          "nome": "Idilvan Alencar",
+          "partido": "PDT",
+          "uf": "CE",
+          "gastoMedio": 30992.22851851852
+      },
+      {
+          "nome": "Marcelo Freixo",
+          "partido": "PSOL",
+          "uf": "RJ",
+          "gastoMedio": 30882.786296296304
+      },
+      {
+          "nome": "Tadeu Alencar",
+          "partido": "PSB",
+          "uf": "PE",
+          "gastoMedio": 30814.361111111106
+      },
+      {
+          "nome": "Milton Vieira",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 30780.261851851854
+      },
+      {
+          "nome": "Rodrigo de Castro",
+          "partido": "PSDB",
+          "uf": "MG",
+          "gastoMedio": 30702.08962962963
+      },
+      {
+          "nome": "João Campos",
+          "partido": "REPUBLICANOS",
+          "uf": "GO",
+          "gastoMedio": 30686.337407407405
+      },
+      {
+          "nome": "Renata Abreu",
+          "partido": "PODE",
+          "uf": "SP",
+          "gastoMedio": 30677.6485
+      },
+      {
+          "nome": "Samuel Moreira",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 30653.967777777783
+      },
+      {
+          "nome": "Nilto Tatto",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 30628.38481481481
+      },
+      {
+          "nome": "Paulo Ramos",
+          "partido": "PDT",
+          "uf": "RJ",
+          "gastoMedio": 30603.31111111111
+      },
+      {
+          "nome": "Daniela do Waguinho",
+          "partido": "MDB",
+          "uf": "RJ",
+          "gastoMedio": 30596.127407407406
+      },
+      {
+          "nome": "Bilac Pinto",
+          "partido": "DEM",
+          "uf": "MG",
+          "gastoMedio": 30550.421904761904
+      },
+      {
+          "nome": "Paulo Azi",
+          "partido": "DEM",
+          "uf": "BA",
+          "gastoMedio": 30425.56962962963
+      },
+      {
+          "nome": "Isnaldo Bulhões Jr.",
+          "partido": "MDB",
+          "uf": "AL",
+          "gastoMedio": 30388.482222222217
+      },
+      {
+          "nome": "Pedro Uczai",
+          "partido": "PT",
+          "uf": "SC",
+          "gastoMedio": 30375.174814814804
+      },
+      {
+          "nome": "Evair Vieira de Melo",
+          "partido": "PP",
+          "uf": "ES",
+          "gastoMedio": 30259.42296296295
+      },
+      {
+          "nome": "Lídice da Mata",
+          "partido": "PSB",
+          "uf": "BA",
+          "gastoMedio": 30225.93185185185
+      },
+      {
+          "nome": "Glaustin da Fokus",
+          "partido": "PSC",
+          "uf": "GO",
+          "gastoMedio": 30222.711111111115
+      },
+      {
+          "nome": "José Nelto",
+          "partido": "PODE",
+          "uf": "GO",
+          "gastoMedio": 30129.368000000002
+      },
+      {
+          "nome": "Wolney Queiroz",
+          "partido": "PDT",
+          "uf": "PE",
+          "gastoMedio": 30072.262222222223
+      },
+      {
+          "nome": "Leônidas Cristino",
+          "partido": "PDT",
+          "uf": "CE",
+          "gastoMedio": 30046.084814814818
+      },
+      {
+          "nome": "Sâmia Bomfim",
+          "partido": "PSOL",
+          "uf": "SP",
+          "gastoMedio": 30005.460740740742
+      },
+      {
+          "nome": "Liziane Bayer",
+          "partido": "PSB",
+          "uf": "RS",
+          "gastoMedio": 29930.611481481486
+      },
+      {
+          "nome": "Rafael Motta",
+          "partido": "PSB",
+          "uf": "RN",
+          "gastoMedio": 29915.03703703704
+      },
+      {
+          "nome": "Adriano do Baldy",
+          "partido": "PP",
+          "uf": "GO",
+          "gastoMedio": 29830.201111111117
+      },
+      {
+          "nome": "Alê Silva",
+          "partido": "PSL",
+          "uf": "MG",
+          "gastoMedio": 29828.92925925926
+      },
+      {
+          "nome": "Luiz Lima",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 29789.447777777776
+      },
+      {
+          "nome": "Igor Kannário",
+          "partido": "DEM",
+          "uf": "BA",
+          "gastoMedio": 29774.96777777776
+      },
+      {
+          "nome": "Zé Silva",
+          "partido": "SOLIDARIEDADE",
+          "uf": "MG",
+          "gastoMedio": 29763.880740740737
+      },
+      {
+          "nome": "Daniel Freitas",
+          "partido": "PSL",
+          "uf": "SC",
+          "gastoMedio": 29745.297407407405
+      },
+      {
+          "nome": "Aliel Machado",
+          "partido": "PSB",
+          "uf": "PR",
+          "gastoMedio": 29707.653333333325
+      },
+      {
+          "nome": "Célio Moura",
+          "partido": "PT",
+          "uf": "TO",
+          "gastoMedio": 29662.912592592587
+      },
+      {
+          "nome": "Gilberto Abramo",
+          "partido": "REPUBLICANOS",
+          "uf": "MG",
+          "gastoMedio": 29643.14222222222
+      },
+      {
+          "nome": "David Miranda",
+          "partido": "PSOL",
+          "uf": "RJ",
+          "gastoMedio": 29605.478518518525
+      },
+      {
+          "nome": "Otto Alencar Filho",
+          "partido": "PSD",
+          "uf": "BA",
+          "gastoMedio": 29566.053703703707
+      },
+      {
+          "nome": "Célio Silveira",
+          "partido": "PSDB",
+          "uf": "GO",
+          "gastoMedio": 29541.794074074063
+      },
+      {
+          "nome": "Lincoln Portela",
+          "partido": "PL",
+          "uf": "MG",
+          "gastoMedio": 29511.618888888886
+      },
+      {
+          "nome": "André de Paula",
+          "partido": "PSD",
+          "uf": "PE",
+          "gastoMedio": 29419.26925925926
+      },
+      {
+          "nome": "Chico D'Angelo",
+          "partido": "PDT",
+          "uf": "RJ",
+          "gastoMedio": 29415.149999999998
+      },
+      {
+          "nome": "Dr. Luiz Antonio Teixeira Jr.",
+          "partido": "PP",
+          "uf": "RJ",
+          "gastoMedio": 29376.690000000002
+      },
+      {
+          "nome": "Maria Rosas",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 29375.096666666665
+      },
+      {
+          "nome": "Fernando Monteiro",
+          "partido": "PP",
+          "uf": "PE",
+          "gastoMedio": 29350.01888888888
+      },
+      {
+          "nome": "Natália Bonavides",
+          "partido": "PT",
+          "uf": "RN",
+          "gastoMedio": 29331.801851851862
+      },
+      {
+          "nome": "André Ferreira",
+          "partido": "PSC",
+          "uf": "PE",
+          "gastoMedio": 29287.122592592594
+      },
+      {
+          "nome": "Nicoletti",
+          "partido": "PSL",
+          "uf": "RR",
+          "gastoMedio": 29242.12481481482
+      },
+      {
+          "nome": "Alcides Rodrigues",
+          "partido": "PATRIOTA",
+          "uf": "GO",
+          "gastoMedio": 29217.497777777775
+      },
+      {
+          "nome": "Roberto de Lucena",
+          "partido": "PODE",
+          "uf": "SP",
+          "gastoMedio": 29083.99222222222
+      },
+      {
+          "nome": "Capitão Wagner",
+          "partido": "PROS",
+          "uf": "CE",
+          "gastoMedio": 29074.85958333334
+      },
+      {
+          "nome": "Celso Maldaner",
+          "partido": "MDB",
+          "uf": "SC",
+          "gastoMedio": 28972.9637037037
+      },
+      {
+          "nome": "Professor Joziel",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 28932.87444444445
+      },
+      {
+          "nome": "Paulão",
+          "partido": "PT",
+          "uf": "AL",
+          "gastoMedio": 28858.695555555547
+      },
+      {
+          "nome": "Carlos Zarattini",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 28832.226666666662
+      },
+      {
+          "nome": "Alessandro Molon",
+          "partido": "PSB",
+          "uf": "RJ",
+          "gastoMedio": 28829.102592592593
+      },
+      {
+          "nome": "Subtenente Gonzaga",
+          "partido": "PDT",
+          "uf": "MG",
+          "gastoMedio": 28797.2262962963
+      },
+      {
+          "nome": "Eduardo da Fonte",
+          "partido": "PP",
+          "uf": "PE",
+          "gastoMedio": 28750.108518518515
+      },
+      {
+          "nome": "Márcio Biolchi",
+          "partido": "MDB",
+          "uf": "RS",
+          "gastoMedio": 28745.65444444445
+      },
+      {
+          "nome": "Luciano Ducci",
+          "partido": "PSB",
+          "uf": "PR",
+          "gastoMedio": 28742.367407407408
+      },
+      {
+          "nome": "Christino Aureo",
+          "partido": "PP",
+          "uf": "RJ",
+          "gastoMedio": 28621.735185185193
+      },
+      {
+          "nome": "Hermes Parcianello",
+          "partido": "MDB",
+          "uf": "PR",
+          "gastoMedio": 28572.29555555555
+      },
+      {
+          "nome": "Patrus Ananias",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 28538.061481481473
+      },
+      {
+          "nome": "Bohn Gass",
+          "partido": "PT",
+          "uf": "RS",
+          "gastoMedio": 28494.028518518524
+      },
+      {
+          "nome": "Jerônimo Goergen",
+          "partido": "PP",
+          "uf": "RS",
+          "gastoMedio": 28490.33555555555
+      },
+      {
+          "nome": "Átila Lira",
+          "partido": "PP",
+          "uf": "PI",
+          "gastoMedio": 28446.0062962963
+      },
+      {
+          "nome": "Sóstenes Cavalcante",
+          "partido": "DEM",
+          "uf": "RJ",
+          "gastoMedio": 28410.205555555553
+      },
+      {
+          "nome": "Aureo Ribeiro",
+          "partido": "SOLIDARIEDADE",
+          "uf": "RJ",
+          "gastoMedio": 28376.695185185185
+      },
+      {
+          "nome": "General Girão",
+          "partido": "PSL",
+          "uf": "RN",
+          "gastoMedio": 28358.862592592588
+      },
+      {
+          "nome": "Gilberto Nascimento",
+          "partido": "PSC",
+          "uf": "SP",
+          "gastoMedio": 28255.08629629629
+      },
+      {
+          "nome": "Professora Rosa Neide",
+          "partido": "PT",
+          "uf": "MT",
+          "gastoMedio": 28243.533333333322
+      },
+      {
+          "nome": "Ted Conti",
+          "partido": "PSB",
+          "uf": "ES",
+          "gastoMedio": 28211.201111111117
+      },
+      {
+          "nome": "Márcio Marinho",
+          "partido": "REPUBLICANOS",
+          "uf": "BA",
+          "gastoMedio": 28187.900740740737
+      },
+      {
+          "nome": "Dimas Fabiano",
+          "partido": "PP",
+          "uf": "MG",
+          "gastoMedio": 28181.284444444445
+      },
+      {
+          "nome": "Marcelo Brum",
+          "partido": "PSL",
+          "uf": "RS",
+          "gastoMedio": 28168.50444444445
+      },
+      {
+          "nome": "Newton Cardoso Jr",
+          "partido": "MDB",
+          "uf": "MG",
+          "gastoMedio": 28148.285925925928
+      },
+      {
+          "nome": "Lucas Vergilio",
+          "partido": "SOLIDARIEDADE",
+          "uf": "GO",
+          "gastoMedio": 28116.02
+      },
+      {
+          "nome": "Vitor Lippi",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 28104.217407407403
+      },
+      {
+          "nome": "Geovania de Sá",
+          "partido": "PSDB",
+          "uf": "SC",
+          "gastoMedio": 28068.026666666665
+      },
+      {
+          "nome": "Bosco Costa",
+          "partido": "PL",
+          "uf": "SE",
+          "gastoMedio": 28055.767777777783
+      },
+      {
+          "nome": "Juarez Costa",
+          "partido": "MDB",
+          "uf": "MT",
+          "gastoMedio": 28003.04407407407
+      },
+      {
+          "nome": "Zé Vitor",
+          "partido": "PL",
+          "uf": "MG",
+          "gastoMedio": 27943.11518518518
+      },
+      {
+          "nome": "Christiane de Souza Yared",
+          "partido": "PL",
+          "uf": "PR",
+          "gastoMedio": 27868.97666666667
+      },
+      {
+          "nome": "Marcelo Aro",
+          "partido": "PP",
+          "uf": "MG",
+          "gastoMedio": 27762.753333333327
+      },
+      {
+          "nome": "Fabio Schiochet",
+          "partido": "PSL",
+          "uf": "SC",
+          "gastoMedio": 27760.518148148152
+      },
+      {
+          "nome": "Eduardo Cury",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 27746.995185185184
+      },
+      {
+          "nome": "Marcon",
+          "partido": "PT",
+          "uf": "RS",
+          "gastoMedio": 27680.735925925925
+      },
+      {
+          "nome": "Policial Katia Sastre",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 27648.868148148147
+      },
+      {
+          "nome": "Luis Tibé",
+          "partido": "AVANTE",
+          "uf": "MG",
+          "gastoMedio": 27632.017777777775
+      },
+      {
+          "nome": "Reginaldo Lopes",
+          "partido": "PT",
+          "uf": "MG",
+          "gastoMedio": 27538.84851851852
+      },
+      {
+          "nome": "Eli Borges",
+          "partido": "SOLIDARIEDADE",
+          "uf": "TO",
+          "gastoMedio": 27538.117037037035
+      },
+      {
+          "nome": "Mário Heringer",
+          "partido": "PDT",
+          "uf": "MG",
+          "gastoMedio": 27471.07481481482
+      },
+      {
+          "nome": "Dr. Gonçalo",
+          "partido": "REPUBLICANOS",
+          "uf": "MA",
+          "gastoMedio": 27384.835
+      },
+      {
+          "nome": "Bosco Saraiva",
+          "partido": "SOLIDARIEDADE",
+          "uf": "AM",
+          "gastoMedio": 27263.326666666664
+      },
+      {
+          "nome": "Adolfo Viana",
+          "partido": "PSDB",
+          "uf": "BA",
+          "gastoMedio": 27257.464814814823
+      },
+      {
+          "nome": "Átila Lins",
+          "partido": "PP",
+          "uf": "AM",
+          "gastoMedio": 27034.884074074078
+      },
+      {
+          "nome": "José Medeiros",
+          "partido": "PODE",
+          "uf": "MT",
+          "gastoMedio": 27018.610370370374
+      },
+      {
+          "nome": "Carlos Sampaio",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 27006.64296296297
+      },
+      {
+          "nome": "Daniel Coelho",
+          "partido": "CIDADANIA",
+          "uf": "PE",
+          "gastoMedio": 27006.313333333346
+      },
+      {
+          "nome": "Joenia Wapichana",
+          "partido": "REDE",
+          "uf": "RR",
+          "gastoMedio": 26979.041481481476
+      },
+      {
+          "nome": "Nelson Barbudo",
+          "partido": "PSL",
+          "uf": "MT",
+          "gastoMedio": 26944.380000000005
+      },
+      {
+          "nome": "Tabata Amaral",
+          "partido": "PDT",
+          "uf": "SP",
+          "gastoMedio": 26822.057407407407
+      },
+      {
+          "nome": "Otoni de Paula",
+          "partido": "PSC",
+          "uf": "RJ",
+          "gastoMedio": 26795.182222222225
+      },
+      {
+          "nome": "Jefferson Campos",
+          "partido": "PSB",
+          "uf": "SP",
+          "gastoMedio": 26794.806399999998
+      },
+      {
+          "nome": "Maria do Rosário",
+          "partido": "PT",
+          "uf": "RS",
+          "gastoMedio": 26769.777777777777
+      },
+      {
+          "nome": "Rosangela Gomes",
+          "partido": "REPUBLICANOS",
+          "uf": "RJ",
+          "gastoMedio": 26711.19814814814
+      },
+      {
+          "nome": "Enrico Misasi",
+          "partido": "PV",
+          "uf": "SP",
+          "gastoMedio": 26659.080000000005
+      },
+      {
+          "nome": "Arnaldo Jardim",
+          "partido": "CIDADANIA",
+          "uf": "SP",
+          "gastoMedio": 26544.689259259263
+      },
+      {
+          "nome": "Flávia Morais",
+          "partido": "PDT",
+          "uf": "GO",
+          "gastoMedio": 26488.007692307685
+      },
+      {
+          "nome": "Eduardo Bolsonaro",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 26482.303333333326
+      },
+      {
+          "nome": "Lucio Mosquini",
+          "partido": "MDB",
+          "uf": "RO",
+          "gastoMedio": 26408.278148148154
+      },
+      {
+          "nome": "Baleia Rossi",
+          "partido": "MDB",
+          "uf": "SP",
+          "gastoMedio": 26269.157777777782
+      },
+      {
+          "nome": "Aécio Neves",
+          "partido": "PSDB",
+          "uf": "MG",
+          "gastoMedio": 26252.59518518518
+      },
+      {
+          "nome": "Jorge Solla",
+          "partido": "PT",
+          "uf": "BA",
+          "gastoMedio": 26188.47555555556
+      },
+      {
+          "nome": "Professora Dayane Pimentel",
+          "partido": "PSL",
+          "uf": "BA",
+          "gastoMedio": 26174.324444444446
+      },
+      {
+          "nome": "Helder Salomão",
+          "partido": "PT",
+          "uf": "ES",
+          "gastoMedio": 26140.293703703708
+      },
+      {
+          "nome": "Hugo Leal",
+          "partido": "PSD",
+          "uf": "RJ",
+          "gastoMedio": 26131.127777777776
+      },
+      {
+          "nome": "Sérgio Brito",
+          "partido": "PSD",
+          "uf": "BA",
+          "gastoMedio": 26102.324285714283
+      },
+      {
+          "nome": "Fred Costa",
+          "partido": "PATRIOTA",
+          "uf": "MG",
+          "gastoMedio": 26043.670370370375
+      },
+      {
+          "nome": "Leandre",
+          "partido": "PV",
+          "uf": "PR",
+          "gastoMedio": 26042.068518518518
+      },
+      {
+          "nome": "Eros Biondini",
+          "partido": "PROS",
+          "uf": "MG",
+          "gastoMedio": 26037.175925925927
+      },
+      {
+          "nome": "Darci de Matos",
+          "partido": "PSD",
+          "uf": "SC",
+          "gastoMedio": 26036.38480000001
+      },
+      {
+          "nome": "Erika Kokay",
+          "partido": "PT",
+          "uf": "DF",
+          "gastoMedio": 26034.905555555557
+      },
+      {
+          "nome": "Guilherme Derrite",
+          "partido": "PP",
+          "uf": "SP",
+          "gastoMedio": 26016.48333333333
+      },
+      {
+          "nome": "Aline Sleutjes",
+          "partido": "PSL",
+          "uf": "PR",
+          "gastoMedio": 25996.527407407408
+      },
+      {
+          "nome": "Diego Andrade",
+          "partido": "PSD",
+          "uf": "MG",
+          "gastoMedio": 25956.730370370373
+      },
+      {
+          "nome": "Celina Leão",
+          "partido": "PP",
+          "uf": "DF",
+          "gastoMedio": 25837.40411764706
+      },
+      {
+          "nome": "Laercio Oliveira",
+          "partido": "PP",
+          "uf": "SE",
+          "gastoMedio": 25718.079629629636
+      },
+      {
+          "nome": "Glauber Braga",
+          "partido": "PSOL",
+          "uf": "RJ",
+          "gastoMedio": 25709.691851851858
+      },
+      {
+          "nome": "Mauro Lopes",
+          "partido": "MDB",
+          "uf": "MG",
+          "gastoMedio": 25577.094444444447
+      },
+      {
+          "nome": "Talíria Petrone",
+          "partido": "PSOL",
+          "uf": "RJ",
+          "gastoMedio": 25427.75407407408
+      },
+      {
+          "nome": "Júlio Delgado",
+          "partido": "PSB",
+          "uf": "MG",
+          "gastoMedio": 25220.8511111111
+      },
+      {
+          "nome": "Charlles Evangelista",
+          "partido": "PSL",
+          "uf": "MG",
+          "gastoMedio": 25216.323703703703
+      },
+      {
+          "nome": "Lourival Gomes",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 25138.245925925927
+      },
+      {
+          "nome": "Rogério Peninha Mendonça",
+          "partido": "MDB",
+          "uf": "SC",
+          "gastoMedio": 25029.683043478264
+      },
+      {
+          "nome": "Pastor Gil",
+          "partido": "PL",
+          "uf": "MA",
+          "gastoMedio": 24981.60538461538
+      },
+      {
+          "nome": "Afonso Hamm",
+          "partido": "PP",
+          "uf": "RS",
+          "gastoMedio": 24904.354074074072
+      },
+      {
+          "nome": "Bibo Nunes",
+          "partido": "PSL",
+          "uf": "RS",
+          "gastoMedio": 24901.74333333334
+      },
+      {
+          "nome": "Delegado Pablo",
+          "partido": "PSL",
+          "uf": "AM",
+          "gastoMedio": 24843.851111111107
+      },
+      {
+          "nome": "Otavio Leite",
+          "partido": "PSDB",
+          "uf": "RJ",
+          "gastoMedio": 24723.872499999998
+      },
+      {
+          "nome": "Carlos Chiodini",
+          "partido": "MDB",
+          "uf": "SC",
+          "gastoMedio": 24671.90518518519
+      },
+      {
+          "nome": "Fernando Coelho Filho",
+          "partido": "DEM",
+          "uf": "PE",
+          "gastoMedio": 24634.55
+      },
+      {
+          "nome": "Carla Dickson",
+          "partido": "PROS",
+          "uf": "RN",
+          "gastoMedio": 24613.236363636363
+      },
+      {
+          "nome": "Helio Lopes",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 24536.998518518518
+      },
+      {
+          "nome": "Carla Zambelli",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 24530.47703703703
+      },
+      {
+          "nome": "Raul Henry",
+          "partido": "MDB",
+          "uf": "PE",
+          "gastoMedio": 24505.040370370374
+      },
+      {
+          "nome": "Dr. Frederico",
+          "partido": "PATRIOTA",
+          "uf": "MG",
+          "gastoMedio": 24471.63
+      },
+      {
+          "nome": "Arlindo Chinaglia",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 24464.42111111111
+      },
+      {
+          "nome": "Julio Cesar Ribeiro",
+          "partido": "REPUBLICANOS",
+          "uf": "DF",
+          "gastoMedio": 24460.91481481481
+      },
+      {
+          "nome": "Altineu Côrtes",
+          "partido": "PL",
+          "uf": "RJ",
+          "gastoMedio": 24276.853888888887
+      },
+      {
+          "nome": "Maurício Dziedricki",
+          "partido": "PTB",
+          "uf": "RS",
+          "gastoMedio": 24254.169629629632
+      },
+      {
+          "nome": "Jandira Feghali",
+          "partido": "PCdoB",
+          "uf": "RJ",
+          "gastoMedio": 24207.616666666665
+      },
+      {
+          "nome": "Pastor Eurico",
+          "partido": "PATRIOTA",
+          "uf": "PE",
+          "gastoMedio": 24204.69481481482
+      },
+      {
+          "nome": "Merlong Solano",
+          "partido": "PT",
+          "uf": "PI",
+          "gastoMedio": 23933.88133333333
+      },
+      {
+          "nome": "Danilo Forte",
+          "partido": "PSDB",
+          "uf": "CE",
+          "gastoMedio": 23927.933
+      },
+      {
+          "nome": "Dr. Zacharias Calil",
+          "partido": "DEM",
+          "uf": "GO",
+          "gastoMedio": 23903.130370370367
+      },
+      {
+          "nome": "Bia Kicis",
+          "partido": "PSL",
+          "uf": "DF",
+          "gastoMedio": 23845.772962962958
+      },
+      {
+          "nome": "Benes Leocádio",
+          "partido": "REPUBLICANOS",
+          "uf": "RN",
+          "gastoMedio": 23824.579629629632
+      },
+      {
+          "nome": "Renildo Calheiros",
+          "partido": "PCdoB",
+          "uf": "PE",
+          "gastoMedio": 23813.188518518517
+      },
+      {
+          "nome": "Vitor Hugo",
+          "partido": "PSL",
+          "uf": "GO",
+          "gastoMedio": 23784.565185185187
+      },
+      {
+          "nome": "André Janones",
+          "partido": "AVANTE",
+          "uf": "MG",
+          "gastoMedio": 23759.35444444444
+      },
+      {
+          "nome": "Ricardo Izar",
+          "partido": "PP",
+          "uf": "SP",
+          "gastoMedio": 23727.245185185184
+      },
+      {
+          "nome": "Rosana Valle",
+          "partido": "PSB",
+          "uf": "SP",
+          "gastoMedio": 23557.96518518518
+      },
+      {
+          "nome": "Emanuel Pinheiro Neto",
+          "partido": "PTB",
+          "uf": "MT",
+          "gastoMedio": 23535.050370370373
+      },
+      {
+          "nome": "Rubens Bueno",
+          "partido": "CIDADANIA",
+          "uf": "PR",
+          "gastoMedio": 23375.227407407412
+      },
+      {
+          "nome": "Valdevan Noventa",
+          "partido": "PL",
+          "uf": "SE",
+          "gastoMedio": 23369.015555555554
+      },
+      {
+          "nome": "Soraya Santos",
+          "partido": "PL",
+          "uf": "RJ",
+          "gastoMedio": 23271.53444444444
+      },
+      {
+          "nome": "Angela Amin",
+          "partido": "PP",
+          "uf": "SC",
+          "gastoMedio": 23237.320370370362
+      },
+      {
+          "nome": "Major Fabiana",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 23093.128888888892
+      },
+      {
+          "nome": "André Fufuca",
+          "partido": "PP",
+          "uf": "MA",
+          "gastoMedio": 23033.987407407407
+      },
+      {
+          "nome": "Heitor Schuch",
+          "partido": "PSB",
+          "uf": "RS",
+          "gastoMedio": 22790.70592592593
+      },
+      {
+          "nome": "Weliton Prado",
+          "partido": "PROS",
+          "uf": "MG",
+          "gastoMedio": 22730.40846153846
+      },
+      {
+          "nome": "Rejane Dias",
+          "partido": "PT",
+          "uf": "PI",
+          "gastoMedio": 22714.62518518518
+      },
+      {
+          "nome": "Henrique Fontana",
+          "partido": "PT",
+          "uf": "RS",
+          "gastoMedio": 22655.40148148148
+      },
+      {
+          "nome": "José Priante",
+          "partido": "MDB",
+          "uf": "PA",
+          "gastoMedio": 22640.8308
+      },
+      {
+          "nome": "Áurea Carolina",
+          "partido": "PSOL",
+          "uf": "MG",
+          "gastoMedio": 22617.182962962965
+      },
+      {
+          "nome": "Eli Corrêa Filho",
+          "partido": "DEM",
+          "uf": "SP",
+          "gastoMedio": 22602.83130434783
+      },
+      {
+          "nome": "Vicentinho",
+          "partido": "PT",
+          "uf": "SP",
+          "gastoMedio": 22552.942222222224
+      },
+      {
+          "nome": "Fábio Ramalho",
+          "partido": "MDB",
+          "uf": "MG",
+          "gastoMedio": 22499.49962962963
+      },
+      {
+          "nome": "Hélio Costa",
+          "partido": "REPUBLICANOS",
+          "uf": "SC",
+          "gastoMedio": 22274.91222222222
+      },
+      {
+          "nome": "Milton Coelho",
+          "partido": "PSB",
+          "uf": "PE",
+          "gastoMedio": 22160.199999999997
+      },
+      {
+          "nome": "Elcione Barbalho",
+          "partido": "MDB",
+          "uf": "PA",
+          "gastoMedio": 21960.524814814813
+      },
+      {
+          "nome": "Jose Mario Schreiner",
+          "partido": "DEM",
+          "uf": "GO",
+          "gastoMedio": 21889.435555555556
+      },
+      {
+          "nome": "Joaquim Passarinho",
+          "partido": "PSD",
+          "uf": "PA",
+          "gastoMedio": 21754.66111111111
+      },
+      {
+          "nome": "Bira do Pindaré",
+          "partido": "PSB",
+          "uf": "MA",
+          "gastoMedio": 21721.96481481481
+      },
+      {
+          "nome": "Jorge Braz",
+          "partido": "REPUBLICANOS",
+          "uf": "RJ",
+          "gastoMedio": 21712.06259259259
+      },
+      {
+          "nome": "Pr. Marco Feliciano",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 21609.1437037037
+      },
+      {
+          "nome": "Paulo Magalhães",
+          "partido": "PSD",
+          "uf": "BA",
+          "gastoMedio": 21582.855555555554
+      },
+      {
+          "nome": "David Soares",
+          "partido": "DEM",
+          "uf": "SP",
+          "gastoMedio": 21508.56074074074
+      },
+      {
+          "nome": "Pinheirinho",
+          "partido": "PP",
+          "uf": "MG",
+          "gastoMedio": 21500.66962962963
+      },
+      {
+          "nome": "Luiza Erundina",
+          "partido": "PSOL",
+          "uf": "SP",
+          "gastoMedio": 21258.897407407407
+      },
+      {
+          "nome": "Felipe Rigoni",
+          "partido": "PSB",
+          "uf": "ES",
+          "gastoMedio": 21236.45888888889
+      },
+      {
+          "nome": "Fernanda Melchionna",
+          "partido": "PSOL",
+          "uf": "RS",
+          "gastoMedio": 21188.592962962957
+      },
+      {
+          "nome": "Sanderson",
+          "partido": "PSL",
+          "uf": "RS",
+          "gastoMedio": 21176.85074074074
+      },
+      {
+          "nome": "Luizão Goulart",
+          "partido": "REPUBLICANOS",
+          "uf": "PR",
+          "gastoMedio": 21108.230370370373
+      },
+      {
+          "nome": "Rose Modesto",
+          "partido": "PSDB",
+          "uf": "MS",
+          "gastoMedio": 20844.781851851854
+      },
+      {
+          "nome": "Genecias Noronha",
+          "partido": "SOLIDARIEDADE",
+          "uf": "CE",
+          "gastoMedio": 20816.736296296287
+      },
+      {
+          "nome": "Felício Laterça",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 20760.510000000002
+      },
+      {
+          "nome": "Bia Cavassa",
+          "partido": "PSDB",
+          "uf": "MS",
+          "gastoMedio": 20427.74851851852
+      },
+      {
+          "nome": "Rodrigo Maia",
+          "partido": "DEM",
+          "uf": "RJ",
+          "gastoMedio": 20359.340370370377
+      },
+      {
+          "nome": "Capitão Fábio Abreu",
+          "partido": "PL",
+          "uf": "PI",
+          "gastoMedio": 20149.359999999997
+      },
+      {
+          "nome": "Guilherme Mussi",
+          "partido": "PP",
+          "uf": "SP",
+          "gastoMedio": 20062.080833333333
+      },
+      {
+          "nome": "Danilo Cabral",
+          "partido": "PSB",
+          "uf": "PE",
+          "gastoMedio": 20011.66111111111
+      },
+      {
+          "nome": "Fausto Pinato",
+          "partido": "PP",
+          "uf": "SP",
+          "gastoMedio": 19875.29592592593
+      },
+      {
+          "nome": "General Peternelli",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 19839.30185185185
+      },
+      {
+          "nome": "Mariana Carvalho",
+          "partido": "PSDB",
+          "uf": "RO",
+          "gastoMedio": 19689.31703703704
+      },
+      {
+          "nome": "Pedro Augusto Palareti",
+          "partido": "PSD",
+          "uf": "RJ",
+          "gastoMedio": 19573.2275
+      },
+      {
+          "nome": "Celso Russomanno",
+          "partido": "REPUBLICANOS",
+          "uf": "SP",
+          "gastoMedio": 19423.339230769234
+      },
+      {
+          "nome": "Ivan Valente",
+          "partido": "PSOL",
+          "uf": "SP",
+          "gastoMedio": 19079.771481481483
+      },
+      {
+          "nome": "Eduardo Barbosa",
+          "partido": "PSDB",
+          "uf": "MG",
+          "gastoMedio": 18926.241111111107
+      },
+      {
+          "nome": "Norma Ayub",
+          "partido": "DEM",
+          "uf": "ES",
+          "gastoMedio": 18917.144444444446
+      },
+      {
+          "nome": "Bruna Furlan",
+          "partido": "PSDB",
+          "uf": "SP",
+          "gastoMedio": 18864.193333333333
+      },
+      {
+          "nome": "Diego Garcia",
+          "partido": "PODE",
+          "uf": "PR",
+          "gastoMedio": 18827.134444444448
+      },
+      {
+          "nome": "Expedito Netto",
+          "partido": "PSD",
+          "uf": "RO",
+          "gastoMedio": 18778.01888888889
+      },
+      {
+          "nome": "Pastor Sargento Isidório",
+          "partido": "AVANTE",
+          "uf": "BA",
+          "gastoMedio": 18652.142222222225
+      },
+      {
+          "nome": "Arthur Lira",
+          "partido": "PP",
+          "uf": "AL",
+          "gastoMedio": 18454.017037037036
+      },
+      {
+          "nome": "Carlos Jordy",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 18452.699259259258
+      },
+      {
+          "nome": "Miguel Lombardi",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 18412.007037037038
+      },
+      {
+          "nome": "Dr. Luiz Ovando",
+          "partido": "PSL",
+          "uf": "MS",
+          "gastoMedio": 18322.968888888885
+      },
+      {
+          "nome": "Paulo Pereira da Silva",
+          "partido": "SOLIDARIEDADE",
+          "uf": "SP",
+          "gastoMedio": 18311.80555555556
+      },
+      {
+          "nome": "Franco Cartafina",
+          "partido": "PP",
+          "uf": "MG",
+          "gastoMedio": 18298.981851851848
+      },
+      {
+          "nome": "Gervásio Maia",
+          "partido": "PSB",
+          "uf": "PB",
+          "gastoMedio": 17804.628518518515
+      },
+      {
+          "nome": "Célio Studart",
+          "partido": "PV",
+          "uf": "CE",
+          "gastoMedio": 17675.79111111111
+      },
+      {
+          "nome": "Joice Hasselmann",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 17671.39888888889
+      },
+      {
+          "nome": "Pedro Vilela",
+          "partido": "PSDB",
+          "uf": "AL",
+          "gastoMedio": 17578
+      },
+      {
+          "nome": "Neucimar Fraga",
+          "partido": "PSD",
+          "uf": "ES",
+          "gastoMedio": 17479.803333333333
+      },
+      {
+          "nome": "Lucas Redecker",
+          "partido": "PSDB",
+          "uf": "RS",
+          "gastoMedio": 17441.105185185184
+      },
+      {
+          "nome": "Sargento Fahur",
+          "partido": "PSD",
+          "uf": "PR",
+          "gastoMedio": 17293.83814814815
+      },
+      {
+          "nome": "Carmen Zanotto",
+          "partido": "CIDADANIA",
+          "uf": "SC",
+          "gastoMedio": 17261.64115384616
+      },
+      {
+          "nome": "Ricardo da Karol",
+          "partido": "PSC",
+          "uf": "RJ",
+          "gastoMedio": 17214.0775
+      },
+      {
+          "nome": "Abou Anni",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 16964.034074074072
+      },
+      {
+          "nome": "Carlos Gomes",
+          "partido": "REPUBLICANOS",
+          "uf": "RS",
+          "gastoMedio": 16958.92296296297
+      },
+      {
+          "nome": "Marcelo Moraes",
+          "partido": "PTB",
+          "uf": "RS",
+          "gastoMedio": 16763.82925925926
+      },
+      {
+          "nome": "Ricardo Guidi",
+          "partido": "PSD",
+          "uf": "SC",
+          "gastoMedio": 16684.848148148143
+      },
+      {
+          "nome": "Vilson da Fetaemg",
+          "partido": "PSB",
+          "uf": "MG",
+          "gastoMedio": 16628.41296296296
+      },
+      {
+          "nome": "Luiz Carlos Motta",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 16620.06111111111
+      },
+      {
+          "nome": "Marco Bertaiolli",
+          "partido": "PSD",
+          "uf": "SP",
+          "gastoMedio": 16447.522962962965
+      },
+      {
+          "nome": "Giovani Feltes",
+          "partido": "MDB",
+          "uf": "RS",
+          "gastoMedio": 15918.84037037037
+      },
+      {
+          "nome": "Coronel Tadeu",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 15516.314074074076
+      },
+      {
+          "nome": "Felipe Carreras",
+          "partido": "PSB",
+          "uf": "PE",
+          "gastoMedio": 15467.56875
+      },
+      {
+          "nome": "Professor Israel Batista",
+          "partido": "PV",
+          "uf": "DF",
+          "gastoMedio": 14625.25222222222
+      },
+      {
+          "nome": "Fábio Trad",
+          "partido": "PSD",
+          "uf": "MS",
+          "gastoMedio": 14615.944444444445
+      },
+      {
+          "nome": "Amaro Neto",
+          "partido": "REPUBLICANOS",
+          "uf": "ES",
+          "gastoMedio": 14373.710740740737
+      },
+      {
+          "nome": "Luciano Bivar",
+          "partido": "PSL",
+          "uf": "PE",
+          "gastoMedio": 14335.190370370368
+      },
+      {
+          "nome": "Clarissa Garotinho",
+          "partido": "PROS",
+          "uf": "RJ",
+          "gastoMedio": 14210.465384615392
+      },
+      {
+          "nome": "Lucas Gonzalez",
+          "partido": "NOVO",
+          "uf": "MG",
+          "gastoMedio": 13863.317037037037
+      },
+      {
+          "nome": "Rodrigo Coelho",
+          "partido": "PSB",
+          "uf": "SC",
+          "gastoMedio": 13499.848148148149
+      },
+      {
+          "nome": "Chris Tonietto",
+          "partido": "PSL",
+          "uf": "RJ",
+          "gastoMedio": 13383.354230769231
+      },
+      {
+          "nome": "Luis Miranda",
+          "partido": "DEM",
+          "uf": "DF",
+          "gastoMedio": 13308.388518518519
+      },
+      {
+          "nome": "Coronel Armando",
+          "partido": "PSL",
+          "uf": "SC",
+          "gastoMedio": 13100.144074074075
+      },
+      {
+          "nome": "Alexis Fonteyne",
+          "partido": "NOVO",
+          "uf": "SP",
+          "gastoMedio": 12772.545555555555
+      },
+      {
+          "nome": "Kim Kataguiri",
+          "partido": "DEM",
+          "uf": "SP",
+          "gastoMedio": 12732.87740740741
+      },
+      {
+          "nome": "Gustavo Fruet",
+          "partido": "PDT",
+          "uf": "PR",
+          "gastoMedio": 12629.488888888885
+      },
+      {
+          "nome": "Covatti Filho",
+          "partido": "PP",
+          "uf": "RS",
+          "gastoMedio": 11664.73
+      },
+      {
+          "nome": "Daniel Trzeciak",
+          "partido": "PSDB",
+          "uf": "RS",
+          "gastoMedio": 11515.397407407409
+      },
+      {
+          "nome": "Delegado Waldir",
+          "partido": "PSL",
+          "uf": "GO",
+          "gastoMedio": 11428.470740740739
+      },
+      {
+          "nome": "Júnior Ferrari",
+          "partido": "PSD",
+          "uf": "PA",
+          "gastoMedio": 11080.191481481479
+      },
+      {
+          "nome": "Tiririca",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 11049.046923076925
+      },
+      {
+          "nome": "Marcelo Álvaro Antônio",
+          "partido": "PSL",
+          "uf": "MG",
+          "gastoMedio": 10984.074999999999
+      },
+      {
+          "nome": "Guiga Peixoto",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 10972.720740740744
+      },
+      {
+          "nome": "Josivaldo JP",
+          "partido": "PODE",
+          "uf": "MA",
+          "gastoMedio": 10962.0025
+      },
+      {
+          "nome": "Mauro Nazif",
+          "partido": "PSB",
+          "uf": "RO",
+          "gastoMedio": 10826.405925925923
+      },
+      {
+          "nome": "Junio Amaral",
+          "partido": "PSL",
+          "uf": "MG",
+          "gastoMedio": 10585.028148148149
+      },
+      {
+          "nome": "Léo Moraes",
+          "partido": "PODE",
+          "uf": "RO",
+          "gastoMedio": 10264.196666666665
+      },
+      {
+          "nome": "Tia Eron",
+          "partido": "REPUBLICANOS",
+          "uf": "BA",
+          "gastoMedio": 9831.545
+      },
+      {
+          "nome": "Greyce Elias",
+          "partido": "AVANTE",
+          "uf": "MG",
+          "gastoMedio": 9632.008333333333
+      },
+      {
+          "nome": "Rodrigo Agostinho",
+          "partido": "PSB",
+          "uf": "SP",
+          "gastoMedio": 9489.942592592593
+      },
+      {
+          "nome": "Elias Vaz",
+          "partido": "PSB",
+          "uf": "GO",
+          "gastoMedio": 9146.461851851853
+      },
+      {
+          "nome": "Caroline de Toni",
+          "partido": "PSL",
+          "uf": "SC",
+          "gastoMedio": 8252.288148148149
+      },
+      {
+          "nome": "Luiz Philippe de Orleans e Bragança",
+          "partido": "PSL",
+          "uf": "SP",
+          "gastoMedio": 7706.61111111111
+      },
+      {
+          "nome": "Marcos Soares",
+          "partido": "DEM",
+          "uf": "RJ",
+          "gastoMedio": 7488.9725
+      },
+      {
+          "nome": "Marcio Alvino",
+          "partido": "PL",
+          "uf": "SP",
+          "gastoMedio": 7316.391599999997
+      },
+      {
+          "nome": "Vivi Reis",
+          "partido": "PSOL",
+          "uf": "PA",
+          "gastoMedio": 7207.290000000001
+      },
+      {
+          "nome": "Vinicius Poit",
+          "partido": "NOVO",
+          "uf": "SP",
+          "gastoMedio": 7131.903703703703
+      },
+      {
+          "nome": "Odorico Monteiro",
+          "partido": "PSB",
+          "uf": "CE",
+          "gastoMedio": 6806.025
+      },
+      {
+          "nome": "Marcel van Hattem",
+          "partido": "NOVO",
+          "uf": "RS",
+          "gastoMedio": 6697.118518518519
+      },
+      {
+          "nome": "Paulo Ganime",
+          "partido": "NOVO",
+          "uf": "RJ",
+          "gastoMedio": 6536.679999999999
+      },
+      {
+          "nome": "Gilson Marques",
+          "partido": "NOVO",
+          "uf": "SC",
+          "gastoMedio": 5230.752307692308
+      },
+      {
+          "nome": "Adriana Ventura",
+          "partido": "NOVO",
+          "uf": "SP",
+          "gastoMedio": 5183.625
+      },
+      {
+          "nome": "Paulo Eduardo Martins",
+          "partido": "PSC",
+          "uf": "PR",
+          "gastoMedio": 4812.902
+      },
+      {
+          "nome": "Tiago Mitraud",
+          "partido": "NOVO",
+          "uf": "MG",
+          "gastoMedio": 1613.1711111111113
+      },
+      {
+          "nome": "Laerte Bessa",
+          "partido": "PL",
+          "uf": "DF",
+          "gastoMedio": 714.18
+      },
+      {
+          "nome": "Totonho Lopes",
+          "partido": "PDT",
+          "uf": "CE",
+          "gastoMedio": 0
+      },
+      {
+          "nome": "Rafafá",
+          "partido": "PSDB",
+          "uf": "PB",
+          "gastoMedio": 0
+      },
+      {
+          "nome": "Hercílio Coelho Diniz",
+          "partido": "MDB",
+          "uf": "MG",
+          "gastoMedio": 0
+      },
+      {
+          "nome": "Rossoni",
+          "partido": "PSDB",
+          "uf": "PR",
+          "gastoMedio": 0
+      },
+      {
+          "nome": "Paulo Vicente Caleffi",
+          "partido": "PSD",
+          "uf": "RS",
+          "gastoMedio": 0
+      },
+      {
+          "nome": "Paula Belmonte",
+          "partido": "CIDADANIA",
+          "uf": "DF",
+          "gastoMedio": 0
+      }
+  ]
+}

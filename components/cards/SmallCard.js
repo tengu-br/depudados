@@ -16,7 +16,7 @@ display: flex;
 flex-direction: column;
 `
 
-const GastosCard = ({ imgSrc, titulo, nome, partido, porcentagem, faltas }) => {
+const GastosCard = ({ titulo, dado }) => {
 
   return (
     <React.Fragment>
@@ -24,7 +24,7 @@ const GastosCard = ({ imgSrc, titulo, nome, partido, porcentagem, faltas }) => {
         {titulo}
       </Typography>
       <Typography variant='h4' align='center' style={{ padding: '0.7em' }}>
-        {nome}
+        {dado}
       </Typography>
     </React.Fragment>
   )

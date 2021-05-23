@@ -8,10 +8,10 @@ const GeoPresenca = ({ name, data, textsize }) => {
 
   for (const uf in data) {
     if (Object.hasOwnProperty.call(data, uf)) {
-      compiledData.push({ name: data[uf].nome, value: Math.round(data[uf].somaPresenca / data[uf].qtdDeputados * 100 + Number.EPSILON) })
+      compiledData.push({ name: data[uf].nome, value: data[uf].somaGastos / data[uf].qtdDeputados })
     }
   }
-  
+
   const chart = useRef(null);
 
 
@@ -30,17 +30,15 @@ const GeoPresenca = ({ name, data, textsize }) => {
       showDelay: 0,
       transitionDuration: 0.2,
       formatter: function (params) {
-        var value = (params.value + '').split('.');
-        value = value[0].replace(/(\d{1,3})(?=(?:\d{3})+(?!\d))/g, '$1,');
-        return params.seriesName + '<br/>' + params.name + ': ' + value + '%';
+        return params.seriesName + '<br/><b>' + params.name + '</b>: ' + params.value.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' });
       }
     },
     visualMap: {
       left: 'right',
-      min: 90,
-      max: 100,
+      min: 15000,
+      max: 40000,
       inRange: {
-        color: ['#b70303','#f47c7c','#82a9ff','#5357F0']
+        color: ['#5357F0','#82a9ff','#f47c7c','#b70303']
       },
       text: ['Alta', 'Baixa'],
       calculable: true,
@@ -57,7 +55,7 @@ const GeoPresenca = ({ name, data, textsize }) => {
     },
     series: [
       {
-        name: 'Presença',
+        name: 'Média de Gastos',
         selectedMode: false,
         type: 'map',
         roam: false,

@@ -2,15 +2,16 @@ import React from "react";
 import Layout from "../components/Layout";
 import PieChart from '../components/charts/PieChart';
 import GastosCard from '../components/cards/SmallCard'
-import PresencaCard from '../components/cards/BigCard'
-import HorizBarChart from '../components/charts/HorizBarChart'
-import GeoPresenca from '../components/charts/GeoPresenca'
+import DeputadoCard from '../components/cards/BigCard'
+import HorizBarChart from '../components/charts/GastosHorizontal'
+import GeoGastos from '../components/charts/GeoGastos'
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import { Typography } from "@material-ui/core";
 import styled from 'styled-components'
-import VerticalBarChart from "../components/charts/VerticalBarChart";
-import DeputadosList from "../components/lists/DeputadosList";
+import VerticalBarChart from "../components/charts/GastosVertical";
+import GastosList from "../components/lists/GastosList";
+import testData from "../testData/gastos.json"
 
 /*
 GRÁFICOS:
@@ -31,24 +32,7 @@ GRÁFICOS:
 */
 
 const Gastos = () => {
-  const prop = {
-    mock1: {
-      name: 'Presença',
-      size: '36',
-      data: [
-        { value: 91.87, name: 'Presença', selected: true },
-        { value: 8.13, name: 'Falta' },
-      ]
-    },
-    mock2: {
-      name: 'Presença',
-      size: '18',
-      data: [
-        { value: 84.50, name: 'Presença', selected: true },
-        { value: 15.50, name: 'Falta' },
-      ]
-    },
-  }
+
   return (
     <Layout pageTitle="Gastos">
       <Grid container spacing={3} style={{ paddingTop: '12%', paddingBottom: '5%', width: '100%', margin: '0px' }}>
@@ -58,35 +42,37 @@ const Gastos = () => {
               <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
                 <GastosCard
                   titulo='Gasto médio por deputado'
-                  nome='R$ 33.193,00' />
+                  dado={testData.gastoMedio.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })} />
               </Paper>
             </Grid>
             <Grid item xs={12}>
               <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
                 <GastosCard
                   titulo='Gasto mediano dos deputados'
-                  nome='R$ 31.021,50' />
+                  dado={testData.gastoMediano.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })} />
               </Paper>
             </Grid>
           </Grid>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
-            <PresencaCard
+            <DeputadoCard
               titulo='Mais Gastão'
-              nome='Adriano do Baldy'
-              partido='PP-GO'
-              porcentagem='R$ 58.213,00'
+              nome={testData.deputadoGastoMaior.nomeEleitoral}
+              partido={`${testData.deputadoGastoMaior.siglaPartido}-${testData.deputadoGastoMaior.siglaUf}`}
+              porcentagem={testData.deputadoGastoMaior.gastoMedio.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })}
+              foto={testData.deputadoGastoMaior.urlFoto + 'maior.jpg'}
               size='small' />
           </Paper>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
-            <PresencaCard
+            <DeputadoCard
               titulo='Mais Austero'
-              nome='Afonso Florence'
-              partido='PT-BA'
-              porcentagem='R$ 0,00'
+              nome={testData.deputadoGastoMenor.nomeEleitoral}
+              partido={`${testData.deputadoGastoMenor.siglaPartido}-${testData.deputadoGastoMenor.siglaUf}`}
+              porcentagem={testData.deputadoGastoMenor.gastoMedio.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })}
+              foto={testData.deputadoGastoMenor.urlFoto + 'maior.jpg'}
               size='small' />
           </Paper>
         </Grid>
@@ -94,8 +80,8 @@ const Gastos = () => {
           <Paper elevation={6} style={{ height: '100%', width: '100%' }}>
             <Typography variant='h6' align='center'>
               Maiores Gastos
-                        </Typography>
-            <HorizBarChart />
+            </Typography>
+            <HorizBarChart data={testData.listaDeputadosMaioresGastos} />
           </Paper>
         </Grid>
         <Grid item xs={4}>
@@ -103,20 +89,20 @@ const Gastos = () => {
             <Typography variant='h6' align='center'>
               Gastos por Região
             </Typography>
-            <GeoPresenca />
+            <GeoGastos data={testData.gastosPorUnidadeFederativa}/>
           </Paper>
         </Grid>
         <Grid item xs={12}>
           <Paper elevation={6} >
             <Typography variant='h6' align='center'>
-              Gasto médio por partido
+              Gasto médio de cada deputado do partido
             </Typography>
-            <VerticalBarChart />
+            <VerticalBarChart data={testData.gastosPorPartido}/>
           </Paper>
         </Grid>
         <Grid item xs={12}>
           <Paper elevation={6}>
-            <DeputadosList />
+            <GastosList data={testData.listaCompleta}/>
           </Paper>
         </Grid>
       </Grid>
