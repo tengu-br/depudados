@@ -1,0 +1,5136 @@
+{
+  "listaDeputados": [
+      "Benedita da Silva",
+      "Angela Amin",
+      "Renildo Calheiros",
+      "Jandira Feghali",
+      "Átila Lira",
+      "Rubens Bueno",
+      "Gonzaga Patriota",
+      "Júlio Cesar",
+      "Elcione Barbalho",
+      "Arlindo Chinaglia",
+      "Ricardo Barros",
+      "Ivan Valente",
+      "Mauro Lopes",
+      "Leônidas Cristino",
+      "Eduardo Barbosa",
+      "Hermes Parcianello",
+      "José Priante",
+      "Wolney Queiroz",
+      "Celso Russomanno",
+      "Wellington Roberto",
+      "Lincoln Portela",
+      "Damião Feliciano",
+      "Gustavo Fruet",
+      "André de Paula",
+      "Rodrigo Maia",
+      "Pompeo de Mattos",
+      "Henrique Fontana",
+      "Luiza Erundina",
+      "Nilson Pinto",
+      "Júlio Delgado",
+      "Osmar Terra",
+      "Giacobo",
+      "Paulo Pimenta",
+      "Maria do Rosário",
+      "Bosco Costa",
+      "Vicentinho",
+      "Gilberto Nascimento",
+      "Jefferson Campos",
+      "Carlos Sampaio",
+      "Odair Cunha",
+      "Reginaldo Lopes",
+      "Patrus Ananias",
+      "Leonardo Monteiro",
+      "Vander Loubet",
+      "Wilson Santiago",
+      "Perpétua Almeida",
+      "Rubens Otoni",
+      "João Campos",
+      "Mário Heringer",
+      "André Figueiredo",
+      "Afonso Hamm",
+      "Beto Faro",
+      "Arnaldo Jardim",
+      "Bilac Pinto",
+      "Celso Maldaner",
+      "Chico D'Angelo",
+      "Dagoberto Nogueira",
+      "Edio Lopes",
+      "Eduardo da Fonte",
+      "Efraim Filho",
+      "Fábio Ramalho",
+      "Fernando Coelho Filho",
+      "Flaviano Melo",
+      "Hugo Leal",
+      "João Maia",
+      "José Airton Félix Cirilo",
+      "José Guimarães",
+      "Mauro Nazif",
+      "Paulo Pereira da Silva",
+      "Paulo Abi-Ackel",
+      "Paulo Teixeira",
+      "Raul Henry",
+      "Rodrigo de Castro",
+      "Vanderlei Macris",
+      "Vinicius Carvalho",
+      "Carlos Zarattini",
+      "Neri Geller",
+      "Laercio Oliveira",
+      "Roberto Alves",
+      "Glauber Braga",
+      "Milton Vieira",
+      "Arthur Lira",
+      "Professora Marcivania",
+      "Vinicius Gurgel",
+      "Luiz Carlos",
+      "Genecias Noronha",
+      "Domingos Neto",
+      "Erika Kokay",
+      "Lauriete",
+      "Flávia Morais",
+      "Dimas Fabiano",
+      "Zé Silva",
+      "Padre João",
+      "Weliton Prado",
+      "Eros Biondini",
+      "Diego Andrade",
+      "Domingos Sávio",
+      "Luis Tibé",
+      "Fábio Trad",
+      "Aguinaldo Ribeiro",
+      "Hugo Motta",
+      "Augusto Coutinho",
+      "Danilo Cabral",
+      "Pastor Eurico",
+      "Iracema Portella",
+      "Zeca Dirceu",
+      "Alessandro Molon",
+      "Aureo Ribeiro",
+      "Jhonatan de Jesus",
+      "Jerônimo Goergen",
+      "Giovani Cherini",
+      "Bohn Gass",
+      "Marcon",
+      "Alceu Moreira",
+      "Pedro Uczai",
+      "Rogério Peninha Mendonça",
+      "Pr. Marco Feliciano",
+      "Tiririca",
+      "Paulo Freire Costa",
+      "Alexandre Leite",
+      "Eli Corrêa Filho",
+      "Guilherme Mussi",
+      "Roberto de Lucena",
+      "Ricardo Izar",
+      "Bruna Furlan",
+      "Professora Dorinha Seabra Rezende",
+      "Luiz Nishimori",
+      "Maurício Dziedricki",
+      "Stefano Aguiar",
+      "Delegado Waldir",
+      "Carmen Zanotto",
+      "Magda Mofatto",
+      "Paulão",
+      "Fabio Reis",
+      "Subtenente Gonzaga",
+      "Ossesio Silva",
+      "Rogério Correia",
+      "Capitão Augusto",
+      "André Abdon",
+      "Valdevan Noventa",
+      "Leandre",
+      "Afonso Motta",
+      "Aécio Neves",
+      "Paulo Ramos",
+      "Luciano Bivar",
+      "Rui Falcão",
+      "Alan Rick",
+      "Jéssica Sales",
+      "Marx Beltrão",
+      "Luizianne Lins",
+      "Evair Vieira de Melo",
+      "Helder Salomão",
+      "Célio Silveira",
+      "Lucas Vergilio",
+      "Misael Varella",
+      "Newton Cardoso Jr",
+      "Delegado Éder Mauro",
+      "Hélio Leite",
+      "Joaquim Passarinho",
+      "Daniel Coelho",
+      "Felipe Carreras",
+      "Ricardo Teobaldo",
+      "Sebastião Oliveira",
+      "Tadeu Alencar",
+      "Capitão Fábio Abreu",
+      "Rejane Dias",
+      "Aliel Machado",
+      "Christiane de Souza Yared",
+      "Diego Garcia",
+      "Enio Verri",
+      "Luciano Ducci",
+      "Sergio Souza",
+      "Toninho Wandscheer",
+      "Altineu Côrtes",
+      "Clarissa Garotinho",
+      "Rosangela Gomes",
+      "Soraya Santos",
+      "Sóstenes Cavalcante",
+      "Rafael Motta",
+      "Walter Alves",
+      "Expedito Netto",
+      "Lucio Mosquini",
+      "Mariana Carvalho",
+      "Hiran Gonçalves",
+      "Shéridan",
+      "Carlos Gomes",
+      "Covatti Filho",
+      "Heitor Schuch",
+      "Geovania de Sá",
+      "Fábio Mitidieri",
+      "João Daniel",
+      "Alex Manente",
+      "Baleia Rossi",
+      "Eduardo Bolsonaro",
+      "Eduardo Cury",
+      "Fausto Pinato",
+      "Herculano Passos",
+      "Marcio Alvino",
+      "Miguel Lombardi",
+      "Nilto Tatto",
+      "Orlando Silva",
+      "Renata Abreu",
+      "Samuel Moreira",
+      "Vitor Lippi",
+      "Carlos Henrique Gaguim",
+      "Dulce Miranda",
+      "Vicentinho Júnior",
+      "Giovani Feltes",
+      "Moses Rodrigues",
+      "Marcelo Álvaro Antônio",
+      "Marcelo Aro",
+      "Márcio Biolchi",
+      "Dra. Vanda Milani",
+      "Nivaldo Albuquerque",
+      "Vaidon Oliveira",
+      "Dr. Jaziel",
+      "Norma Ayub",
+      "Jose Mario Schreiner",
+      "Dr. Luiz Ovando",
+      "Euclydes Pettersen",
+      "Vilson da Fetaemg",
+      "Paulo Eduardo Martins",
+      "Sargento Fahur",
+      "Fernando Monteiro",
+      "Flávio Nogueira",
+      "Lourival Gomes",
+      "Bibo Nunes",
+      "General Peternelli",
+      "Luiz Carlos Motta",
+      "Jesus Sérgio",
+      "Isnaldo Bulhões Jr.",
+      "Severino Pessoa",
+      "Sergio Toledo",
+      "Camilo Capiberibe",
+      "Aline Gurgel",
+      "Capitão Wagner",
+      "Célio Studart",
+      "Da Vitoria",
+      "Amaro Neto",
+      "Elias Vaz",
+      "Professor Alcides",
+      "José Nelto",
+      "Francisco Jr.",
+      "Charlles Evangelista",
+      "Gilberto Abramo",
+      "Paulo Guedes",
+      "Greyce Elias",
+      "Lafayette de Andrada",
+      "Emidinho Madeira",
+      "Fred Costa",
+      "Rose Modesto",
+      "Beto Pereira",
+      "Dr. Leonardo",
+      "Airton Faleiro",
+      "Celso Sabino",
+      "Júnior Ferrari",
+      "Olival Marques",
+      "Cássio Andrade",
+      "Eduardo Costa",
+      "Frei Anastacio Ribeiro",
+      "Gervásio Maia",
+      "André Ferreira",
+      "Túlio Gadêlha",
+      "Silvio Costa Filho",
+      "Margarete Coelho",
+      "Marcos Aurélio Sampaio",
+      "Pedro Lupion",
+      "Vermelho",
+      "Boca Aberta",
+      "Felipe Francischini",
+      "Aline Sleutjes",
+      "Gleisi Hoffmann",
+      "Christino Aureo",
+      "Marcelo Freixo",
+      "Otoni de Paula",
+      "Gurgel",
+      "Helio Lopes",
+      "Jaqueline Cassol",
+      "Léo Moraes",
+      "Silvia Cristina",
+      "Marcelo Moraes",
+      "Marlon Santos",
+      "Lucas Redecker",
+      "Liziane Bayer",
+      "Pedro Westphalen",
+      "Marcel van Hattem",
+      "Fernanda Melchionna",
+      "Carlos Chiodini",
+      "Ricardo Guidi",
+      "Darci de Matos",
+      "Gustinho Ribeiro",
+      "Alencar Santana Braga",
+      "Bozzella",
+      "Alexandre Padilha",
+      "Cezinha de Madureira",
+      "Osires Damaso",
+      "Eli Borges",
+      "Tiago Dimas",
+      "Vavá Martins",
+      "Professor Joziel",
+      "Emanuel Pinheiro Neto",
+      "Gilson Marques",
+      "Marcos Pereira",
+      "Daniel Trzeciak",
+      "Carla Zambelli",
+      "Igor Timo",
+      "Flordelis",
+      "Áurea Carolina",
+      "Luiz Antônio Corrêa",
+      "Franco Cartafina",
+      "Nelson Barbudo",
+      "David Soares",
+      "Dr. Luiz Antonio Teixeira Jr.",
+      "Delegado Antônio Furtado",
+      "Rodrigo Coelho",
+      "Marina Santos",
+      "Márcio Labre",
+      "Delegado Marcelo Freitas",
+      "Daniel Freitas",
+      "Carlos Veras",
+      "Fabio Schiochet",
+      "Guiga Peixoto",
+      "Fernando Rodolfo",
+      "Coronel Tadeu",
+      "Marília Arraes",
+      "Natália Bonavides",
+      "Daniel Silveira",
+      "Luisa Canziani",
+      "Filipe Barros",
+      "Caroline de Toni",
+      "André Janones",
+      "Alexis Fonteyne",
+      "Vitor Hugo",
+      "Zé Vitor",
+      "Dr. Frederico",
+      "Tiago Mitraud",
+      "Junio Amaral",
+      "Luiz Lima",
+      "Gutemberg Reis",
+      "Juninho do Pneu",
+      "Major Fabiana",
+      "Daniela do Waguinho",
+      "Abou Anni",
+      "Marco Bertaiolli",
+      "Lucas Gonzalez",
+      "Carlos Jordy",
+      "Paulo Ganime",
+      "Chris Tonietto",
+      "Pinheirinho",
+      "Rosana Valle",
+      "Talíria Petrone",
+      "Dr. Zacharias Calil",
+      "Luiz Philippe de Orleans e Bragança",
+      "Haroldo Cathedral",
+      "Geninho Zuliani",
+      "Célio Moura",
+      "Adriana Ventura",
+      "Felipe Rigoni",
+      "Alcides Rodrigues",
+      "Tereza Nelma",
+      "Julio Cesar Ribeiro",
+      "Policial Katia Sastre",
+      "Aroldo Martins",
+      "Hélio Costa",
+      "Rodrigo Agostinho",
+      "Professora Rosa Neide",
+      "Guilherme Derrite",
+      "Joenia Wapichana",
+      "Cristiano Vale",
+      "Vinicius Poit",
+      "Nereu Crispim",
+      "Idilvan Alencar",
+      "Bia Kicis",
+      "Tabata Amaral",
+      "Sâmia Bomfim",
+      "Kim Kataguiri",
+      "Benes Leocádio",
+      "Mara Rocha",
+      "Fábio Henrique",
+      "José Medeiros",
+      "Leda Sadala",
+      "Enrico Misasi",
+      "General Girão",
+      "Paulo Bengtson",
+      "Hercílio Coelho Diniz",
+      "Juarez Costa",
+      "Coronel Armando",
+      "Sanderson",
+      "Adriano do Baldy",
+      "Luizão Goulart",
+      "Paula Belmonte",
+      "Glaustin da Fokus",
+      "Maria Rosas",
+      "Eduardo Bismarck",
+      "Julian Lemos",
+      "Ottaci Nascimento",
+      "Coronel Chrisóstomo",
+      "Acácio Favacho",
+      "Chiquinho Brazão",
+      "Alexandre Frota",
+      "Alê Silva",
+      "Celina Leão",
+      "Edna Henrique",
+      "Dra. Soraya Manato",
+      "Gelson Azevedo",
+      "Joice Hasselmann",
+      "Léo Motta",
+      "Pedro Augusto Bezerra",
+      "Luis Miranda",
+      "Felício Laterça",
+      "Vinicius Farah",
+      "Heitor Freire",
+      "Loester Trutis",
+      "Professor Israel Batista",
+      "AJ Albuquerque",
+      "Júnior Mano",
+      "Nicoletti",
+      "Sérgio Brito",
+      "Átila Lins",
+      "Lídice da Mata",
+      "Claudio Cajado",
+      "José Rocha",
+      "Silas Câmara",
+      "Alice Portugal",
+      "Daniel Almeida",
+      "Cleber Verde",
+      "João Carlos Bacelar",
+      "Márcio Marinho",
+      "Félix Mendonça Júnior",
+      "Afonso Florence",
+      "Valmir Assunção",
+      "Waldenor Pereira",
+      "Antonio Brito",
+      "Arthur Oliveira Maia",
+      "José Nunes",
+      "Bosco Saraiva",
+      "Pastor Sargento Isidório",
+      "Cacá Leão",
+      "Elmar Nascimento",
+      "Bacelar",
+      "Jorge Solla",
+      "Mário Negromonte Jr.",
+      "Paulo Azi",
+      "Ronaldo Carletto",
+      "Uldurico Junior",
+      "Aluisio Mendes",
+      "André Fufuca",
+      "Hildo Rocha",
+      "João Marcelo Souza",
+      "Juscelino Filho",
+      "Zé Carlos",
+      "Abílio Santana",
+      "José Ricardo",
+      "Marcelo Ramos",
+      "Sidney Leite",
+      "Marcelo Nilo",
+      "Zé Neto",
+      "Adolfo Viana",
+      "Leur Lomanto Júnior",
+      "Bira do Pindaré",
+      "Edilázio Júnior",
+      "Josimar Maranhãozinho",
+      "Igor Kannário",
+      "Professora Dayane Pimentel",
+      "Marreca Filho",
+      "Raimundo Costa",
+      "Delegado Pablo",
+      "Pastor Gil",
+      "Alex Santana",
+      "Capitão Alberto Neto",
+      "Otto Alencar Filho",
+      "Tito",
+      "Junior Lourenço",
+      "Gil Cutrim",
+      "Pedro Lucas Fernandes",
+      "Beto Rosado",
+      "Charles Fernandes",
+      "David Miranda",
+      "Jorge Braz",
+      "Marcelo Brum",
+      "Roman",
+      "Reinhold Stephanes Junior",
+      "Ted Conti",
+      "Bia Cavassa",
+      "Valtenir Pereira",
+      "Joseildo Ramos",
+      "Paulo Magalhães",
+      "Gastão Vieira",
+      "Merlong Solano",
+      "Aníbal Gomes",
+      "Marcos Soares",
+      "Dr. Gonçalo",
+      "Ricardo Silva",
+      "Danilo Forte",
+      "Carla Dickson",
+      "LEO DE BRITO",
+      "Neucimar Fraga",
+      "Pedro Vilela",
+      "Ricardo da Karol",
+      "Milton Coelho",
+      "Aelton Freitas",
+      "Josivaldo JP",
+      "Vivi Reis",
+      "Pedro Augusto Palareti",
+      "Otavio Leite",
+      "Tia Eron",
+      "Leonardo Gadelha",
+      "Laerte Bessa",
+      "Rafafá",
+      "Odorico Monteiro",
+      "Rossoni",
+      "Paulo Vicente Caleffi",
+      "Totonho Lopes"
+  ],
+  "deputados": [
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
+          "nome": "Benedita da Silva",
+          "uf": "RJ",
+          "partido": "PT",
+          "gastoMedio": 31743.771111111113,
+          "proposicoes": 32,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73696.jpg",
+          "nome": "Angela Amin",
+          "uf": "SC",
+          "partido": "PP",
+          "gastoMedio": 23237.320370370362,
+          "proposicoes": 10,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73801.jpg",
+          "nome": "Renildo Calheiros",
+          "uf": "PE",
+          "partido": "PCdoB",
+          "gastoMedio": 23813.188518518517,
+          "proposicoes": 83,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg",
+          "nome": "Jandira Feghali",
+          "uf": "RJ",
+          "partido": "PCdoB",
+          "gastoMedio": 24207.616666666665,
+          "proposicoes": 21,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74459.jpg",
+          "nome": "Átila Lira",
+          "uf": "PI",
+          "partido": "PP",
+          "gastoMedio": 28446.0062962963,
+          "proposicoes": 3,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73466.jpg",
+          "nome": "Rubens Bueno",
+          "uf": "PR",
+          "partido": "CIDADANIA",
+          "gastoMedio": 23375.227407407412,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74419.jpg",
+          "nome": "Gonzaga Patriota",
+          "uf": "PE",
+          "partido": "PSB",
+          "gastoMedio": 39155.800740740735,
+          "proposicoes": 2,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74317.jpg",
+          "nome": "Júlio Cesar",
+          "uf": "PI",
+          "partido": "PSD",
+          "gastoMedio": 39843.17148148148,
+          "proposicoes": 17,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+          "nome": "Elcione Barbalho",
+          "uf": "PA",
+          "partido": "MDB",
+          "gastoMedio": 21960.524814814813,
+          "proposicoes": 4,
+          "presenca": 0.9345794392523364
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+          "nome": "Arlindo Chinaglia",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 24464.42111111111,
+          "proposicoes": 15,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
+          "nome": "Ricardo Barros",
+          "uf": "PR",
+          "partido": "PP",
+          "gastoMedio": 32616.8862962963,
+          "proposicoes": 5,
+          "presenca": 0.9392523364485982
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73531.jpg",
+          "nome": "Ivan Valente",
+          "uf": "SP",
+          "partido": "PSOL",
+          "gastoMedio": 19079.771481481483,
+          "proposicoes": 24,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74749.jpg",
+          "nome": "Mauro Lopes",
+          "uf": "MG",
+          "partido": "MDB",
+          "gastoMedio": 25577.094444444447,
+          "proposicoes": 10,
+          "presenca": 0.9439252336448598
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74299.jpg",
+          "nome": "Leônidas Cristino",
+          "uf": "CE",
+          "partido": "PDT",
+          "gastoMedio": 30046.084814814818,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74655.jpg",
+          "nome": "Eduardo Barbosa",
+          "uf": "MG",
+          "partido": "PSDB",
+          "gastoMedio": 18926.241111111107,
+          "proposicoes": 17,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73772.jpg",
+          "nome": "Hermes Parcianello",
+          "uf": "PR",
+          "partido": "MDB",
+          "gastoMedio": 28572.29555555555,
+          "proposicoes": 1,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+          "nome": "José Priante",
+          "uf": "PA",
+          "partido": "MDB",
+          "gastoMedio": 22640.8308,
+          "proposicoes": 1,
+          "presenca": 0.8130841121495327
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74439.jpg",
+          "nome": "Wolney Queiroz",
+          "uf": "PE",
+          "partido": "PDT",
+          "gastoMedio": 30072.262222222223,
+          "proposicoes": 142,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
+          "nome": "Celso Russomanno",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 19423.339230769234,
+          "proposicoes": 3,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+          "nome": "Wellington Roberto",
+          "uf": "PB",
+          "partido": "PL",
+          "gastoMedio": 42656.97074074074,
+          "proposicoes": 12,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74585.jpg",
+          "nome": "Lincoln Portela",
+          "uf": "MG",
+          "partido": "PL",
+          "gastoMedio": 29511.618888888886,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74467.jpg",
+          "nome": "Damião Feliciano",
+          "uf": "PB",
+          "partido": "PDT",
+          "gastoMedio": 33267.020000000004,
+          "proposicoes": 3,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73460.jpg",
+          "nome": "Gustavo Fruet",
+          "uf": "PR",
+          "partido": "PDT",
+          "gastoMedio": 12629.488888888885,
+          "proposicoes": 21,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74471.jpg",
+          "nome": "André de Paula",
+          "uf": "PE",
+          "partido": "PSD",
+          "gastoMedio": 29419.26925925926,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74693.jpg",
+          "nome": "Rodrigo Maia",
+          "uf": "RJ",
+          "partido": "DEM",
+          "gastoMedio": 20359.340370370377,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
+          "nome": "Pompeo de Mattos",
+          "uf": "RS",
+          "partido": "PDT",
+          "gastoMedio": 35243.18222222223,
+          "proposicoes": 13,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73482.jpg",
+          "nome": "Henrique Fontana",
+          "uf": "RS",
+          "partido": "PT",
+          "gastoMedio": 22655.40148148148,
+          "proposicoes": 23,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg",
+          "nome": "Luiza Erundina",
+          "uf": "SP",
+          "partido": "PSOL",
+          "gastoMedio": 21258.897407407407,
+          "proposicoes": 28,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74352.jpg",
+          "nome": "Nilson Pinto",
+          "uf": "PA",
+          "partido": "PSDB",
+          "gastoMedio": 34145.71703703704,
+          "proposicoes": 1,
+          "presenca": 0.9252336448598131
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73586.jpg",
+          "nome": "Júlio Delgado",
+          "uf": "MG",
+          "partido": "PSB",
+          "gastoMedio": 25220.8511111111,
+          "proposicoes": 20,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73692.jpg",
+          "nome": "Osmar Terra",
+          "uf": "RS",
+          "partido": "MDB",
+          "gastoMedio": 32113.354375000003,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+          "nome": "Giacobo",
+          "uf": "PR",
+          "partido": "PL",
+          "gastoMedio": 33680.181851851856,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
+          "nome": "Paulo Pimenta",
+          "uf": "RS",
+          "partido": "PT",
+          "gastoMedio": 36149.77333333333,
+          "proposicoes": 13,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74398.jpg",
+          "nome": "Maria do Rosário",
+          "uf": "RS",
+          "partido": "PT",
+          "gastoMedio": 26769.777777777777,
+          "proposicoes": 27,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74052.jpg",
+          "nome": "Bosco Costa",
+          "uf": "SE",
+          "partido": "PL",
+          "gastoMedio": 28055.767777777783,
+          "proposicoes": 5,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74283.jpg",
+          "nome": "Vicentinho",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 22552.942222222224,
+          "proposicoes": 14,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+          "nome": "Gilberto Nascimento",
+          "uf": "SP",
+          "partido": "PSC",
+          "gastoMedio": 28255.08629629629,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74273.jpg",
+          "nome": "Jefferson Campos",
+          "uf": "SP",
+          "partido": "PSB",
+          "gastoMedio": 26794.806399999998,
+          "proposicoes": 7,
+          "presenca": 0.9585492227979274
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
+          "nome": "Carlos Sampaio",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 27006.64296296297,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74159.jpg",
+          "nome": "Odair Cunha",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 34068.61444444444,
+          "proposicoes": 13,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
+          "nome": "Reginaldo Lopes",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 27538.84851851852,
+          "proposicoes": 13,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74160.jpg",
+          "nome": "Patrus Ananias",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 28538.061481481473,
+          "proposicoes": 23,
+          "presenca": 0.9392523364485982
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
+          "nome": "Leonardo Monteiro",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 33082.36444444445,
+          "proposicoes": 17,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74376.jpg",
+          "nome": "Vander Loubet",
+          "uf": "MS",
+          "partido": "PT",
+          "gastoMedio": 35124.043333333335,
+          "proposicoes": 14,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
+          "nome": "Wilson Santiago",
+          "uf": "PB",
+          "partido": "PTB",
+          "gastoMedio": 42010.42307692308,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73943.jpg",
+          "nome": "Perpétua Almeida",
+          "uf": "AC",
+          "partido": "PCdoB",
+          "gastoMedio": 42627.9637037037,
+          "proposicoes": 37,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74371.jpg",
+          "nome": "Rubens Otoni",
+          "uf": "GO",
+          "partido": "PT",
+          "gastoMedio": 33419.46185185185,
+          "proposicoes": 19,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74366.jpg",
+          "nome": "João Campos",
+          "uf": "GO",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 30686.337407407405,
+          "proposicoes": 4,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
+          "nome": "Mário Heringer",
+          "uf": "MG",
+          "partido": "PDT",
+          "gastoMedio": 27471.07481481482,
+          "proposicoes": 22,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+          "nome": "André Figueiredo",
+          "uf": "CE",
+          "partido": "PDT",
+          "gastoMedio": 35335.55222222222,
+          "proposicoes": 19,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+          "nome": "Afonso Hamm",
+          "uf": "RS",
+          "partido": "PP",
+          "gastoMedio": 24904.354074074072,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141335.jpg",
+          "nome": "Beto Faro",
+          "uf": "PA",
+          "partido": "PT",
+          "gastoMedio": 40313.46518518519,
+          "proposicoes": 11,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+          "nome": "Arnaldo Jardim",
+          "uf": "SP",
+          "partido": "CIDADANIA",
+          "gastoMedio": 26544.689259259263,
+          "proposicoes": 9,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141513.jpg",
+          "nome": "Bilac Pinto",
+          "uf": "MG",
+          "partido": "DEM",
+          "gastoMedio": 30550.421904761904,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141405.jpg",
+          "nome": "Celso Maldaner",
+          "uf": "SC",
+          "partido": "MDB",
+          "gastoMedio": 28972.9637037037,
+          "proposicoes": 12,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141439.jpg",
+          "nome": "Chico D'Angelo",
+          "uf": "RJ",
+          "partido": "PDT",
+          "gastoMedio": 29415.149999999998,
+          "proposicoes": 7,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
+          "nome": "Dagoberto Nogueira",
+          "uf": "MS",
+          "partido": "PDT",
+          "gastoMedio": 37272.79555555555,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141417.jpg",
+          "nome": "Edio Lopes",
+          "uf": "RR",
+          "partido": "PL",
+          "gastoMedio": 31365.350000000006,
+          "proposicoes": 0,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
+          "nome": "Eduardo da Fonte",
+          "uf": "PE",
+          "partido": "PP",
+          "gastoMedio": 28750.108518518515,
+          "proposicoes": 9,
+          "presenca": 0.9345794392523364
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141422.jpg",
+          "nome": "Efraim Filho",
+          "uf": "PB",
+          "partido": "DEM",
+          "gastoMedio": 35031.69814814815,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141427.jpg",
+          "nome": "Fábio Ramalho",
+          "uf": "MG",
+          "partido": "MDB",
+          "gastoMedio": 22499.49962962963,
+          "proposicoes": 4,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141431.jpg",
+          "nome": "Fernando Coelho Filho",
+          "uf": "PE",
+          "partido": "DEM",
+          "gastoMedio": 24634.55,
+          "proposicoes": 0,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141434.jpg",
+          "nome": "Flaviano Melo",
+          "uf": "AC",
+          "partido": "MDB",
+          "gastoMedio": 40727.86074074074,
+          "proposicoes": 0,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+          "nome": "Hugo Leal",
+          "uf": "RJ",
+          "partido": "PSD",
+          "gastoMedio": 26131.127777777776,
+          "proposicoes": 10,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
+          "nome": "João Maia",
+          "uf": "RN",
+          "partido": "PL",
+          "gastoMedio": 44266.40222222222,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
+          "nome": "José Airton Félix Cirilo",
+          "uf": "CE",
+          "partido": "PT",
+          "gastoMedio": 37848.06259259259,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141470.jpg",
+          "nome": "José Guimarães",
+          "uf": "CE",
+          "partido": "PT",
+          "gastoMedio": 38050.73481481482,
+          "proposicoes": 39,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141508.jpg",
+          "nome": "Mauro Nazif",
+          "uf": "RO",
+          "partido": "PSB",
+          "gastoMedio": 10826.405925925923,
+          "proposicoes": 12,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
+          "nome": "Paulo Pereira da Silva",
+          "uf": "SP",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 18311.80555555556,
+          "proposicoes": 53,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141516.jpg",
+          "nome": "Paulo Abi-Ackel",
+          "uf": "MG",
+          "partido": "PSDB",
+          "gastoMedio": 31965.797037037035,
+          "proposicoes": 2,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+          "nome": "Paulo Teixeira",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 35964.97185185186,
+          "proposicoes": 26,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141523.jpg",
+          "nome": "Raul Henry",
+          "uf": "PE",
+          "partido": "MDB",
+          "gastoMedio": 24505.040370370374,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141531.jpg",
+          "nome": "Rodrigo de Castro",
+          "uf": "MG",
+          "partido": "PSDB",
+          "gastoMedio": 30702.08962962963,
+          "proposicoes": 8,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141553.jpg",
+          "nome": "Vanderlei Macris",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 32098.33888888889,
+          "proposicoes": 12,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
+          "nome": "Vinicius Carvalho",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 33726.765185185184,
+          "proposicoes": 5,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
+          "nome": "Carlos Zarattini",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 28832.226666666662,
+          "proposicoes": 17,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/146307.jpg",
+          "nome": "Neri Geller",
+          "uf": "MT",
+          "partido": "PP",
+          "gastoMedio": 31738.683333333327,
+          "proposicoes": 13,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/151208.jpg",
+          "nome": "Laercio Oliveira",
+          "uf": "SE",
+          "partido": "PP",
+          "gastoMedio": 25718.079629629636,
+          "proposicoes": 4,
+          "presenca": 0.9112149532710281
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/152610.jpg",
+          "nome": "Roberto Alves",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 35870.28407407408,
+          "proposicoes": 11,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
+          "nome": "Glauber Braga",
+          "uf": "RJ",
+          "partido": "PSOL",
+          "gastoMedio": 25709.691851851858,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
+          "nome": "Milton Vieira",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 30780.261851851854,
+          "proposicoes": 1,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+          "nome": "Arthur Lira",
+          "uf": "AL",
+          "partido": "PP",
+          "gastoMedio": 18454.017037037036,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
+          "nome": "Professora Marcivania",
+          "uf": "AP",
+          "partido": "PCdoB",
+          "gastoMedio": 33858.23037037038,
+          "proposicoes": 9,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160591.jpg",
+          "nome": "Vinicius Gurgel",
+          "uf": "AP",
+          "partido": "PL",
+          "gastoMedio": 40304.74714285714,
+          "proposicoes": 0,
+          "presenca": 0.8181818181818182
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160645.jpg",
+          "nome": "Luiz Carlos",
+          "uf": "AP",
+          "partido": "PSDB",
+          "gastoMedio": 41193.078518518516,
+          "proposicoes": 2,
+          "presenca": 0.9299065420560748
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160669.jpg",
+          "nome": "Genecias Noronha",
+          "uf": "CE",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 20816.736296296287,
+          "proposicoes": 1,
+          "presenca": 0.8551401869158879
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+          "nome": "Domingos Neto",
+          "uf": "CE",
+          "partido": "PSD",
+          "gastoMedio": 37590.995,
+          "proposicoes": 3,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160575.jpg",
+          "nome": "Erika Kokay",
+          "uf": "DF",
+          "partido": "PT",
+          "gastoMedio": 26034.905555555557,
+          "proposicoes": 103,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160534.jpg",
+          "nome": "Lauriete",
+          "uf": "ES",
+          "partido": "PSC",
+          "gastoMedio": 34324.37296296296,
+          "proposicoes": 3,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
+          "nome": "Flávia Morais",
+          "uf": "GO",
+          "partido": "PDT",
+          "gastoMedio": 26488.007692307685,
+          "proposicoes": 27,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160599.jpg",
+          "nome": "Dimas Fabiano",
+          "uf": "MG",
+          "partido": "PP",
+          "gastoMedio": 28181.284444444445,
+          "proposicoes": 2,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
+          "nome": "Zé Silva",
+          "uf": "MG",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 29763.880740740737,
+          "proposicoes": 11,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
+          "nome": "Padre João",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 33516.0262962963,
+          "proposicoes": 21,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
+          "nome": "Weliton Prado",
+          "uf": "MG",
+          "partido": "PROS",
+          "gastoMedio": 22730.40846153846,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
+          "nome": "Eros Biondini",
+          "uf": "MG",
+          "partido": "PROS",
+          "gastoMedio": 26037.175925925927,
+          "proposicoes": 1,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160588.jpg",
+          "nome": "Diego Andrade",
+          "uf": "MG",
+          "partido": "PSD",
+          "gastoMedio": 25956.730370370373,
+          "proposicoes": 9,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
+          "nome": "Domingos Sávio",
+          "uf": "MG",
+          "partido": "PSDB",
+          "gastoMedio": 33295.29592592592,
+          "proposicoes": 14,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160510.jpg",
+          "nome": "Luis Tibé",
+          "uf": "MG",
+          "partido": "AVANTE",
+          "gastoMedio": 27632.017777777775,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160587.jpg",
+          "nome": "Fábio Trad",
+          "uf": "MS",
+          "partido": "PSD",
+          "gastoMedio": 14615.944444444445,
+          "proposicoes": 21,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+          "nome": "Aguinaldo Ribeiro",
+          "uf": "PB",
+          "partido": "PP",
+          "gastoMedio": 32401.166666666668,
+          "proposicoes": 0,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160674.jpg",
+          "nome": "Hugo Motta",
+          "uf": "PB",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 37529.92555555556,
+          "proposicoes": 54,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+          "nome": "Augusto Coutinho",
+          "uf": "PE",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 36680.27888888889,
+          "proposicoes": 8,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160528.jpg",
+          "nome": "Danilo Cabral",
+          "uf": "PE",
+          "partido": "PSB",
+          "gastoMedio": 20011.66111111111,
+          "proposicoes": 148,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
+          "nome": "Pastor Eurico",
+          "uf": "PE",
+          "partido": "PATRIOTA",
+          "gastoMedio": 24204.69481481482,
+          "proposicoes": 0,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/67138.jpg",
+          "nome": "Iracema Portella",
+          "uf": "PI",
+          "partido": "PP",
+          "gastoMedio": 35917.68518518518,
+          "proposicoes": 4,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
+          "nome": "Zeca Dirceu",
+          "uf": "PR",
+          "partido": "PT",
+          "gastoMedio": 36601.09370370371,
+          "proposicoes": 8,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160511.jpg",
+          "nome": "Alessandro Molon",
+          "uf": "RJ",
+          "partido": "PSB",
+          "gastoMedio": 28829.102592592593,
+          "proposicoes": 18,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
+          "nome": "Aureo Ribeiro",
+          "uf": "RJ",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 28376.695185185185,
+          "proposicoes": 48,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160531.jpg",
+          "nome": "Jhonatan de Jesus",
+          "uf": "RR",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 42206.175555555565,
+          "proposicoes": 1,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160570.jpg",
+          "nome": "Jerônimo Goergen",
+          "uf": "RS",
+          "partido": "PP",
+          "gastoMedio": 28490.33555555555,
+          "proposicoes": 16,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+          "nome": "Giovani Cherini",
+          "uf": "RS",
+          "partido": "PL",
+          "gastoMedio": 35715.86814814815,
+          "proposicoes": 16,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
+          "nome": "Bohn Gass",
+          "uf": "RS",
+          "partido": "PT",
+          "gastoMedio": 28494.028518518524,
+          "proposicoes": 177,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160535.jpg",
+          "nome": "Marcon",
+          "uf": "RS",
+          "partido": "PT",
+          "gastoMedio": 27680.735925925925,
+          "proposicoes": 17,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
+          "nome": "Alceu Moreira",
+          "uf": "RS",
+          "partido": "MDB",
+          "gastoMedio": 33773.403333333335,
+          "proposicoes": 11,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
+          "nome": "Pedro Uczai",
+          "uf": "SC",
+          "partido": "PT",
+          "gastoMedio": 30375.174814814804,
+          "proposicoes": 21,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160651.jpg",
+          "nome": "Rogério Peninha Mendonça",
+          "uf": "SC",
+          "partido": "MDB",
+          "gastoMedio": 25029.683043478264,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160601.jpg",
+          "nome": "Pr. Marco Feliciano",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 21609.1437037037,
+          "proposicoes": 6,
+          "presenca": 0.9952830188679245
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160976.jpg",
+          "nome": "Tiririca",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 11049.046923076925,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160558.jpg",
+          "nome": "Paulo Freire Costa",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 33536.91192307692,
+          "proposicoes": 0,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
+          "nome": "Alexandre Leite",
+          "uf": "SP",
+          "partido": "DEM",
+          "gastoMedio": 33704.32703703704,
+          "proposicoes": 1,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160532.jpg",
+          "nome": "Eli Corrêa Filho",
+          "uf": "SP",
+          "partido": "DEM",
+          "gastoMedio": 22602.83130434783,
+          "proposicoes": 7,
+          "presenca": 0.9481865284974094
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160667.jpg",
+          "nome": "Guilherme Mussi",
+          "uf": "SP",
+          "partido": "PP",
+          "gastoMedio": 20062.080833333333,
+          "proposicoes": 2,
+          "presenca": 0.7692307692307693
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160653.jpg",
+          "nome": "Roberto de Lucena",
+          "uf": "SP",
+          "partido": "PODE",
+          "gastoMedio": 29083.99222222222,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160655.jpg",
+          "nome": "Ricardo Izar",
+          "uf": "SP",
+          "partido": "PP",
+          "gastoMedio": 23727.245185185184,
+          "proposicoes": 7,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160589.jpg",
+          "nome": "Bruna Furlan",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 18864.193333333333,
+          "proposicoes": 1,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160639.jpg",
+          "nome": "Professora Dorinha Seabra Rezende",
+          "uf": "TO",
+          "partido": "DEM",
+          "gastoMedio": 31182.664074074073,
+          "proposicoes": 16,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/162332.jpg",
+          "nome": "Luiz Nishimori",
+          "uf": "PR",
+          "partido": "PL",
+          "gastoMedio": 34379.17814814815,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/75431.jpg",
+          "nome": "Maurício Dziedricki",
+          "uf": "RS",
+          "partido": "PTB",
+          "gastoMedio": 24254.169629629632,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92776.jpg",
+          "nome": "Stefano Aguiar",
+          "uf": "MG",
+          "partido": "PSD",
+          "gastoMedio": 31901.838148148145,
+          "proposicoes": 0,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164359.jpg",
+          "nome": "Delegado Waldir",
+          "uf": "GO",
+          "partido": "PSL",
+          "gastoMedio": 11428.470740740739,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/164360.jpg",
+          "nome": "Carmen Zanotto",
+          "uf": "SC",
+          "partido": "CIDADANIA",
+          "gastoMedio": 17261.64115384616,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/166402.jpg",
+          "nome": "Magda Mofatto",
+          "uf": "GO",
+          "partido": "PL",
+          "gastoMedio": 33273.041923076926,
+          "proposicoes": 3,
+          "presenca": 0.9018691588785047
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
+          "nome": "Paulão",
+          "uf": "AL",
+          "partido": "PT",
+          "gastoMedio": 28858.695555555547,
+          "proposicoes": 14,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/171623.jpg",
+          "nome": "Fabio Reis",
+          "uf": "SE",
+          "partido": "MDB",
+          "gastoMedio": 34706.82925925925,
+          "proposicoes": 1,
+          "presenca": 0.9392523364485982
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/177282.jpg",
+          "nome": "Subtenente Gonzaga",
+          "uf": "MG",
+          "partido": "PDT",
+          "gastoMedio": 28797.2262962963,
+          "proposicoes": 15,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204422.jpg",
+          "nome": "Ossesio Silva",
+          "uf": "PE",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 37520.92555555556,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
+          "nome": "Rogério Correia",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 31679.85111111111,
+          "proposicoes": 68,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+          "nome": "Capitão Augusto",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 35179.39962962963,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+          "nome": "André Abdon",
+          "uf": "AP",
+          "partido": "PP",
+          "gastoMedio": 38654.13148148148,
+          "proposicoes": 1,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+          "nome": "Valdevan Noventa",
+          "uf": "SE",
+          "partido": "PL",
+          "gastoMedio": 23369.015555555554,
+          "proposicoes": 3,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178832.jpg",
+          "nome": "Leandre",
+          "uf": "PR",
+          "partido": "PV",
+          "gastoMedio": 26042.068518518518,
+          "proposicoes": 9,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+          "nome": "Afonso Motta",
+          "uf": "RS",
+          "partido": "PDT",
+          "gastoMedio": 36604.61481481481,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+          "nome": "Aécio Neves",
+          "uf": "MG",
+          "partido": "PSDB",
+          "gastoMedio": 26252.59518518518,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133968.jpg",
+          "nome": "Paulo Ramos",
+          "uf": "RJ",
+          "partido": "PDT",
+          "gastoMedio": 30603.31111111111,
+          "proposicoes": 9,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74478.jpg",
+          "nome": "Luciano Bivar",
+          "uf": "PE",
+          "partido": "PSL",
+          "gastoMedio": 14335.190370370368,
+          "proposicoes": 60,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73604.jpg",
+          "nome": "Rui Falcão",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 31855.250370370366,
+          "proposicoes": 15,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178836.jpg",
+          "nome": "Alan Rick",
+          "uf": "AC",
+          "partido": "DEM",
+          "gastoMedio": 38621.708148148144,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178839.jpg",
+          "nome": "Jéssica Sales",
+          "uf": "AC",
+          "partido": "MDB",
+          "gastoMedio": 45284.695555555554,
+          "proposicoes": 3,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178843.jpg",
+          "nome": "Marx Beltrão",
+          "uf": "AL",
+          "partido": "PSD",
+          "gastoMedio": 36662.853333333325,
+          "proposicoes": 2,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
+          "nome": "Luizianne Lins",
+          "uf": "CE",
+          "partido": "PT",
+          "gastoMedio": 37007.206666666665,
+          "proposicoes": 18,
+          "presenca": 0.95
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
+          "nome": "Evair Vieira de Melo",
+          "uf": "ES",
+          "partido": "PP",
+          "gastoMedio": 30259.42296296295,
+          "proposicoes": 6,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178873.jpg",
+          "nome": "Helder Salomão",
+          "uf": "ES",
+          "partido": "PT",
+          "gastoMedio": 26140.293703703708,
+          "proposicoes": 24,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+          "nome": "Célio Silveira",
+          "uf": "GO",
+          "partido": "PSDB",
+          "gastoMedio": 29541.794074074063,
+          "proposicoes": 14,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178879.jpg",
+          "nome": "Lucas Vergilio",
+          "uf": "GO",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 28116.02,
+          "proposicoes": 2,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178895.jpg",
+          "nome": "Misael Varella",
+          "uf": "MG",
+          "partido": "PSD",
+          "gastoMedio": 35875.95807692307,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178896.jpg",
+          "nome": "Newton Cardoso Jr",
+          "uf": "MG",
+          "partido": "MDB",
+          "gastoMedio": 28148.285925925928,
+          "proposicoes": 2,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178908.jpg",
+          "nome": "Delegado Éder Mauro",
+          "uf": "PA",
+          "partido": "PSD",
+          "gastoMedio": 41111.6014814815,
+          "proposicoes": 0,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178909.jpg",
+          "nome": "Hélio Leite",
+          "uf": "PA",
+          "partido": "DEM",
+          "gastoMedio": 36543.29037037036,
+          "proposicoes": 2,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178910.jpg",
+          "nome": "Joaquim Passarinho",
+          "uf": "PA",
+          "partido": "PSD",
+          "gastoMedio": 21754.66111111111,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178916.jpg",
+          "nome": "Daniel Coelho",
+          "uf": "PE",
+          "partido": "CIDADANIA",
+          "gastoMedio": 27006.313333333346,
+          "proposicoes": 7,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
+          "nome": "Felipe Carreras",
+          "uf": "PE",
+          "partido": "PSB",
+          "gastoMedio": 15467.56875,
+          "proposicoes": 18,
+          "presenca": 0.9065420560747663
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178920.jpg",
+          "nome": "Ricardo Teobaldo",
+          "uf": "PE",
+          "partido": "PODE",
+          "gastoMedio": 39220.31444444443,
+          "proposicoes": 0,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178921.jpg",
+          "nome": "Sebastião Oliveira",
+          "uf": "PE",
+          "partido": "AVANTE",
+          "gastoMedio": 41656.61444444445,
+          "proposicoes": 3,
+          "presenca": 0.8037383177570093
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178922.jpg",
+          "nome": "Tadeu Alencar",
+          "uf": "PE",
+          "partido": "PSB",
+          "gastoMedio": 30814.361111111106,
+          "proposicoes": 4,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178924.jpg",
+          "nome": "Capitão Fábio Abreu",
+          "uf": "PI",
+          "partido": "PL",
+          "gastoMedio": 20149.359999999997,
+          "proposicoes": 13,
+          "presenca": 0.9833333333333333
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178925.jpg",
+          "nome": "Rejane Dias",
+          "uf": "PI",
+          "partido": "PT",
+          "gastoMedio": 22714.62518518518,
+          "proposicoes": 36,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+          "nome": "Aliel Machado",
+          "uf": "PR",
+          "partido": "PSB",
+          "gastoMedio": 29707.653333333325,
+          "proposicoes": 2,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178928.jpg",
+          "nome": "Christiane de Souza Yared",
+          "uf": "PR",
+          "partido": "PL",
+          "gastoMedio": 27868.97666666667,
+          "proposicoes": 21,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
+          "nome": "Diego Garcia",
+          "uf": "PR",
+          "partido": "PODE",
+          "gastoMedio": 18827.134444444448,
+          "proposicoes": 20,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/132504.jpg",
+          "nome": "Enio Verri",
+          "uf": "PR",
+          "partido": "PT",
+          "gastoMedio": 36084.08148148148,
+          "proposicoes": 11,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178931.jpg",
+          "nome": "Luciano Ducci",
+          "uf": "PR",
+          "partido": "PSB",
+          "gastoMedio": 28742.367407407408,
+          "proposicoes": 4,
+          "presenca": 0.9018691588785047
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
+          "nome": "Sergio Souza",
+          "uf": "PR",
+          "partido": "MDB",
+          "gastoMedio": 35918.834074074075,
+          "proposicoes": 1,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178934.jpg",
+          "nome": "Toninho Wandscheer",
+          "uf": "PR",
+          "partido": "PROS",
+          "gastoMedio": 35230.44851851851,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+          "nome": "Altineu Côrtes",
+          "uf": "RJ",
+          "partido": "PL",
+          "gastoMedio": 24276.853888888887,
+          "proposicoes": 0,
+          "presenca": 0.9545454545454546
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178939.jpg",
+          "nome": "Clarissa Garotinho",
+          "uf": "RJ",
+          "partido": "PROS",
+          "gastoMedio": 14210.465384615392,
+          "proposicoes": 0,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
+          "nome": "Rosangela Gomes",
+          "uf": "RJ",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 26711.19814814814,
+          "proposicoes": 4,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178946.jpg",
+          "nome": "Soraya Santos",
+          "uf": "RJ",
+          "partido": "PL",
+          "gastoMedio": 23271.53444444444,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
+          "nome": "Sóstenes Cavalcante",
+          "uf": "RJ",
+          "partido": "DEM",
+          "gastoMedio": 28410.205555555553,
+          "proposicoes": 8,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178951.jpg",
+          "nome": "Rafael Motta",
+          "uf": "RN",
+          "partido": "PSB",
+          "gastoMedio": 29915.03703703704,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178952.jpg",
+          "nome": "Walter Alves",
+          "uf": "RN",
+          "partido": "MDB",
+          "gastoMedio": 33612.07962962962,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178953.jpg",
+          "nome": "Expedito Netto",
+          "uf": "RO",
+          "partido": "PSD",
+          "gastoMedio": 18778.01888888889,
+          "proposicoes": 2,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
+          "nome": "Lucio Mosquini",
+          "uf": "RO",
+          "partido": "MDB",
+          "gastoMedio": 26408.278148148154,
+          "proposicoes": 7,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178956.jpg",
+          "nome": "Mariana Carvalho",
+          "uf": "RO",
+          "partido": "PSDB",
+          "gastoMedio": 19689.31703703704,
+          "proposicoes": 5,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178959.jpg",
+          "nome": "Hiran Gonçalves",
+          "uf": "RR",
+          "partido": "PP",
+          "gastoMedio": 33776.08333333333,
+          "proposicoes": 1,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178961.jpg",
+          "nome": "Shéridan",
+          "uf": "RR",
+          "partido": "PSDB",
+          "gastoMedio": 36553.9162962963,
+          "proposicoes": 0,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+          "nome": "Carlos Gomes",
+          "uf": "RS",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 16958.92296296297,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
+          "nome": "Covatti Filho",
+          "uf": "RS",
+          "partido": "PP",
+          "gastoMedio": 11664.73,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+          "nome": "Heitor Schuch",
+          "uf": "RS",
+          "partido": "PSB",
+          "gastoMedio": 22790.70592592593,
+          "proposicoes": 3,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
+          "nome": "Geovania de Sá",
+          "uf": "SC",
+          "partido": "PSDB",
+          "gastoMedio": 28068.026666666665,
+          "proposicoes": 12,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178969.jpg",
+          "nome": "Fábio Mitidieri",
+          "uf": "SE",
+          "partido": "PSD",
+          "gastoMedio": 37603.938148148154,
+          "proposicoes": 7,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
+          "nome": "João Daniel",
+          "uf": "SE",
+          "partido": "PT",
+          "gastoMedio": 40458.45777777778,
+          "proposicoes": 51,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+          "nome": "Alex Manente",
+          "uf": "SP",
+          "partido": "CIDADANIA",
+          "gastoMedio": 33297.69703703703,
+          "proposicoes": 9,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178975.jpg",
+          "nome": "Baleia Rossi",
+          "uf": "SP",
+          "partido": "MDB",
+          "gastoMedio": 26269.157777777782,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92346.jpg",
+          "nome": "Eduardo Bolsonaro",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 26482.303333333326,
+          "proposicoes": 1,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178977.jpg",
+          "nome": "Eduardo Cury",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 27746.995185185184,
+          "proposicoes": 22,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
+          "nome": "Fausto Pinato",
+          "uf": "SP",
+          "partido": "PP",
+          "gastoMedio": 19875.29592592593,
+          "proposicoes": 1,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178981.jpg",
+          "nome": "Herculano Passos",
+          "uf": "SP",
+          "partido": "MDB",
+          "gastoMedio": 36707.60333333333,
+          "proposicoes": 2,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178983.jpg",
+          "nome": "Marcio Alvino",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 7316.391599999997,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178985.jpg",
+          "nome": "Miguel Lombardi",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 18412.007037037038,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
+          "nome": "Nilto Tatto",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 30628.38481481481,
+          "proposicoes": 48,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
+          "nome": "Orlando Silva",
+          "uf": "SP",
+          "partido": "PCdoB",
+          "gastoMedio": 35531.392222222225,
+          "proposicoes": 8,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
+          "nome": "Renata Abreu",
+          "uf": "SP",
+          "partido": "PODE",
+          "gastoMedio": 30677.6485,
+          "proposicoes": 4,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178990.jpg",
+          "nome": "Samuel Moreira",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 30653.967777777783,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178992.jpg",
+          "nome": "Vitor Lippi",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 28104.217407407403,
+          "proposicoes": 5,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
+          "nome": "Carlos Henrique Gaguim",
+          "uf": "TO",
+          "partido": "DEM",
+          "gastoMedio": 31860.82703703703,
+          "proposicoes": 5,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178994.jpg",
+          "nome": "Dulce Miranda",
+          "uf": "TO",
+          "partido": "MDB",
+          "gastoMedio": 33873.61592592593,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
+          "nome": "Vicentinho Júnior",
+          "uf": "TO",
+          "partido": "PL",
+          "gastoMedio": 39305.75111111112,
+          "proposicoes": 3,
+          "presenca": 0.9205607476635514
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178996.jpg",
+          "nome": "Giovani Feltes",
+          "uf": "RS",
+          "partido": "MDB",
+          "gastoMedio": 15918.84037037037,
+          "proposicoes": 2,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178997.jpg",
+          "nome": "Moses Rodrigues",
+          "uf": "CE",
+          "partido": "MDB",
+          "gastoMedio": 34203.24307692308,
+          "proposicoes": 2,
+          "presenca": 0.9096385542168675
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
+          "nome": "Marcelo Álvaro Antônio",
+          "uf": "MG",
+          "partido": "PSL",
+          "gastoMedio": 10984.074999999999,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/146788.jpg",
+          "nome": "Marcelo Aro",
+          "uf": "MG",
+          "partido": "PP",
+          "gastoMedio": 27762.753333333327,
+          "proposicoes": 2,
+          "presenca": 0.8878504672897196
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/179001.jpg",
+          "nome": "Márcio Biolchi",
+          "uf": "RS",
+          "partido": "MDB",
+          "gastoMedio": 28745.65444444445,
+          "proposicoes": 2,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204434.jpg",
+          "nome": "Dra. Vanda Milani",
+          "uf": "AC",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 41273.486666666664,
+          "proposicoes": 1,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/194260.jpg",
+          "nome": "Nivaldo Albuquerque",
+          "uf": "AL",
+          "partido": "PTB",
+          "gastoMedio": 38080.071851851855,
+          "proposicoes": 5,
+          "presenca": 0.9439252336448598
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/195866.jpg",
+          "nome": "Vaidon Oliveira",
+          "uf": "CE",
+          "partido": "PROS",
+          "gastoMedio": 39246.1336,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204481.jpg",
+          "nome": "Dr. Jaziel",
+          "uf": "CE",
+          "partido": "PL",
+          "gastoMedio": 33053.18481481482,
+          "proposicoes": 10,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/66179.jpg",
+          "nome": "Norma Ayub",
+          "uf": "ES",
+          "partido": "DEM",
+          "gastoMedio": 18917.144444444446,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204386.jpg",
+          "nome": "Jose Mario Schreiner",
+          "uf": "GO",
+          "partido": "DEM",
+          "gastoMedio": 21889.435555555556,
+          "proposicoes": 13,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204351.jpg",
+          "nome": "Dr. Luiz Ovando",
+          "uf": "MS",
+          "partido": "PSL",
+          "gastoMedio": 18322.968888888885,
+          "proposicoes": 1,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204482.jpg",
+          "nome": "Euclydes Pettersen",
+          "uf": "MG",
+          "partido": "PSC",
+          "gastoMedio": 35960.054444444446,
+          "proposicoes": 1,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204483.jpg",
+          "nome": "Vilson da Fetaemg",
+          "uf": "MG",
+          "partido": "PSB",
+          "gastoMedio": 16628.41296296296,
+          "proposicoes": 5,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/193726.jpg",
+          "nome": "Paulo Eduardo Martins",
+          "uf": "PR",
+          "partido": "PSC",
+          "gastoMedio": 4812.902,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
+          "nome": "Sargento Fahur",
+          "uf": "PR",
+          "partido": "PSD",
+          "gastoMedio": 17293.83814814815,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
+          "nome": "Fernando Monteiro",
+          "uf": "PE",
+          "partido": "PP",
+          "gastoMedio": 29350.01888888888,
+          "proposicoes": 1,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
+          "nome": "Flávio Nogueira",
+          "uf": "PI",
+          "partido": "PDT",
+          "gastoMedio": 39534.979629629626,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/196358.jpg",
+          "nome": "Lourival Gomes",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 25138.245925925927,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+          "nome": "Bibo Nunes",
+          "uf": "RS",
+          "partido": "PSL",
+          "gastoMedio": 24901.74333333334,
+          "proposicoes": 8,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204484.jpg",
+          "nome": "General Peternelli",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 19839.30185185185,
+          "proposicoes": 5,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
+          "nome": "Luiz Carlos Motta",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 16620.06111111111,
+          "proposicoes": 6,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204435.jpg",
+          "nome": "Jesus Sérgio",
+          "uf": "AC",
+          "partido": "PDT",
+          "gastoMedio": 43958.25407407408,
+          "proposicoes": 11,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+          "nome": "Isnaldo Bulhões Jr.",
+          "uf": "AL",
+          "partido": "MDB",
+          "gastoMedio": 30388.482222222217,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204437.jpg",
+          "nome": "Severino Pessoa",
+          "uf": "AL",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 34709.30730769231,
+          "proposicoes": 6,
+          "presenca": 0.9112149532710281
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204438.jpg",
+          "nome": "Sergio Toledo",
+          "uf": "AL",
+          "partido": "PL",
+          "gastoMedio": 35383.32111111112,
+          "proposicoes": 1,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204352.jpg",
+          "nome": "Camilo Capiberibe",
+          "uf": "AP",
+          "partido": "PSB",
+          "gastoMedio": 39798.66814814814,
+          "proposicoes": 15,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
+          "nome": "Aline Gurgel",
+          "uf": "AP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 41525.51407407407,
+          "proposicoes": 9,
+          "presenca": 0.8878504672897196
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204487.jpg",
+          "nome": "Capitão Wagner",
+          "uf": "CE",
+          "partido": "PROS",
+          "gastoMedio": 29074.85958333334,
+          "proposicoes": 14,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
+          "nome": "Célio Studart",
+          "uf": "CE",
+          "partido": "PV",
+          "gastoMedio": 17675.79111111111,
+          "proposicoes": 24,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
+          "nome": "Da Vitoria",
+          "uf": "ES",
+          "partido": "CIDADANIA",
+          "gastoMedio": 34220.16296296296,
+          "proposicoes": 3,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
+          "nome": "Amaro Neto",
+          "uf": "ES",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 14373.710740740737,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204389.jpg",
+          "nome": "Elias Vaz",
+          "uf": "GO",
+          "partido": "PSB",
+          "gastoMedio": 9146.461851851853,
+          "proposicoes": 16,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
+          "nome": "Professor Alcides",
+          "uf": "GO",
+          "partido": "PP",
+          "gastoMedio": 36233.87444444446,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204391.jpg",
+          "nome": "José Nelto",
+          "uf": "GO",
+          "partido": "PODE",
+          "gastoMedio": 30129.368000000002,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204392.jpg",
+          "nome": "Francisco Jr.",
+          "uf": "GO",
+          "partido": "PSD",
+          "gastoMedio": 31465.254074074073,
+          "proposicoes": 5,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204490.jpg",
+          "nome": "Charlles Evangelista",
+          "uf": "MG",
+          "partido": "PSL",
+          "gastoMedio": 25216.323703703703,
+          "proposicoes": 1,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204491.jpg",
+          "nome": "Gilberto Abramo",
+          "uf": "MG",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 29643.14222222222,
+          "proposicoes": 3,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204492.jpg",
+          "nome": "Paulo Guedes",
+          "uf": "MG",
+          "partido": "PT",
+          "gastoMedio": 34119.8962962963,
+          "proposicoes": 12,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
+          "nome": "Greyce Elias",
+          "uf": "MG",
+          "partido": "AVANTE",
+          "gastoMedio": 9632.008333333333,
+          "proposicoes": 10,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
+          "nome": "Lafayette de Andrada",
+          "uf": "MG",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 35961.30074074074,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/161550.jpg",
+          "nome": "Emidinho Madeira",
+          "uf": "MG",
+          "partido": "PSB",
+          "gastoMedio": 31120.525185185186,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+          "nome": "Fred Costa",
+          "uf": "MG",
+          "partido": "PATRIOTA",
+          "gastoMedio": 26043.670370370375,
+          "proposicoes": 21,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204357.jpg",
+          "nome": "Rose Modesto",
+          "uf": "MS",
+          "partido": "PSDB",
+          "gastoMedio": 20844.781851851854,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg",
+          "nome": "Beto Pereira",
+          "uf": "MS",
+          "partido": "PSDB",
+          "gastoMedio": 37270.450370370374,
+          "proposicoes": 1,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204439.jpg",
+          "nome": "Dr. Leonardo",
+          "uf": "MT",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 31048.628148148153,
+          "proposicoes": 4,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+          "nome": "Airton Faleiro",
+          "uf": "PA",
+          "partido": "PT",
+          "gastoMedio": 37862.22888888889,
+          "proposicoes": 25,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
+          "nome": "Celso Sabino",
+          "uf": "PA",
+          "partido": "PSDB",
+          "gastoMedio": 37231.36000000001,
+          "proposicoes": 7,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204497.jpg",
+          "nome": "Júnior Ferrari",
+          "uf": "PA",
+          "partido": "PSD",
+          "gastoMedio": 11080.191481481479,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204498.jpg",
+          "nome": "Olival Marques",
+          "uf": "PA",
+          "partido": "DEM",
+          "gastoMedio": 38248.85851851852,
+          "proposicoes": 0,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204499.jpg",
+          "nome": "Cássio Andrade",
+          "uf": "PA",
+          "partido": "PSB",
+          "gastoMedio": 39697.18615384615,
+          "proposicoes": 2,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204500.jpg",
+          "nome": "Eduardo Costa",
+          "uf": "PA",
+          "partido": "PTB",
+          "gastoMedio": 37819.749259259246,
+          "proposicoes": 12,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204393.jpg",
+          "nome": "Frei Anastacio Ribeiro",
+          "uf": "PB",
+          "partido": "PT",
+          "gastoMedio": 38115.57962962964,
+          "proposicoes": 21,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
+          "nome": "Gervásio Maia",
+          "uf": "PB",
+          "partido": "PSB",
+          "gastoMedio": 17804.628518518515,
+          "proposicoes": 4,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+          "nome": "André Ferreira",
+          "uf": "PE",
+          "partido": "PSC",
+          "gastoMedio": 29287.122592592594,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
+          "nome": "Túlio Gadêlha",
+          "uf": "PE",
+          "partido": "PDT",
+          "gastoMedio": 32491.734444444446,
+          "proposicoes": 25,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+          "nome": "Silvio Costa Filho",
+          "uf": "PE",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 36865.380370370374,
+          "proposicoes": 3,
+          "presenca": 0.9392523364485982
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204430.jpg",
+          "nome": "Margarete Coelho",
+          "uf": "PI",
+          "partido": "PP",
+          "gastoMedio": 36885.3674074074,
+          "proposicoes": 15,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204431.jpg",
+          "nome": "Marcos Aurélio Sampaio",
+          "uf": "PI",
+          "partido": "MDB",
+          "gastoMedio": 36097.90333333333,
+          "proposicoes": 2,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204395.jpg",
+          "nome": "Pedro Lupion",
+          "uf": "PR",
+          "partido": "DEM",
+          "gastoMedio": 32439.553703703707,
+          "proposicoes": 22,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
+          "nome": "Vermelho",
+          "uf": "PR",
+          "partido": "PSD",
+          "gastoMedio": 34446.154814814814,
+          "proposicoes": 3,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204397.jpg",
+          "nome": "Boca Aberta",
+          "uf": "PR",
+          "partido": "PROS",
+          "gastoMedio": 38773.969259259255,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204398.jpg",
+          "nome": "Felipe Francischini",
+          "uf": "PR",
+          "partido": "PSL",
+          "gastoMedio": 31267.09888888889,
+          "proposicoes": 3,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204400.jpg",
+          "nome": "Aline Sleutjes",
+          "uf": "PR",
+          "partido": "PSL",
+          "gastoMedio": 25996.527407407408,
+          "proposicoes": 12,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg",
+          "nome": "Gleisi Hoffmann",
+          "uf": "PR",
+          "partido": "PT",
+          "gastoMedio": 37537.321851851855,
+          "proposicoes": 23,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204440.jpg",
+          "nome": "Christino Aureo",
+          "uf": "RJ",
+          "partido": "PP",
+          "gastoMedio": 28621.735185185193,
+          "proposicoes": 12,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/76874.jpg",
+          "nome": "Marcelo Freixo",
+          "uf": "RJ",
+          "partido": "PSOL",
+          "gastoMedio": 30882.786296296304,
+          "proposicoes": 16,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204441.jpg",
+          "nome": "Otoni de Paula",
+          "uf": "RJ",
+          "partido": "PSC",
+          "gastoMedio": 26795.182222222225,
+          "proposicoes": 7,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204442.jpg",
+          "nome": "Gurgel",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 32595.411851851855,
+          "proposicoes": 12,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
+          "nome": "Helio Lopes",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 24536.998518518518,
+          "proposicoes": 6,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/108338.jpg",
+          "nome": "Jaqueline Cassol",
+          "uf": "RO",
+          "partido": "PP",
+          "gastoMedio": 31569.207407407415,
+          "proposicoes": 6,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204359.jpg",
+          "nome": "Léo Moraes",
+          "uf": "RO",
+          "partido": "PODE",
+          "gastoMedio": 10264.196666666665,
+          "proposicoes": 13,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
+          "nome": "Silvia Cristina",
+          "uf": "RO",
+          "partido": "PDT",
+          "gastoMedio": 39247.56703703704,
+          "proposicoes": 8,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133810.jpg",
+          "nome": "Marcelo Moraes",
+          "uf": "RS",
+          "partido": "PTB",
+          "gastoMedio": 16763.82925925926,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204403.jpg",
+          "nome": "Marlon Santos",
+          "uf": "RS",
+          "partido": "PDT",
+          "gastoMedio": 32705.01222222222,
+          "proposicoes": 2,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
+          "nome": "Lucas Redecker",
+          "uf": "RS",
+          "partido": "PSDB",
+          "gastoMedio": 17441.105185185184,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204405.jpg",
+          "nome": "Liziane Bayer",
+          "uf": "RS",
+          "partido": "PSB",
+          "gastoMedio": 29930.611481481486,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
+          "nome": "Pedro Westphalen",
+          "uf": "RS",
+          "partido": "PP",
+          "gastoMedio": 33084.38481481481,
+          "proposicoes": 10,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/156190.jpg",
+          "nome": "Marcel van Hattem",
+          "uf": "RS",
+          "partido": "NOVO",
+          "gastoMedio": 6697.118518518519,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
+          "nome": "Fernanda Melchionna",
+          "uf": "RS",
+          "partido": "PSOL",
+          "gastoMedio": 21188.592962962957,
+          "proposicoes": 67,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+          "nome": "Carlos Chiodini",
+          "uf": "SC",
+          "partido": "MDB",
+          "gastoMedio": 24671.90518518519,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204362.jpg",
+          "nome": "Ricardo Guidi",
+          "uf": "SC",
+          "partido": "PSD",
+          "gastoMedio": 16684.848148148143,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/116379.jpg",
+          "nome": "Darci de Matos",
+          "uf": "SC",
+          "partido": "PSD",
+          "gastoMedio": 26036.38480000001,
+          "proposicoes": 23,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204408.jpg",
+          "nome": "Gustinho Ribeiro",
+          "uf": "SE",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 35842.38296296297,
+          "proposicoes": 0,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
+          "nome": "Alencar Santana Braga",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 33417.986296296294,
+          "proposicoes": 19,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204502.jpg",
+          "nome": "Bozzella",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 33288.78740740742,
+          "proposicoes": 1,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204503.jpg",
+          "nome": "Alexandre Padilha",
+          "uf": "SP",
+          "partido": "PT",
+          "gastoMedio": 32835.575925925936,
+          "proposicoes": 49,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
+          "nome": "Cezinha de Madureira",
+          "uf": "SP",
+          "partido": "PSD",
+          "gastoMedio": 32998.21111111111,
+          "proposicoes": 3,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204363.jpg",
+          "nome": "Osires Damaso",
+          "uf": "TO",
+          "partido": "PSC",
+          "gastoMedio": 36335.08740740741,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204364.jpg",
+          "nome": "Eli Borges",
+          "uf": "TO",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 27538.117037037035,
+          "proposicoes": 5,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143084.jpg",
+          "nome": "Tiago Dimas",
+          "uf": "TO",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 33411.764814814815,
+          "proposicoes": 2,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204505.jpg",
+          "nome": "Vavá Martins",
+          "uf": "PA",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 37138.02740740742,
+          "proposicoes": 2,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204446.jpg",
+          "nome": "Professor Joziel",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 28932.87444444445,
+          "proposicoes": 2,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/198783.jpg",
+          "nome": "Emanuel Pinheiro Neto",
+          "uf": "MT",
+          "partido": "PTB",
+          "gastoMedio": 23535.050370370373,
+          "proposicoes": 3,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
+          "nome": "Gilson Marques",
+          "uf": "SC",
+          "partido": "NOVO",
+          "gastoMedio": 5230.752307692308,
+          "proposicoes": 9,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204506.jpg",
+          "nome": "Marcos Pereira",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 31943.608518518515,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+          "nome": "Daniel Trzeciak",
+          "uf": "RS",
+          "partido": "PSDB",
+          "gastoMedio": 11515.397407407409,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204507.jpg",
+          "nome": "Carla Zambelli",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 24530.47703703703,
+          "proposicoes": 4,
+          "presenca": 0.9392523364485982
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
+          "nome": "Igor Timo",
+          "uf": "MG",
+          "partido": "PODE",
+          "gastoMedio": 31054.876296296294,
+          "proposicoes": 13,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204447.jpg",
+          "nome": "Flordelis",
+          "uf": "RJ",
+          "partido": "PSD",
+          "gastoMedio": 31091.222307692315,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204509.jpg",
+          "nome": "Áurea Carolina",
+          "uf": "MG",
+          "partido": "PSOL",
+          "gastoMedio": 22617.182962962965,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204448.jpg",
+          "nome": "Luiz Antônio Corrêa",
+          "uf": "RJ",
+          "partido": "PL",
+          "gastoMedio": 31558.814444444448,
+          "proposicoes": 3,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204510.jpg",
+          "nome": "Franco Cartafina",
+          "uf": "MG",
+          "partido": "PP",
+          "gastoMedio": 18298.981851851848,
+          "proposicoes": 9,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+          "nome": "Nelson Barbudo",
+          "uf": "MT",
+          "partido": "PSL",
+          "gastoMedio": 26944.380000000005,
+          "proposicoes": 0,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
+          "nome": "David Soares",
+          "uf": "SP",
+          "partido": "DEM",
+          "gastoMedio": 21508.56074074074,
+          "proposicoes": 10,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+          "nome": "Dr. Luiz Antonio Teixeira Jr.",
+          "uf": "RJ",
+          "partido": "PP",
+          "gastoMedio": 29376.690000000002,
+          "proposicoes": 7,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204451.jpg",
+          "nome": "Delegado Antônio Furtado",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 31389.73555555556,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204366.jpg",
+          "nome": "Rodrigo Coelho",
+          "uf": "SC",
+          "partido": "PSB",
+          "gastoMedio": 13499.848148148149,
+          "proposicoes": 10,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204432.jpg",
+          "nome": "Marina Santos",
+          "uf": "PI",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 36332.31185185185,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204452.jpg",
+          "nome": "Márcio Labre",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 31320.08074074074,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
+          "nome": "Delegado Marcelo Freitas",
+          "uf": "MG",
+          "partido": "PSL",
+          "gastoMedio": 32344.66,
+          "proposicoes": 2,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204367.jpg",
+          "nome": "Daniel Freitas",
+          "uf": "SC",
+          "partido": "PSL",
+          "gastoMedio": 29745.297407407405,
+          "proposicoes": 6,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+          "nome": "Carlos Veras",
+          "uf": "PE",
+          "partido": "PT",
+          "gastoMedio": 34307.96851851852,
+          "proposicoes": 88,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204368.jpg",
+          "nome": "Fabio Schiochet",
+          "uf": "SC",
+          "partido": "PSL",
+          "gastoMedio": 27760.518148148152,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204513.jpg",
+          "nome": "Guiga Peixoto",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 10972.720740740744,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
+          "nome": "Fernando Rodolfo",
+          "uf": "PE",
+          "partido": "PL",
+          "gastoMedio": 37710.34888888889,
+          "proposicoes": 4,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204514.jpg",
+          "nome": "Coronel Tadeu",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 15516.314074074076,
+          "proposicoes": 5,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204428.jpg",
+          "nome": "Marília Arraes",
+          "uf": "PE",
+          "partido": "PT",
+          "gastoMedio": 34669.88629629629,
+          "proposicoes": 18,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204453.jpg",
+          "nome": "Natália Bonavides",
+          "uf": "RN",
+          "partido": "PT",
+          "gastoMedio": 29331.801851851862,
+          "proposicoes": 25,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204454.jpg",
+          "nome": "Daniel Silveira",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 34009.00185185185,
+          "proposicoes": 4,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204410.jpg",
+          "nome": "Luisa Canziani",
+          "uf": "PR",
+          "partido": "PTB",
+          "gastoMedio": 34482.75444444445,
+          "proposicoes": 2,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204411.jpg",
+          "nome": "Filipe Barros",
+          "uf": "PR",
+          "partido": "PSL",
+          "gastoMedio": 31882.197037037044,
+          "proposicoes": 10,
+          "presenca": 0.9439252336448598
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
+          "nome": "Caroline de Toni",
+          "uf": "SC",
+          "partido": "PSL",
+          "gastoMedio": 8252.288148148149,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+          "nome": "André Janones",
+          "uf": "MG",
+          "partido": "AVANTE",
+          "gastoMedio": 23759.35444444444,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204516.jpg",
+          "nome": "Alexis Fonteyne",
+          "uf": "SP",
+          "partido": "NOVO",
+          "gastoMedio": 12772.545555555555,
+          "proposicoes": 16,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/179587.jpg",
+          "nome": "Vitor Hugo",
+          "uf": "GO",
+          "partido": "PSL",
+          "gastoMedio": 23784.565185185187,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+          "nome": "Zé Vitor",
+          "uf": "MG",
+          "partido": "PL",
+          "gastoMedio": 27943.11518518518,
+          "proposicoes": 6,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
+          "nome": "Dr. Frederico",
+          "uf": "MG",
+          "partido": "PATRIOTA",
+          "gastoMedio": 24471.63,
+          "proposicoes": 1,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204519.jpg",
+          "nome": "Tiago Mitraud",
+          "uf": "MG",
+          "partido": "NOVO",
+          "gastoMedio": 1613.1711111111113,
+          "proposicoes": 18,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
+          "nome": "Junio Amaral",
+          "uf": "MG",
+          "partido": "PSL",
+          "gastoMedio": 10585.028148148149,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
+          "nome": "Luiz Lima",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 29789.447777777776,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204456.jpg",
+          "nome": "Gutemberg Reis",
+          "uf": "RJ",
+          "partido": "MDB",
+          "gastoMedio": 31782.400000000005,
+          "proposicoes": 9,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
+          "nome": "Juninho do Pneu",
+          "uf": "RJ",
+          "partido": "DEM",
+          "gastoMedio": 33914.79074074075,
+          "proposicoes": 15,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204458.jpg",
+          "nome": "Major Fabiana",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 23093.128888888892,
+          "proposicoes": 2,
+          "presenca": 0.9302325581395349
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg",
+          "nome": "Daniela do Waguinho",
+          "uf": "RJ",
+          "partido": "MDB",
+          "gastoMedio": 30596.127407407406,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204521.jpg",
+          "nome": "Abou Anni",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 16964.034074074072,
+          "proposicoes": 5,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204522.jpg",
+          "nome": "Marco Bertaiolli",
+          "uf": "SP",
+          "partido": "PSD",
+          "gastoMedio": 16447.522962962965,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204523.jpg",
+          "nome": "Lucas Gonzalez",
+          "uf": "MG",
+          "partido": "NOVO",
+          "gastoMedio": 13863.317037037037,
+          "proposicoes": 18,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+          "nome": "Carlos Jordy",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 18452.699259259258,
+          "proposicoes": 17,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204461.jpg",
+          "nome": "Paulo Ganime",
+          "uf": "RJ",
+          "partido": "NOVO",
+          "gastoMedio": 6536.679999999999,
+          "proposicoes": 10,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
+          "nome": "Chris Tonietto",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 13383.354230769231,
+          "proposicoes": 18,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+          "nome": "Pinheirinho",
+          "uf": "MG",
+          "partido": "PP",
+          "gastoMedio": 21500.66962962963,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204525.jpg",
+          "nome": "Rosana Valle",
+          "uf": "SP",
+          "partido": "PSB",
+          "gastoMedio": 23557.96518518518,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
+          "nome": "Talíria Petrone",
+          "uf": "RJ",
+          "partido": "PSOL",
+          "gastoMedio": 25427.75407407408,
+          "proposicoes": 62,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
+          "nome": "Dr. Zacharias Calil",
+          "uf": "GO",
+          "partido": "DEM",
+          "gastoMedio": 23903.130370370367,
+          "proposicoes": 17,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
+          "nome": "Luiz Philippe de Orleans e Bragança",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 7706.61111111111,
+          "proposicoes": 5,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204465.jpg",
+          "nome": "Haroldo Cathedral",
+          "uf": "RR",
+          "partido": "PSD",
+          "gastoMedio": 38702.520740740736,
+          "proposicoes": 1,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204527.jpg",
+          "nome": "Geninho Zuliani",
+          "uf": "SP",
+          "partido": "DEM",
+          "gastoMedio": 31276.09962962963,
+          "proposicoes": 33,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204370.jpg",
+          "nome": "Célio Moura",
+          "uf": "TO",
+          "partido": "PT",
+          "gastoMedio": 29662.912592592587,
+          "proposicoes": 16,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
+          "nome": "Adriana Ventura",
+          "uf": "SP",
+          "partido": "NOVO",
+          "gastoMedio": 5183.625,
+          "proposicoes": 31,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204371.jpg",
+          "nome": "Felipe Rigoni",
+          "uf": "ES",
+          "partido": "PSB",
+          "gastoMedio": 21236.45888888889,
+          "proposicoes": 20,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204413.jpg",
+          "nome": "Alcides Rodrigues",
+          "uf": "GO",
+          "partido": "PATRIOTA",
+          "gastoMedio": 29217.497777777775,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204466.jpg",
+          "nome": "Tereza Nelma",
+          "uf": "AL",
+          "partido": "PSDB",
+          "gastoMedio": 38054.15259259259,
+          "proposicoes": 23,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
+          "nome": "Julio Cesar Ribeiro",
+          "uf": "DF",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 24460.91481481481,
+          "proposicoes": 14,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204529.jpg",
+          "nome": "Policial Katia Sastre",
+          "uf": "SP",
+          "partido": "PL",
+          "gastoMedio": 27648.868148148147,
+          "proposicoes": 14,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204414.jpg",
+          "nome": "Aroldo Martins",
+          "uf": "PR",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 35293.644814814805,
+          "proposicoes": 2,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204373.jpg",
+          "nome": "Hélio Costa",
+          "uf": "SC",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 22274.91222222222,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204530.jpg",
+          "nome": "Rodrigo Agostinho",
+          "uf": "SP",
+          "partido": "PSB",
+          "gastoMedio": 9489.942592592593,
+          "proposicoes": 29,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204467.jpg",
+          "nome": "Professora Rosa Neide",
+          "uf": "MT",
+          "partido": "PT",
+          "gastoMedio": 28243.533333333322,
+          "proposicoes": 39,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+          "nome": "Guilherme Derrite",
+          "uf": "SP",
+          "partido": "PP",
+          "gastoMedio": 26016.48333333333,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204468.jpg",
+          "nome": "Joenia Wapichana",
+          "uf": "RR",
+          "partido": "REDE",
+          "gastoMedio": 26979.041481481476,
+          "proposicoes": 14,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/135054.jpg",
+          "nome": "Cristiano Vale",
+          "uf": "PA",
+          "partido": "PL",
+          "gastoMedio": 36852.411851851844,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204532.jpg",
+          "nome": "Vinicius Poit",
+          "uf": "SP",
+          "partido": "NOVO",
+          "gastoMedio": 7131.903703703703,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204415.jpg",
+          "nome": "Nereu Crispim",
+          "uf": "RS",
+          "partido": "PSL",
+          "gastoMedio": 39006.78,
+          "proposicoes": 9,
+          "presenca": 0.9439252336448598
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+          "nome": "Idilvan Alencar",
+          "uf": "CE",
+          "partido": "PDT",
+          "gastoMedio": 30992.22851851852,
+          "proposicoes": 18,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
+          "nome": "Bia Kicis",
+          "uf": "DF",
+          "partido": "PSL",
+          "gastoMedio": 23845.772962962958,
+          "proposicoes": 9,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
+          "nome": "Tabata Amaral",
+          "uf": "SP",
+          "partido": "PDT",
+          "gastoMedio": 26822.057407407407,
+          "proposicoes": 35,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
+          "nome": "Sâmia Bomfim",
+          "uf": "SP",
+          "partido": "PSOL",
+          "gastoMedio": 30005.460740740742,
+          "proposicoes": 48,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
+          "nome": "Kim Kataguiri",
+          "uf": "SP",
+          "partido": "DEM",
+          "gastoMedio": 12732.87740740741,
+          "proposicoes": 89,
+          "presenca": 0.9345794392523364
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
+          "nome": "Benes Leocádio",
+          "uf": "RN",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 23824.579629629632,
+          "proposicoes": 7,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204471.jpg",
+          "nome": "Mara Rocha",
+          "uf": "AC",
+          "partido": "PSDB",
+          "gastoMedio": 39255.34925925927,
+          "proposicoes": 5,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/68720.jpg",
+          "nome": "Fábio Henrique",
+          "uf": "SE",
+          "partido": "PDT",
+          "gastoMedio": 38415.559259259266,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
+          "nome": "José Medeiros",
+          "uf": "MT",
+          "partido": "PODE",
+          "gastoMedio": 27018.610370370374,
+          "proposicoes": 11,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204375.jpg",
+          "nome": "Leda Sadala",
+          "uf": "AP",
+          "partido": "AVANTE",
+          "gastoMedio": 34258.57888888889,
+          "proposicoes": 2,
+          "presenca": 0.9532710280373832
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204537.jpg",
+          "nome": "Enrico Misasi",
+          "uf": "SP",
+          "partido": "PV",
+          "gastoMedio": 26659.080000000005,
+          "proposicoes": 23,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
+          "nome": "General Girão",
+          "uf": "RN",
+          "partido": "PSL",
+          "gastoMedio": 28358.862592592588,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204538.jpg",
+          "nome": "Paulo Bengtson",
+          "uf": "PA",
+          "partido": "PTB",
+          "gastoMedio": 38304.89481481481,
+          "proposicoes": 7,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
+          "nome": "Hercílio Coelho Diniz",
+          "uf": "MG",
+          "partido": "MDB",
+          "gastoMedio": 0,
+          "proposicoes": 7,
+          "presenca": 0.9205607476635514
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204474.jpg",
+          "nome": "Juarez Costa",
+          "uf": "MT",
+          "partido": "MDB",
+          "gastoMedio": 28003.04407407407,
+          "proposicoes": 9,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204376.jpg",
+          "nome": "Coronel Armando",
+          "uf": "SC",
+          "partido": "PSL",
+          "gastoMedio": 13100.144074074075,
+          "proposicoes": 3,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
+          "nome": "Sanderson",
+          "uf": "RS",
+          "partido": "PSL",
+          "gastoMedio": 21176.85074074074,
+          "proposicoes": 7,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+          "nome": "Adriano do Baldy",
+          "uf": "GO",
+          "partido": "PP",
+          "gastoMedio": 29830.201111111117,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204418.jpg",
+          "nome": "Luizão Goulart",
+          "uf": "PR",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 21108.230370370373,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204377.jpg",
+          "nome": "Paula Belmonte",
+          "uf": "DF",
+          "partido": "CIDADANIA",
+          "gastoMedio": 0,
+          "proposicoes": 12,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204419.jpg",
+          "nome": "Glaustin da Fokus",
+          "uf": "GO",
+          "partido": "PSC",
+          "gastoMedio": 30222.711111111115,
+          "proposicoes": 4,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204540.jpg",
+          "nome": "Maria Rosas",
+          "uf": "SP",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 29375.096666666665,
+          "proposicoes": 0,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204541.jpg",
+          "nome": "Eduardo Bismarck",
+          "uf": "CE",
+          "partido": "PDT",
+          "gastoMedio": 37002.682592592595,
+          "proposicoes": 14,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204420.jpg",
+          "nome": "Julian Lemos",
+          "uf": "PB",
+          "partido": "PSL",
+          "gastoMedio": 34430.30814814814,
+          "proposicoes": 1,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204475.jpg",
+          "nome": "Ottaci Nascimento",
+          "uf": "RR",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 37518.47521739131,
+          "proposicoes": 2,
+          "presenca": 0.9345794392523364
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204378.jpg",
+          "nome": "Coronel Chrisóstomo",
+          "uf": "RO",
+          "partido": "PSL",
+          "gastoMedio": 40044.090740740736,
+          "proposicoes": 7,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+          "nome": "Acácio Favacho",
+          "uf": "AP",
+          "partido": "PROS",
+          "gastoMedio": 37146.80037037037,
+          "proposicoes": 0,
+          "presenca": 0.9439252336448598
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204476.jpg",
+          "nome": "Chiquinho Brazão",
+          "uf": "RJ",
+          "partido": "AVANTE",
+          "gastoMedio": 32001.612962962958,
+          "proposicoes": 1,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204544.jpg",
+          "nome": "Alexandre Frota",
+          "uf": "SP",
+          "partido": "PSDB",
+          "gastoMedio": 37374.47666666666,
+          "proposicoes": 12,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204545.jpg",
+          "nome": "Alê Silva",
+          "uf": "MG",
+          "partido": "PSL",
+          "gastoMedio": 29828.92925925926,
+          "proposicoes": 5,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204380.jpg",
+          "nome": "Celina Leão",
+          "uf": "DF",
+          "partido": "PP",
+          "gastoMedio": 25837.40411764706,
+          "proposicoes": 8,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204421.jpg",
+          "nome": "Edna Henrique",
+          "uf": "PB",
+          "partido": "PSDB",
+          "gastoMedio": 39471.00592592593,
+          "proposicoes": 9,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/81297.jpg",
+          "nome": "Dra. Soraya Manato",
+          "uf": "ES",
+          "partido": "PSL",
+          "gastoMedio": 35822.47,
+          "proposicoes": 28,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/115746.jpg",
+          "nome": "Gelson Azevedo",
+          "uf": "RJ",
+          "partido": "PL",
+          "gastoMedio": 32953.276666666665,
+          "proposicoes": 0,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204546.jpg",
+          "nome": "Joice Hasselmann",
+          "uf": "SP",
+          "partido": "PSL",
+          "gastoMedio": 17671.39888888889,
+          "proposicoes": 12,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204547.jpg",
+          "nome": "Léo Motta",
+          "uf": "MG",
+          "partido": "PSL",
+          "gastoMedio": 31976.536296296286,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/90201.jpg",
+          "nome": "Pedro Augusto Bezerra",
+          "uf": "CE",
+          "partido": "PTB",
+          "gastoMedio": 34618.59814814814,
+          "proposicoes": 2,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204381.jpg",
+          "nome": "Luis Miranda",
+          "uf": "DF",
+          "partido": "DEM",
+          "gastoMedio": 13308.388518518519,
+          "proposicoes": 47,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204477.jpg",
+          "nome": "Felício Laterça",
+          "uf": "RJ",
+          "partido": "PSL",
+          "gastoMedio": 20760.510000000002,
+          "proposicoes": 7,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204478.jpg",
+          "nome": "Vinicius Farah",
+          "uf": "RJ",
+          "partido": "MDB",
+          "gastoMedio": 34421.47,
+          "proposicoes": 2,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204548.jpg",
+          "nome": "Heitor Freire",
+          "uf": "CE",
+          "partido": "PSL",
+          "gastoMedio": 35963.98555555556,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204382.jpg",
+          "nome": "Loester Trutis",
+          "uf": "MS",
+          "partido": "PSL",
+          "gastoMedio": 36058.6574074074,
+          "proposicoes": 3,
+          "presenca": 0.9252336448598131
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204383.jpg",
+          "nome": "Professor Israel Batista",
+          "uf": "DF",
+          "partido": "PV",
+          "gastoMedio": 14625.25222222222,
+          "proposicoes": 30,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+          "nome": "AJ Albuquerque",
+          "uf": "CE",
+          "partido": "PP",
+          "gastoMedio": 38511.608888888884,
+          "proposicoes": 0,
+          "presenca": 0.9485981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
+          "nome": "Júnior Mano",
+          "uf": "CE",
+          "partido": "PL",
+          "gastoMedio": 37857.602592592586,
+          "proposicoes": 2,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
+          "nome": "Nicoletti",
+          "uf": "RR",
+          "partido": "PSL",
+          "gastoMedio": 29242.12481481482,
+          "proposicoes": 3,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73808.jpg",
+          "nome": "Sérgio Brito",
+          "uf": "BA",
+          "partido": "PSD",
+          "gastoMedio": 26102.324285714283,
+          "proposicoes": 1,
+          "presenca": 0.8990825688073395
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+          "nome": "Átila Lins",
+          "uf": "AM",
+          "partido": "PP",
+          "gastoMedio": 27034.884074074078,
+          "proposicoes": 1,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/139285.jpg",
+          "nome": "Lídice da Mata",
+          "uf": "BA",
+          "partido": "PSB",
+          "gastoMedio": 30225.93185185185,
+          "proposicoes": 10,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74537.jpg",
+          "nome": "Claudio Cajado",
+          "uf": "BA",
+          "partido": "PP",
+          "gastoMedio": 34947.73259259259,
+          "proposicoes": 0,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
+          "nome": "José Rocha",
+          "uf": "BA",
+          "partido": "PL",
+          "gastoMedio": 35246.86074074073,
+          "proposicoes": 0,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+          "nome": "Silas Câmara",
+          "uf": "AM",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 40926.98666666668,
+          "proposicoes": 1,
+          "presenca": 0.9345794392523364
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
+          "nome": "Alice Portugal",
+          "uf": "BA",
+          "partido": "PCdoB",
+          "gastoMedio": 34348.32000000001,
+          "proposicoes": 30,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
+          "nome": "Daniel Almeida",
+          "uf": "BA",
+          "partido": "PCdoB",
+          "gastoMedio": 38986.09925925927,
+          "proposicoes": 10,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
+          "nome": "Cleber Verde",
+          "uf": "MA",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 36597.510416666664,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141458.jpg",
+          "nome": "João Carlos Bacelar",
+          "uf": "BA",
+          "partido": "PL",
+          "gastoMedio": 33028.88148148148,
+          "proposicoes": 1,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
+          "nome": "Márcio Marinho",
+          "uf": "BA",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 28187.900740740737,
+          "proposicoes": 3,
+          "presenca": 0.9719626168224299
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
+          "nome": "Félix Mendonça Júnior",
+          "uf": "BA",
+          "partido": "PDT",
+          "gastoMedio": 35082.81407407407,
+          "proposicoes": 5,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+          "nome": "Afonso Florence",
+          "uf": "BA",
+          "partido": "PT",
+          "gastoMedio": 35865.95703703704,
+          "proposicoes": 13,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160610.jpg",
+          "nome": "Valmir Assunção",
+          "uf": "BA",
+          "partido": "PT",
+          "gastoMedio": 32178.66037037038,
+          "proposicoes": 18,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160569.jpg",
+          "nome": "Waldenor Pereira",
+          "uf": "BA",
+          "partido": "PT",
+          "gastoMedio": 35215.00740740741,
+          "proposicoes": 18,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+          "nome": "Antonio Brito",
+          "uf": "BA",
+          "partido": "PSD",
+          "gastoMedio": 32211.480740740735,
+          "proposicoes": 5,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+          "nome": "Arthur Oliveira Maia",
+          "uf": "BA",
+          "partido": "DEM",
+          "gastoMedio": 34628.84666666667,
+          "proposicoes": 6,
+          "presenca": 0.9252336448598131
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160619.jpg",
+          "nome": "José Nunes",
+          "uf": "BA",
+          "partido": "PSD",
+          "gastoMedio": 36541.91703703704,
+          "proposicoes": 1,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204551.jpg",
+          "nome": "Bosco Saraiva",
+          "uf": "AM",
+          "partido": "SOLIDARIEDADE",
+          "gastoMedio": 27263.326666666664,
+          "proposicoes": 3,
+          "presenca": 0.883177570093458
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
+          "nome": "Pastor Sargento Isidório",
+          "uf": "BA",
+          "partido": "AVANTE",
+          "gastoMedio": 18652.142222222225,
+          "proposicoes": 2,
+          "presenca": 0.9439252336448598
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/93083.jpg",
+          "nome": "Cacá Leão",
+          "uf": "BA",
+          "partido": "PP",
+          "gastoMedio": 31544.69962962962,
+          "proposicoes": 7,
+          "presenca": 0.9252336448598131
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178854.jpg",
+          "nome": "Elmar Nascimento",
+          "uf": "BA",
+          "partido": "DEM",
+          "gastoMedio": 35471.094814814816,
+          "proposicoes": 6,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+          "nome": "Bacelar",
+          "uf": "BA",
+          "partido": "PODE",
+          "gastoMedio": 34199.68185185185,
+          "proposicoes": 21,
+          "presenca": 0.9299065420560748
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
+          "nome": "Jorge Solla",
+          "uf": "BA",
+          "partido": "PT",
+          "gastoMedio": 26188.47555555556,
+          "proposicoes": 40,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178858.jpg",
+          "nome": "Mário Negromonte Jr.",
+          "uf": "BA",
+          "partido": "PP",
+          "gastoMedio": 33689.08444444444,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178860.jpg",
+          "nome": "Paulo Azi",
+          "uf": "BA",
+          "partido": "DEM",
+          "gastoMedio": 30425.56962962963,
+          "proposicoes": 1,
+          "presenca": 0.9813084112149533
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178861.jpg",
+          "nome": "Ronaldo Carletto",
+          "uf": "BA",
+          "partido": "PP",
+          "gastoMedio": 37625.3811111111,
+          "proposicoes": 5,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178863.jpg",
+          "nome": "Uldurico Junior",
+          "uf": "BA",
+          "partido": "PROS",
+          "gastoMedio": 37069.657692307694,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
+          "nome": "Aluisio Mendes",
+          "uf": "MA",
+          "partido": "PSC",
+          "gastoMedio": 31982.624444444446,
+          "proposicoes": 7,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178882.jpg",
+          "nome": "André Fufuca",
+          "uf": "MA",
+          "partido": "PP",
+          "gastoMedio": 23033.987407407407,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
+          "nome": "Hildo Rocha",
+          "uf": "MA",
+          "partido": "MDB",
+          "gastoMedio": 39249.014814814815,
+          "proposicoes": 9,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/112437.jpg",
+          "nome": "João Marcelo Souza",
+          "uf": "MA",
+          "partido": "MDB",
+          "gastoMedio": 39834.154814814814,
+          "proposicoes": 0,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
+          "nome": "Juscelino Filho",
+          "uf": "MA",
+          "partido": "DEM",
+          "gastoMedio": 41335.864444444436,
+          "proposicoes": 1,
+          "presenca": 0.9345794392523364
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178889.jpg",
+          "nome": "Zé Carlos",
+          "uf": "MA",
+          "partido": "PT",
+          "gastoMedio": 32252.598518518524,
+          "proposicoes": 73,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204554.jpg",
+          "nome": "Abílio Santana",
+          "uf": "BA",
+          "partido": "PL",
+          "gastoMedio": 35808.07888888888,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204555.jpg",
+          "nome": "José Ricardo",
+          "uf": "AM",
+          "partido": "PT",
+          "gastoMedio": 37275.78111111111,
+          "proposicoes": 80,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204556.jpg",
+          "nome": "Marcelo Ramos",
+          "uf": "AM",
+          "partido": "PL",
+          "gastoMedio": 43647.54703703703,
+          "proposicoes": 175,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
+          "nome": "Sidney Leite",
+          "uf": "AM",
+          "partido": "PSD",
+          "gastoMedio": 39396.88148148149,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204558.jpg",
+          "nome": "Marcelo Nilo",
+          "uf": "BA",
+          "partido": "PSB",
+          "gastoMedio": 36664.12407407407,
+          "proposicoes": 0,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
+          "nome": "Zé Neto",
+          "uf": "BA",
+          "partido": "PT",
+          "gastoMedio": 36416.04037037037,
+          "proposicoes": 13,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+          "nome": "Adolfo Viana",
+          "uf": "BA",
+          "partido": "PSDB",
+          "gastoMedio": 27257.464814814823,
+          "proposicoes": 0,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92102.jpg",
+          "nome": "Leur Lomanto Júnior",
+          "uf": "BA",
+          "partido": "DEM",
+          "gastoMedio": 35860.29,
+          "proposicoes": 3,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204561.jpg",
+          "nome": "Bira do Pindaré",
+          "uf": "MA",
+          "partido": "PSB",
+          "gastoMedio": 21721.96481481481,
+          "proposicoes": 10,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204562.jpg",
+          "nome": "Edilázio Júnior",
+          "uf": "MA",
+          "partido": "PSD",
+          "gastoMedio": 39883.707407407404,
+          "proposicoes": 2,
+          "presenca": 0.9906542056074766
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204563.jpg",
+          "nome": "Josimar Maranhãozinho",
+          "uf": "MA",
+          "partido": "PL",
+          "gastoMedio": 35679.10458333334,
+          "proposicoes": 0,
+          "presenca": 0.8960396039603961
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204564.jpg",
+          "nome": "Igor Kannário",
+          "uf": "BA",
+          "partido": "DEM",
+          "gastoMedio": 29774.96777777776,
+          "proposicoes": 2,
+          "presenca": 0.8271028037383178
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204565.jpg",
+          "nome": "Professora Dayane Pimentel",
+          "uf": "BA",
+          "partido": "PSL",
+          "gastoMedio": 26174.324444444446,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
+          "nome": "Marreca Filho",
+          "uf": "MA",
+          "partido": "PATRIOTA",
+          "gastoMedio": 39897.864444444436,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204567.jpg",
+          "nome": "Raimundo Costa",
+          "uf": "BA",
+          "partido": "PL",
+          "gastoMedio": 34998.45444444445,
+          "proposicoes": 0,
+          "presenca": 0.9579439252336449
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204569.jpg",
+          "nome": "Delegado Pablo",
+          "uf": "AM",
+          "partido": "PSL",
+          "gastoMedio": 24843.851111111107,
+          "proposicoes": 12,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
+          "nome": "Pastor Gil",
+          "uf": "MA",
+          "partido": "PL",
+          "gastoMedio": 24981.60538461538,
+          "proposicoes": 4,
+          "presenca": 0.9252336448598131
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+          "nome": "Alex Santana",
+          "uf": "BA",
+          "partido": "PDT",
+          "gastoMedio": 36960.43407407407,
+          "proposicoes": 2,
+          "presenca": 0.985981308411215
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+          "nome": "Capitão Alberto Neto",
+          "uf": "AM",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 33120.24259259259,
+          "proposicoes": 35,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204573.jpg",
+          "nome": "Otto Alencar Filho",
+          "uf": "BA",
+          "partido": "PSD",
+          "gastoMedio": 29566.053703703707,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/197438.jpg",
+          "nome": "Tito",
+          "uf": "BA",
+          "partido": "AVANTE",
+          "gastoMedio": 37403.816956521754,
+          "proposicoes": 4,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204574.jpg",
+          "nome": "Junior Lourenço",
+          "uf": "MA",
+          "partido": "PL",
+          "gastoMedio": 37452.40090909091,
+          "proposicoes": 0,
+          "presenca": 0.8878504672897196
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204575.jpg",
+          "nome": "Gil Cutrim",
+          "uf": "MA",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 39063.038888888885,
+          "proposicoes": 1,
+          "presenca": 0.9672897196261683
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/122974.jpg",
+          "nome": "Pedro Lucas Fernandes",
+          "uf": "MA",
+          "partido": "PTB",
+          "gastoMedio": 39092.089259259265,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178948.jpg",
+          "nome": "Beto Rosado",
+          "uf": "RN",
+          "partido": "PP",
+          "gastoMedio": 37861.50222222222,
+          "proposicoes": 0,
+          "presenca": 0.9766355140186916
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205476.jpg",
+          "nome": "Charles Fernandes",
+          "uf": "BA",
+          "partido": "PSD",
+          "gastoMedio": 35856.90259259259,
+          "proposicoes": 0,
+          "presenca": 0.9953271028037384
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205548.jpg",
+          "nome": "David Miranda",
+          "uf": "RJ",
+          "partido": "PSOL",
+          "gastoMedio": 29605.478518518525,
+          "proposicoes": 23,
+          "presenca": 0.9626168224299065
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205550.jpg",
+          "nome": "Jorge Braz",
+          "uf": "RJ",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 21712.06259259259,
+          "proposicoes": 7,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205863.jpg",
+          "nome": "Marcelo Brum",
+          "uf": "RS",
+          "partido": "PSL",
+          "gastoMedio": 28168.50444444445,
+          "proposicoes": 2,
+          "presenca": 0.9183673469387755
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178930.jpg",
+          "nome": "Roman",
+          "uf": "PR",
+          "partido": "PATRIOTA",
+          "gastoMedio": 36568.27074074075,
+          "proposicoes": 4,
+          "presenca": 0.9905660377358491
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205865.jpg",
+          "nome": "Reinhold Stephanes Junior",
+          "uf": "PR",
+          "partido": "PSD",
+          "gastoMedio": 31285.172692307686,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/206231.jpg",
+          "nome": "Ted Conti",
+          "uf": "ES",
+          "partido": "PSB",
+          "gastoMedio": 28211.201111111117,
+          "proposicoes": 4,
+          "presenca": 0.9952830188679245
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/207176.jpg",
+          "nome": "Bia Cavassa",
+          "uf": "MS",
+          "partido": "PSDB",
+          "gastoMedio": 20427.74851851852,
+          "proposicoes": 4,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141552.jpg",
+          "nome": "Valtenir Pereira",
+          "uf": "MT",
+          "partido": "MDB",
+          "gastoMedio": 31891.295999999995,
+          "proposicoes": 2,
+          "presenca": 0.9852941176470589
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/209189.jpg",
+          "nome": "Joseildo Ramos",
+          "uf": "BA",
+          "partido": "PT",
+          "gastoMedio": 37998.11461538461,
+          "proposicoes": 4,
+          "presenca": 0.9846153846153847
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
+          "nome": "Paulo Magalhães",
+          "uf": "BA",
+          "partido": "PSD",
+          "gastoMedio": 21582.855555555554,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74200.jpg",
+          "nome": "Gastão Vieira",
+          "uf": "MA",
+          "partido": "PROS",
+          "gastoMedio": 32557.867499999997,
+          "proposicoes": 8,
+          "presenca": 0.9898477157360406
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/188097.jpg",
+          "nome": "Merlong Solano",
+          "uf": "PI",
+          "partido": "PT",
+          "gastoMedio": 23933.88133333333,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74212.jpg",
+          "nome": "Aníbal Gomes",
+          "uf": "CE",
+          "partido": "DEM",
+          "gastoMedio": 36946.20444444444,
+          "proposicoes": 1,
+          "presenca": 0.9789473684210527
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
+          "nome": "Marcos Soares",
+          "uf": "RJ",
+          "partido": "DEM",
+          "gastoMedio": 7488.9725,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/212625.jpg",
+          "nome": "Dr. Gonçalo",
+          "uf": "MA",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 27384.835,
+          "proposicoes": 3,
+          "presenca": 0.9827586206896551
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213274.jpg",
+          "nome": "Ricardo Silva",
+          "uf": "SP",
+          "partido": "PSB",
+          "gastoMedio": 31662.61066666667,
+          "proposicoes": 13,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
+          "nome": "Danilo Forte",
+          "uf": "CE",
+          "partido": "PSDB",
+          "gastoMedio": 23927.933,
+          "proposicoes": 18,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
+          "nome": "Carla Dickson",
+          "uf": "RN",
+          "partido": "PROS",
+          "gastoMedio": 24613.236363636363,
+          "proposicoes": 27,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178825.jpg",
+          "nome": "LEO DE BRITO",
+          "uf": "AC",
+          "partido": "PT",
+          "gastoMedio": 35260.51833333333,
+          "proposicoes": 41,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74165.jpg",
+          "nome": "Neucimar Fraga",
+          "uf": "ES",
+          "partido": "PSD",
+          "gastoMedio": 17479.803333333333,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178844.jpg",
+          "nome": "Pedro Vilela",
+          "uf": "AL",
+          "partido": "PSDB",
+          "gastoMedio": 17578,
+          "proposicoes": 8,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215042.jpg",
+          "nome": "Ricardo da Karol",
+          "uf": "RJ",
+          "partido": "PSC",
+          "gastoMedio": 17214.0775,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/92172.jpg",
+          "nome": "Milton Coelho",
+          "uf": "PE",
+          "partido": "PSB",
+          "gastoMedio": 22160.199999999997,
+          "proposicoes": 1,
+          "presenca": 0.5
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141372.jpg",
+          "nome": "Aelton Freitas",
+          "uf": "MG",
+          "partido": "PL",
+          "gastoMedio": 35404.785,
+          "proposicoes": 3,
+          "presenca": 0.9666666666666667
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
+          "nome": "Josivaldo JP",
+          "uf": "MA",
+          "partido": "PODE",
+          "gastoMedio": 10962.0025,
+          "proposicoes": 3,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215044.jpg",
+          "nome": "Vivi Reis",
+          "uf": "PA",
+          "partido": "PSOL",
+          "gastoMedio": 7207.290000000001,
+          "proposicoes": 22,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215045.jpg",
+          "nome": "Pedro Augusto Palareti",
+          "uf": "RJ",
+          "partido": "PSD",
+          "gastoMedio": 19573.2275,
+          "proposicoes": 3,
+          "presenca": 0.9
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141515.jpg",
+          "nome": "Otavio Leite",
+          "uf": "RJ",
+          "partido": "PSDB",
+          "gastoMedio": 24723.872499999998,
+          "proposicoes": 11,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178862.jpg",
+          "nome": "Tia Eron",
+          "uf": "BA",
+          "partido": "REPUBLICANOS",
+          "gastoMedio": 9831.545,
+          "proposicoes": 34,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/122195.jpg",
+          "nome": "Leonardo Gadelha",
+          "uf": "PB",
+          "partido": "PSC",
+          "gastoMedio": 36321.98,
+          "proposicoes": 2,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141478.jpg",
+          "nome": "Laerte Bessa",
+          "uf": "DF",
+          "partido": "PL",
+          "gastoMedio": 714.18,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/216313.jpg",
+          "nome": "Rafafá",
+          "uf": "PB",
+          "partido": "PSDB",
+          "gastoMedio": 0,
+          "proposicoes": 6,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178868.jpg",
+          "nome": "Odorico Monteiro",
+          "uf": "CE",
+          "partido": "PSB",
+          "gastoMedio": 6806.025,
+          "proposicoes": 9,
+          "presenca": 0.9473684210526315
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178935.jpg",
+          "nome": "Rossoni",
+          "uf": "PR",
+          "partido": "PSDB",
+          "gastoMedio": 0,
+          "proposicoes": 0,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/216544.jpg",
+          "nome": "Paulo Vicente Caleffi",
+          "uf": "RS",
+          "partido": "PSD",
+          "gastoMedio": 0,
+          "proposicoes": 1,
+          "presenca": 1
+      },
+      {
+          "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/216545.jpg",
+          "nome": "Totonho Lopes",
+          "uf": "CE",
+          "partido": "PDT",
+          "gastoMedio": 0,
+          "proposicoes": 2,
+          "presenca": 1
+      }
+  ]
+}

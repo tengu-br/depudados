@@ -31,7 +31,7 @@ GRÁFICOS:
 */
 
 const Presenca = () => {
-  
+
   return (
     <Layout pageTitle="Presença">
       <Grid container spacing={3} style={{ paddingTop: '12%', paddingBottom: '5%', width: '100%', margin: '0px' }}>
@@ -41,8 +41,8 @@ const Presenca = () => {
               Presença média por deputado
                         </Typography>
             <PieChart textsize='36' data={[
-              { value: (Math.round((testData.presencaMedia + Number.EPSILON) * 100)), name: 'Presença', selected: true },
-              { value: 100 - (Math.round((testData.presencaMedia + Number.EPSILON) * 100)), name: 'Falta' },
+              { value: (Math.round((testData.presencaMedia + Number.EPSILON) * 10000) / 100), name: 'Presença', selected: true },
+              { value: Math.round((100 - (Math.round(testData.presencaMedia * 10000 + Number.EPSILON) / 100)) * 100) / 100, name: 'Falta' },
             ]} name='Presença' />
           </Paper>
         </Grid>
@@ -52,7 +52,7 @@ const Presenca = () => {
               titulo='Mais Faltão'
               nome={testData.deputadoPresencaMenor.nomeEleitoral}
               partido={`${testData.deputadoPresencaMenor.siglaPartido}-${testData.deputadoPresencaMenor.siglaUf}`}
-              porcentagem={`${Math.round((testData.deputadoPresencaMenor.presencaSessoes + Number.EPSILON) * 100)}%`}
+              porcentagem={`${Math.round((testData.deputadoPresencaMenor.presencaSessoes + Number.EPSILON) * 10000) / 100}%`}
               foto={testData.deputadoPresencaMenor.urlFoto + 'maior.jpg'}
               size='large' />
           </Paper>
@@ -63,7 +63,7 @@ const Presenca = () => {
               titulo='Sempre Presente'
               nome={testData.deputadoPresencaMaior.nomeEleitoral}
               partido={`${testData.deputadoPresencaMaior.siglaPartido}-${testData.deputadoPresencaMaior.siglaUf}`}
-              porcentagem={`${Math.round((testData.deputadoPresencaMaior.presencaSessoes + Number.EPSILON) * 100)}%`}
+              porcentagem={`${Math.round((testData.deputadoPresencaMaior.presencaSessoes + Number.EPSILON) * 10000) / 100}%`}
               foto={testData.deputadoPresencaMaior.urlFoto + 'maior.jpg'}
               size='large' />
           </Paper>
@@ -81,7 +81,7 @@ const Presenca = () => {
             <Typography variant='h6' align='center'>
               Presença por região
             </Typography>
-            <GeoPresenca data={testData.presencaPorUnidadeFederativa}/>
+            <GeoPresenca data={testData.presencaPorUnidadeFederativa} />
           </Paper>
         </Grid>
         <Grid item xs={12}>

@@ -5,7 +5,6 @@ const HorizBarChart = ({ name, data, textsize }) => {
 
   data.reverse()
 
-
   var yAxisData = []
   data.map((deputado) => {
     yAxisData.push(deputado.nomeEleitoral)
@@ -13,7 +12,7 @@ const HorizBarChart = ({ name, data, textsize }) => {
 
   var xAxisData = []
   data.map((deputado) => {
-    xAxisData.push(Math.round(deputado.presencaSessoes * 10000 + Number.EPSILON) / 100)
+    xAxisData.push(deputado.proposicoes)
   })
 
   const chart = useRef(null);
@@ -30,7 +29,7 @@ const HorizBarChart = ({ name, data, textsize }) => {
     xAxis: {
       type: 'value',
       min: 0,
-      max: 100,
+      max: xAxisData[xAxisData.length],
     },
     yAxis: {
       type: 'category',

@@ -5,10 +5,41 @@ const DeputadosList = ({ data, elevation }) => {
   var compiledData = []
 
   data.map((deputado) => {
-    compiledData.push([deputado.nome, deputado.partido, deputado.uf, Math.round(deputado.presencaSessoes * 10000 + Number.EPSILON) / 100 + '%'])
+    compiledData.push([deputado.nome, deputado.partido, deputado.uf, deputado.proposicoes])
   })
 
-  const columns = ["Nome", "Partido", "Estado", "Presença"];
+  const columns = [
+    {
+      name: "Nome",
+      label: "Nome",
+      options: {
+        filter: false,
+        sort: true
+      }
+    },
+    {
+      name: "Partido",
+      label: "Partido",
+      options: {
+        filter: true,
+        sort: true
+      }
+    }, {
+      name: "Estado",
+      label: "Estado",
+      options: {
+        filter: true,
+        sort: true
+      }
+    }
+    , {
+      name: "Média Mensal",
+      label: "Média Mensal",
+      options: {
+        filter: false,
+        sort: true
+      }
+    }];
 
 
 
@@ -44,16 +75,6 @@ const DeputadosList = ({ data, elevation }) => {
         titleAria: "Mostrar/Esconder Colunas",
       },
     },
-    customSort: (data, colIndex, order, meta) => {
-      return data.sort((a, b) => {
-        // Sort se for a string com valor numerico
-        if (colIndex === 3) {
-          return (parseFloat(a.data[colIndex].replace(/[^0-9-,]/g, '')) < parseFloat(b.data[colIndex].replace(/[^0-9-,%]/g, '')) ? -1 : 1) * (order === 'desc' ? 1 : -1);
-        } else {
-          return (a.data[colIndex] < b.data[colIndex] ? -1 : 1) * (order === 'desc' ? 1 : -1);
-        }
-      });
-    }
   };
 
   return (

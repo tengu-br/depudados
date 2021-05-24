@@ -77,15 +77,6 @@ const HeaderHome = (props) => {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-3 col-sm-5 d-md-block d-none">
-                <div className="urgent-call text-right">
-                  <Link href="/sobre">
-                    <a className="btn">
-                      Sobre
-                  </a>
-                  </Link>
-                </div>
-              </div>
             </div>
           </div>
         </div>

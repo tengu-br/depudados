@@ -59,17 +59,16 @@ const Banner = () => {
                   </div>
                 </div>
 
-                <h1>Jironis is for your internet app business</h1>
+                <h1>Olá equipe do Nexo, prazer!</h1>
                 <p>
-                  Excepteur sint occaecat cupidatat non proident sunt in culpa
-                  qui officia deserunt mollit lorem ipsum anim id est laborum
-                  perspiciatis unde.
+                  Me chamo Vitor e fiz essa aplicação praticamente do zero para tentar impressionar vocês!
+                  Se trata de um dashboard para acompanhar dados da câmara dos deputados.
                 </p>
-                <a href="#" className="btn">
-                  Download App
+                <a href="https://github.com/tengu-br/depudados-back" target="_blank" className="btn">
+                  git Back-end
                 </a>
-                <a href="#" className="btn">
-                  Discover More
+                <a href="https://github.com/tengu-br/depudados" target="_blank" className="btn">
+                  git Front-end
                 </a>
               </div>
             </Col>

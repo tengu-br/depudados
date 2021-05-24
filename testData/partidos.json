@@ -1,0 +1,2346 @@
+{
+  "listaPartidos": [
+      "MDB",
+      "PTB",
+      "PDT",
+      "PT",
+      "DEM",
+      "PCdoB",
+      "PSB",
+      "PSDB",
+      "PTC",
+      "PSC",
+      "PMN",
+      "CIDADANIA",
+      "PV",
+      "AVANTE",
+      "PP",
+      "PSTU",
+      "PCB",
+      "PRTB",
+      "DC",
+      "PCO",
+      "PODE",
+      "PSL",
+      "REPUBLICANOS",
+      "PSOL",
+      "PL",
+      "PSD",
+      "PATRIOTA",
+      "PROS",
+      "SOLIDARIEDADE",
+      "NOVO",
+      "REDE",
+      "PMB",
+      "UP"
+  ],
+  "dadosPartidos": {
+      "MDB": {
+          "qtdDeputados": 34,
+          "somaPresenca": 32.99773641018169,
+          "somaProposicoes": 134,
+          "somaGastos": 1013105.4661842901,
+          "deputados": [
+              {
+                  "nome": "Celso Maldaner",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Alceu Moreira",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Mauro Lopes",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Juarez Costa",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Hildo Rocha",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Gutemberg Reis",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Lucio Mosquini",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Hercílio Coelho Diniz",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Carlos Chiodini",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Isnaldo Bulhões Jr.",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Dulce Miranda",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Fábio Ramalho",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Elcione Barbalho",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Jéssica Sales",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Raul Henry",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Osmar Terra",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Rogério Peninha Mendonça",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Baleia Rossi",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Herculano Passos",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Moses Rodrigues",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Newton Cardoso Jr",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Márcio Biolchi",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Marcos Aurélio Sampaio",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Vinicius Farah",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Giovani Feltes",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Valtenir Pereira",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Walter Alves",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "José Priante",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Sergio Souza",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Daniela do Waguinho",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Hermes Parcianello",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Fabio Reis",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "João Marcelo Souza",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Flaviano Melo",
+                  "uf": "AC"
+              }
+          ]
+      },
+      "PTB": {
+          "qtdDeputados": 10,
+          "somaPresenca": 9.869158878504674,
+          "somaProposicoes": 46,
+          "somaGastos": 328961.6301139602,
+          "deputados": [
+              {
+                  "nome": "Eduardo Costa",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Wilson Santiago",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Paulo Bengtson",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Nivaldo Albuquerque",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Maurício Dziedricki",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Emanuel Pinheiro Neto",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Luisa Canziani",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Pedro Augusto Bezerra",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Pedro Lucas Fernandes",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Marcelo Moraes",
+                  "uf": "RS"
+              }
+          ]
+      },
+      "PDT": {
+          "qtdDeputados": 25,
+          "somaPresenca": 24.724299065420563,
+          "somaProposicoes": 414,
+          "somaGastos": 786459.093988604,
+          "deputados": [
+              {
+                  "nome": "Wolney Queiroz",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Tabata Amaral",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Flávia Morais",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Túlio Gadêlha",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Mário Heringer",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Gustavo Fruet",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "André Figueiredo",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Idilvan Alencar",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Subtenente Gonzaga",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Eduardo Bismarck",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Pompeo de Mattos",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Jesus Sérgio",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Paulo Ramos",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Silvia Cristina",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Chico D'Angelo",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Dagoberto Nogueira",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Félix Mendonça Júnior",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Damião Feliciano",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Flávio Nogueira",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Fábio Henrique",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "Alex Santana",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Totonho Lopes",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Marlon Santos",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Afonso Motta",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Leônidas Cristino",
+                  "uf": "CE"
+              }
+          ]
+      },
+      "PT": {
+          "qtdDeputados": 53,
+          "somaPresenca": 52.37854061826023,
+          "somaProposicoes": 1597,
+          "somaGastos": 1707935.4798376067,
+          "deputados": [
+              {
+                  "nome": "Bohn Gass",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Erika Kokay",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Carlos Veras",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "José Ricardo",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Zé Carlos",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Rogério Correia",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "João Daniel",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "Alexandre Padilha",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Nilto Tatto",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "LEO DE BRITO",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Jorge Solla",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "José Guimarães",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Professora Rosa Neide",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Rejane Dias",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Benedita da Silva",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Maria do Rosário",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Paulo Teixeira",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Natália Bonavides",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Airton Faleiro",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Helder Salomão",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Gleisi Hoffmann",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Henrique Fontana",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Patrus Ananias",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Frei Anastacio Ribeiro",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Padre João",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Pedro Uczai",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Alencar Santana Braga",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Rubens Otoni",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Luizianne Lins",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Valmir Assunção",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Waldenor Pereira",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Marília Arraes",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Carlos Zarattini",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Marcon",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Leonardo Monteiro",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Célio Moura",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Arlindo Chinaglia",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Rui Falcão",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Paulão",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Vicentinho",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Vander Loubet",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Zé Neto",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Reginaldo Lopes",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Paulo Pimenta",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Afonso Florence",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Odair Cunha",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Paulo Guedes",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Enio Verri",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Merlong Solano",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Beto Faro",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Zeca Dirceu",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Joseildo Ramos",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "José Airton Félix Cirilo",
+                  "uf": "CE"
+              }
+          ]
+      },
+      "DEM": {
+          "qtdDeputados": 29,
+          "somaPresenca": 28.21685352308669,
+          "somaProposicoes": 323,
+          "somaGastos": 833572.513857258,
+          "deputados": [
+              {
+                  "nome": "Kim Kataguiri",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Luis Miranda",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Geninho Zuliani",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Pedro Lupion",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Dr. Zacharias Calil",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Professora Dorinha Seabra Rezende",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Juninho do Pneu",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Jose Mario Schreiner",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "David Soares",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Sóstenes Cavalcante",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Eli Corrêa Filho",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Arthur Oliveira Maia",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Elmar Nascimento",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Carlos Henrique Gaguim",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Bilac Pinto",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Norma Ayub",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Efraim Filho",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Leur Lomanto Júnior",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Alan Rick",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Hélio Leite",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Marcos Soares",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Igor Kannário",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Aníbal Gomes",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Paulo Azi",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Juscelino Filho",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Alexandre Leite",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Rodrigo Maia",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Olival Marques",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Fernando Coelho Filho",
+                  "uf": "PE"
+              }
+          ]
+      },
+      "PCdoB": {
+          "qtdDeputados": 7,
+          "somaPresenca": 6.925233644859813,
+          "somaProposicoes": 198,
+          "somaGastos": 233372.81074074077,
+          "deputados": [
+              {
+                  "nome": "Renildo Calheiros",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Perpétua Almeida",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Alice Portugal",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Jandira Feghali",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Daniel Almeida",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Professora Marcivania",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Orlando Silva",
+                  "uf": "SP"
+              }
+          ]
+      },
+      "PSB": {
+          "qtdDeputados": 30,
+          "somaPresenca": 29.01802309262503,
+          "somaProposicoes": 395,
+          "somaGastos": 737639.088081624,
+          "deputados": [
+              {
+                  "nome": "Danilo Cabral",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Rodrigo Agostinho",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Júlio Delgado",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Felipe Rigoni",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Felipe Carreras",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Alessandro Molon",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Elias Vaz",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Camilo Capiberibe",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Ricardo Silva",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Mauro Nazif",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Bira do Pindaré",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Rodrigo Coelho",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Lídice da Mata",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Odorico Monteiro",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Jefferson Campos",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Rosana Valle",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Vilson da Fetaemg",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Ted Conti",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Gervásio Maia",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Tadeu Alencar",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Luciano Ducci",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Heitor Schuch",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Aliel Machado",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Gonzaga Patriota",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Cássio Andrade",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Milton Coelho",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Rafael Motta",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Liziane Bayer",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Emidinho Madeira",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Marcelo Nilo",
+                  "uf": "BA"
+              }
+          ]
+      },
+      "PSDB": {
+          "qtdDeputados": 33,
+          "somaPresenca": 32.58878504672897,
+          "somaProposicoes": 236,
+          "somaGastos": 887181.3221666665,
+          "deputados": [
+              {
+                  "nome": "Tereza Nelma",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Eduardo Cury",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Danilo Forte",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Eduardo Barbosa",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Célio Silveira",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Domingos Sávio",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Geovania de Sá",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Vanderlei Macris",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Alexandre Frota",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Otavio Leite",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Edna Henrique",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Pedro Vilela",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Rodrigo de Castro",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Celso Sabino",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Rafafá",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Lucas Redecker",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Rose Modesto",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Mariana Carvalho",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Vitor Lippi",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Mara Rocha",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Bia Cavassa",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Carlos Sampaio",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Luiz Carlos",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Paulo Abi-Ackel",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Nilson Pinto",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Daniel Trzeciak",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Beto Pereira",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Samuel Moreira",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Bruna Furlan",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Aécio Neves",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Shéridan",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "Adolfo Viana",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Rossoni",
+                  "uf": "PR"
+              }
+          ]
+      },
+      "PTC": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "PSC": {
+          "qtdDeputados": 11,
+          "somaPresenca": 10.934579439252337,
+          "somaProposicoes": 28,
+          "somaGastos": 311511.20098148147,
+          "deputados": [
+              {
+                  "nome": "Otoni de Paula",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Aluisio Mendes",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Glaustin da Fokus",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Lauriete",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Osires Damaso",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Leonardo Gadelha",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Euclydes Pettersen",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "André Ferreira",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Paulo Eduardo Martins",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Ricardo da Karol",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Gilberto Nascimento",
+                  "uf": "SP"
+              }
+          ]
+      },
+      "PMN": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "CIDADANIA": {
+          "qtdDeputados": 7,
+          "somaPresenca": 6.9112149532710285,
+          "somaProposicoes": 49,
+          "somaGastos": 161705.7311538462,
+          "deputados": [
+              {
+                  "nome": "Paula Belmonte",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Arnaldo Jardim",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Alex Manente",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Daniel Coelho",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Carmen Zanotto",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Da Vitoria",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Rubens Bueno",
+                  "uf": "PR"
+              }
+          ]
+      },
+      "PV": {
+          "qtdDeputados": 4,
+          "somaPresenca": 3.957943925233645,
+          "somaProposicoes": 86,
+          "somaGastos": 85002.19185185185,
+          "deputados": [
+              {
+                  "nome": "Professor Israel Batista",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Célio Studart",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Enrico Misasi",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Leandre",
+                  "uf": "PR"
+              }
+          ]
+      },
+      "AVANTE": {
+          "qtdDeputados": 8,
+          "somaPresenca": 7.686915887850467,
+          "somaProposicoes": 29,
+          "somaGastos": 224996.14603059585,
+          "deputados": [
+              {
+                  "nome": "Greyce Elias",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Luis Tibé",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Tito",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Sebastião Oliveira",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Leda Sadala",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Pastor Sargento Isidório",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "André Janones",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Chiquinho Brazão",
+                  "uf": "RJ"
+              }
+          ]
+      },
+      "PP": {
+          "qtdDeputados": 40,
+          "somaPresenca": 38.82997843278218,
+          "somaProposicoes": 176,
+          "somaGastos": 1155491.5690250546,
+          "deputados": [
+              {
+                  "nome": "Jerônimo Goergen",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Margarete Coelho",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Neri Geller",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Christino Aureo",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Angela Amin",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Pedro Westphalen",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Eduardo da Fonte",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Franco Cartafina",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Celina Leão",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Ricardo Izar",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Cacá Leão",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Dr. Luiz Antonio Teixeira Jr.",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Evair Vieira de Melo",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Jaqueline Cassol",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Guilherme Derrite",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Ricardo Barros",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Ronaldo Carletto",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Laercio Oliveira",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "Iracema Portella",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Átila Lira",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Marcelo Aro",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Dimas Fabiano",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Guilherme Mussi",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Hiran Gonçalves",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "André Abdon",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Fernando Monteiro",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Pinheirinho",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Adriano do Baldy",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Covatti Filho",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Fausto Pinato",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Afonso Hamm",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Átila Lins",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Claudio Cajado",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Arthur Lira",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Aguinaldo Ribeiro",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "AJ Albuquerque",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "André Fufuca",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Professor Alcides",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Beto Rosado",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Mário Negromonte Jr.",
+                  "uf": "BA"
+              }
+          ]
+      },
+      "PSTU": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "PCB": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "PRTB": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "DC": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "PCO": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "PODE": {
+          "qtdDeputados": 10,
+          "somaPresenca": 9.841121495327103,
+          "somaProposicoes": 107,
+          "somaGastos": 261437.82529629627,
+          "deputados": [
+              {
+                  "nome": "Bacelar",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Diego Garcia",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Igor Timo",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Léo Moraes",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "José Nelto",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "José Medeiros",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Roberto de Lucena",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Renata Abreu",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Josivaldo JP",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Ricardo Teobaldo",
+                  "uf": "PE"
+              }
+          ]
+      },
+      "PSL": {
+          "qtdDeputados": 53,
+          "somaPresenca": 52.17102981162037,
+          "somaProposicoes": 345,
+          "somaGastos": 1318166.9625641026,
+          "deputados": [
+              {
+                  "nome": "Luciano Bivar",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Dra. Soraya Manato",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Chris Tonietto",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Carlos Jordy",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Gurgel",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Aline Sleutjes",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Joice Hasselmann",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Delegado Pablo",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Luiz Lima",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Vitor Hugo",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Filipe Barros",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Nereu Crispim",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Bia Kicis",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Bibo Nunes",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Felício Laterça",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Coronel Chrisóstomo",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Sanderson",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Daniel Freitas",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Helio Lopes",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Alê Silva",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Abou Anni",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Guiga Peixoto",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Delegado Antônio Furtado",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "General Peternelli",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Coronel Tadeu",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Luiz Philippe de Orleans e Bragança",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Carla Zambelli",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Daniel Silveira",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Caroline de Toni",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Coronel Armando",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Nicoletti",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "Junio Amaral",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Heitor Freire",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Loester Trutis",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Felipe Francischini",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Major Fabiana",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Professora Dayane Pimentel",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Marcelo Brum",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Professor Joziel",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Delegado Marcelo Freitas",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Fabio Schiochet",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Eduardo Bolsonaro",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Delegado Waldir",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Julian Lemos",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Charlles Evangelista",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Dr. Luiz Ovando",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Bozzella",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "General Girão",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Léo Motta",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Márcio Labre",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Marcelo Álvaro Antônio",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Nelson Barbudo",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Lourival Gomes",
+                  "uf": "RJ"
+              }
+          ]
+      },
+      "REPUBLICANOS": {
+          "qtdDeputados": 33,
+          "somaPresenca": 32.33318182647347,
+          "somaProposicoes": 247,
+          "somaGastos": 988344.7710292019,
+          "deputados": [
+              {
+                  "nome": "Hugo Motta",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Capitão Alberto Neto",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Tia Eron",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Julio Cesar Ribeiro",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Roberto Alves",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Ossesio Silva",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Aline Gurgel",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Benes Leocádio",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Jorge Braz",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Pr. Marco Feliciano",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Severino Pessoa",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Luizão Goulart",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Lafayette de Andrada",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Vinicius Carvalho",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Rosangela Gomes",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "João Campos",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Márcio Marinho",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Gilberto Abramo",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Celso Russomanno",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Amaro Neto",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Dr. Gonçalo",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Silvio Costa Filho",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Vavá Martins",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Aroldo Martins",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Cleber Verde",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Silas Câmara",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Hélio Costa",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Jhonatan de Jesus",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "Milton Vieira",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Marcos Pereira",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Carlos Gomes",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Gil Cutrim",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Maria Rosas",
+                  "uf": "SP"
+              }
+          ]
+      },
+      "PSOL": {
+          "qtdDeputados": 10,
+          "somaPresenca": 9.897196261682243,
+          "somaProposicoes": 301,
+          "somaGastos": 232982.9062962963,
+          "deputados": [
+              {
+                  "nome": "Fernanda Melchionna",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Talíria Petrone",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Sâmia Bomfim",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Luiza Erundina",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Ivan Valente",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "David Miranda",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Vivi Reis",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Marcelo Freixo",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Glauber Braga",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Áurea Carolina",
+                  "uf": "MG"
+              }
+          ]
+      },
+      "PL": {
+          "qtdDeputados": 41,
+          "somaPresenca": 39.83372014771571,
+          "somaProposicoes": 325,
+          "somaGastos": 1251487.2789076462,
+          "deputados": [
+              {
+                  "nome": "Marcelo Ramos",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Christiane de Souza Yared",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Giovani Cherini",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "Policial Katia Sastre",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Capitão Fábio Abreu",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Wellington Roberto",
+                  "uf": "PB"
+              },
+              {
+                  "nome": "Dr. Jaziel",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Zé Vitor",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Luiz Carlos Motta",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Bosco Costa",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "Fernando Rodolfo",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Pastor Gil",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Magda Mofatto",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Miguel Lombardi",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Lincoln Portela",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Luiz Antônio Corrêa",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Aelton Freitas",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Vicentinho Júnior",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Capitão Augusto",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Valdevan Noventa",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "Luiz Nishimori",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Cristiano Vale",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Júnior Mano",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Soraya Santos",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "João Maia",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Giacobo",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "João Carlos Bacelar",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Abílio Santana",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Sergio Toledo",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Raimundo Costa",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Edio Lopes",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "José Rocha",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Vinicius Gurgel",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Josimar Maranhãozinho",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Tiririca",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Gelson Azevedo",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Marcio Alvino",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Altineu Côrtes",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Paulo Freire Costa",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Laerte Bessa",
+                  "uf": "DF"
+              },
+              {
+                  "nome": "Junior Lourenço",
+                  "uf": "MA"
+              }
+          ]
+      },
+      "PSD": {
+          "qtdDeputados": 35,
+          "somaPresenca": 34.43926948469519,
+          "somaProposicoes": 164,
+          "somaGastos": 982972.5824404149,
+          "deputados": [
+              {
+                  "nome": "Darci de Matos",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Fábio Trad",
+                  "uf": "MS"
+              },
+              {
+                  "nome": "Júlio Cesar",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Hugo Leal",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Diego Andrade",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Fábio Mitidieri",
+                  "uf": "SE"
+              },
+              {
+                  "nome": "Paulo Magalhães",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Otto Alencar Filho",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Joaquim Passarinho",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Neucimar Fraga",
+                  "uf": "ES"
+              },
+              {
+                  "nome": "Antonio Brito",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Marco Bertaiolli",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Francisco Jr.",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "André de Paula",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Vermelho",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Pedro Augusto Palareti",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Domingos Neto",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Cezinha de Madureira",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Sidney Leite",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Marx Beltrão",
+                  "uf": "AL"
+              },
+              {
+                  "nome": "Júnior Ferrari",
+                  "uf": "PA"
+              },
+              {
+                  "nome": "Expedito Netto",
+                  "uf": "RO"
+              },
+              {
+                  "nome": "Edilázio Júnior",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Reinhold Stephanes Junior",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Ricardo Guidi",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Misael Varella",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Haroldo Cathedral",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "Sérgio Brito",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Paulo Vicente Caleffi",
+                  "uf": "RS"
+              },
+              {
+                  "nome": "José Nunes",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Sargento Fahur",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Flordelis",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Charles Fernandes",
+                  "uf": "BA"
+              },
+              {
+                  "nome": "Stefano Aguiar",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Delegado Éder Mauro",
+                  "uf": "PA"
+              }
+          ]
+      },
+      "PATRIOTA": {
+          "qtdDeputados": 6,
+          "somaPresenca": 5.920472579791924,
+          "somaProposicoes": 26,
+          "somaGastos": 180403.62814814816,
+          "deputados": [
+              {
+                  "nome": "Fred Costa",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Roman",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Dr. Frederico",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Marreca Filho",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Alcides Rodrigues",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Pastor Eurico",
+                  "uf": "PE"
+              }
+          ]
+      },
+      "PROS": {
+          "qtdDeputados": 11,
+          "somaPresenca": 10.82162341667062,
+          "somaProposicoes": 52,
+          "somaGastos": 336691.0226595053,
+          "deputados": [
+              {
+                  "nome": "Carla Dickson",
+                  "uf": "RN"
+              },
+              {
+                  "nome": "Capitão Wagner",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Gastão Vieira",
+                  "uf": "MA"
+              },
+              {
+                  "nome": "Weliton Prado",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Eros Biondini",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Boca Aberta",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Toninho Wandscheer",
+                  "uf": "PR"
+              },
+              {
+                  "nome": "Clarissa Garotinho",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Vaidon Oliveira",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Acácio Favacho",
+                  "uf": "AP"
+              },
+              {
+                  "nome": "Uldurico Junior",
+                  "uf": "BA"
+              }
+          ]
+      },
+      "SOLIDARIEDADE": {
+          "qtdDeputados": 14,
+          "somaPresenca": 13.514018691588785,
+          "somaProposicoes": 143,
+          "somaGastos": 432293.9100322061,
+          "deputados": [
+              {
+                  "nome": "Paulo Pereira da Silva",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Aureo Ribeiro",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Zé Silva",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Augusto Coutinho",
+                  "uf": "PE"
+              },
+              {
+                  "nome": "Eli Borges",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Dr. Leonardo",
+                  "uf": "MT"
+              },
+              {
+                  "nome": "Bosco Saraiva",
+                  "uf": "AM"
+              },
+              {
+                  "nome": "Marina Santos",
+                  "uf": "PI"
+              },
+              {
+                  "nome": "Ottaci Nascimento",
+                  "uf": "RR"
+              },
+              {
+                  "nome": "Lucas Vergilio",
+                  "uf": "GO"
+              },
+              {
+                  "nome": "Tiago Dimas",
+                  "uf": "TO"
+              },
+              {
+                  "nome": "Dra. Vanda Milani",
+                  "uf": "AC"
+              },
+              {
+                  "nome": "Genecias Noronha",
+                  "uf": "CE"
+              },
+              {
+                  "nome": "Gustinho Ribeiro",
+                  "uf": "SE"
+              }
+          ]
+      },
+      "NOVO": {
+          "qtdDeputados": 8,
+          "somaPresenca": 7.9766355140186915,
+          "somaProposicoes": 119,
+          "somaGastos": 59029.113233618235,
+          "deputados": [
+              {
+                  "nome": "Adriana Ventura",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Lucas Gonzalez",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Tiago Mitraud",
+                  "uf": "MG"
+              },
+              {
+                  "nome": "Alexis Fonteyne",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Vinicius Poit",
+                  "uf": "SP"
+              },
+              {
+                  "nome": "Paulo Ganime",
+                  "uf": "RJ"
+              },
+              {
+                  "nome": "Gilson Marques",
+                  "uf": "SC"
+              },
+              {
+                  "nome": "Marcel van Hattem",
+                  "uf": "RS"
+              }
+          ]
+      },
+      "REDE": {
+          "qtdDeputados": 1,
+          "somaPresenca": 0.9813084112149533,
+          "somaProposicoes": 14,
+          "somaGastos": 26979.041481481476,
+          "deputados": [
+              {
+                  "nome": "Joenia Wapichana",
+                  "uf": "RR"
+              }
+          ]
+      },
+      "PMB": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      },
+      "UP": {
+          "qtdDeputados": 0,
+          "somaPresenca": 0,
+          "somaProposicoes": 0,
+          "somaGastos": 0,
+          "deputados": []
+      }
+  }
+}

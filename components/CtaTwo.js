@@ -1,12 +1,12 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import img1 from "../assets/img/feature/user-interact.png";
-import img2 from "../assets/img/icons/teamwork.svg";
+import img1 from "../assets/img/feature/checklist.jpg";
+import img2 from "../assets/img/icons/project-management.svg";
 
 const CtaTwo = () => {
   return (
-    <section className="bg-2 pt-120 pb-120">
+    <section className="bg-2 ">
       <Container>
         <Row>
           <Col lg={7} sm={7}>
@@ -19,15 +19,14 @@ const CtaTwo = () => {
               <div className="interact-icon">
                 <img src={img2} className="svg" alt="" />
               </div>
-              <h2>Interact With Your Users On Every Single Platform</h2>
+              <h2>Inspiração</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form, by
-                injected humour.
+                Depois de me deparar com este processo seletivo pensei
+                em dois pontos principais: utilidade pública e desenvolvimento
+                fullstack. Tentei escolher uma ideia que marcasse o maior número
+                de pontos da lista de tópicos descrita no anúncio da vaga (e que
+                também agregasse valor de alguma maneira).
               </p>
-              <a href="#" className="btn">
-                Get Started
-              </a>
             </div>
           </Col>
         </Row>

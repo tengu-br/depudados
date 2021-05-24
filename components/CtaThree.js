@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 import img1 from "../assets/img/icons/solution1.svg";
-import img2 from "../assets/img/feature/user-interact2.png";
+import img2 from "../assets/img/feature/camara.jpg";
 
 const CtaThree = () => {
   return (
@@ -14,15 +14,19 @@ const CtaThree = () => {
               <div className="interact-icon">
                 <img src={img1} className="svg" alt="" />
               </div>
-              <h2>Interact With Your Users On Every Single Platform</h2>
+              <h2>Fluxo de Trabalho</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form, by
-                injected humour.
+                Comecei analisando quais informações estavam disponíveis pela
+                <a href="http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm" target="_blank">
+                  Lei de Acesso à Informação
+                </a>
+                  e escolhi trabalhar com os dados da câmara de deputados pois é uma
+                esfera pública pouco acompanhada e que merece mais visibilidade. Pensei
+                em algumas métricas simples que poderiam ser comparadas, como a presença
+                dos deputados e gastos da cota parlamentar de cada um. Depois disso
+                construí as páginas com dados de exemplo e em seguida fiz a parte da coleta
+                dos dados reais através da API disponibilizada pela câmara.
               </p>
-              <a href="#" className="btn">
-                Get Started
-              </a>
             </div>
           </Col>
           <Col lg={7} sm={7}>

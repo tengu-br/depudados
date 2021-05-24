@@ -8,10 +8,10 @@ const GeoPresenca = ({ name, data, textsize }) => {
 
   for (const uf in data) {
     if (Object.hasOwnProperty.call(data, uf)) {
-      compiledData.push({ name: data[uf].nome, value: Math.round(data[uf].somaPresenca / data[uf].qtdDeputados * 10000 + Number.EPSILON)/100 })
+      compiledData.push({ name: data[uf].nome, value: Math.round(data[uf].somaProposicoes / data[uf].qtdDeputados + Number.EPSILON) })
     }
   }
-  
+
   const chart = useRef(null);
 
 
@@ -30,15 +30,17 @@ const GeoPresenca = ({ name, data, textsize }) => {
       showDelay: 0,
       transitionDuration: 0.2,
       formatter: function (params) {
-        return params.seriesName + '<br/>' + params.name + ': ' + params.value + '%';
+        var value = (params.value + '').split('.');
+        value = value[0].replace(/(\d{1,3})(?=(?:\d{3})+(?!\d))/g, '$1,');
+        return params.seriesName + '<br/>' + params.name + ': ' + value + ' proposições';
       }
     },
     visualMap: {
       left: 'right',
-      min: 92,
-      max: 100,
+      min: 0,
+      max: 40,
       inRange: {
-        color: ['#b70303','#f47c7c','#82a9ff','#5357F0']
+        color: ['#ff0c0c', '#ddd3d3', '#899bff', '#5357F0','#5357F0']
       },
       text: ['Alta', 'Baixa'],
       calculable: true,
@@ -55,7 +57,7 @@ const GeoPresenca = ({ name, data, textsize }) => {
     },
     series: [
       {
-        name: 'Presença',
+        name: 'Média Mensais',
         selectedMode: false,
         type: 'map',
         roam: false,

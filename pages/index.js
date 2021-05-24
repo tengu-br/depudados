@@ -21,15 +21,9 @@ const HomePage = () => {
     <Layout pageTitle="Jironis">
       <Banner />
       <Features />
-      <FunFacts />
       <CtaTwo />
       <CtaThree />
       <Video />
-      <AppShots />
-      <Pricing />
-      <Testimonials />
-      <Clients />
-      <BlogHome />
       <CtaOne />
     </Layout>
   );

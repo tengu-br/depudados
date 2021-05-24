@@ -8,61 +8,29 @@ SwiperCore.use([Pagination, Autoplay]);
 import SectionTitle from "./SectionTitle";
 import FeatureCard from "./FeatureCard";
 
-import img1 from "../assets/img/icons/project-management.svg";
-import img2 from "../assets/img/icons/solution.svg";
+import img1 from "../assets/img/icons/nodejs.svg";
+import img2 from "../assets/img/icons/nextjs.svg";
 import img3 from "../assets/img/icons/planning.svg";
-import img4 from "../assets/img/icons/goal.svg";
 
 const FEATURES_DATA = [
   {
-    title: "New Artwork \n Unveiled",
+    title: "Node.js",
     text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+      "Back-end que coleta os dados da api pública do governo, armazena e os serve para este front.",
     image: img1
   },
   {
-    title: "Company Growth \n Strategy",
+    title: "Next.js",
     text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+      "Framework para aplicações React. Otimizado para ambiente de produção por padrão.",
     image: img2
   },
   {
-    title: "Creative App \n Display",
+    title: "API da Câmara \n dos Deputados",
     text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img4
-  },
-  {
-    title: "Company Growth \n Strategy",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+      "Fonte de todos os dados dispostos nesta aplicação.",
     image: img3
   },
-  {
-    title: "New Artwork \n Unveiled",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img1
-  },
-  {
-    title: "Company Growth \n Strategy",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img2
-  },
-  ,
-  {
-    title: "Company Growth \n Strategy",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img3
-  },
-  {
-    title: "Creative App \n Display",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img4
-  }
 ];
 
 const Features = () => {
@@ -71,9 +39,6 @@ const Features = () => {
     slidesPerGroup: 3,
     centeredSlides: true,
     spaceBetween: 30,
-    autoplay: {
-      delay: 3000
-    },
     pagination: {
       el: "#features-paginations",
       type: "bullets",
@@ -111,8 +76,8 @@ const Features = () => {
         <Row className="justify-content-center">
           <Col md={12} lg={8}>
             <SectionTitle
-              title="App Advance Features"
-              text="Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt    mollit lorem ipsum anim id est laborum perspiciatis unde."
+              title="Tecnologias utilizadas"
+              // text="Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt    mollit lorem ipsum anim id est laborum perspiciatis unde."
             />
           </Col>
         </Row>

@@ -12,7 +12,9 @@ import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import { Typography } from "@material-ui/core";
 import PieChart from "../components/charts/PieChart";
-import DeputadosList from "../components/lists/DeputadosList";
+import PartidosList from "../components/lists/PartidosList";
+import testData from "../testData/partidos.json"
+
 /*
 GRÁFICOS:
 1 - Lista de todos os partidos
@@ -24,35 +26,6 @@ GRÁFICOS:
     2.3 - Quantidade de Deputados em atuação
     2.4 - Média de Gastos, proposições e presença
 */
-
-const top100Films = [
-  { title: 'The Shawshank Redemption', year: 1994 },
-  { title: 'The Godfather', year: 1972 },
-  { title: 'The Godfather: Part II', year: 1974 },
-  { title: 'Inglourious Basterds', year: 2009 },
-  { title: 'Snatch', year: 2000 },
-  { title: '3 Idiots', year: 2009 },
-  { title: 'Monty Python and the Holy Grail', year: 1975 },
-];
-
-const prop = {
-  mock1: {
-    name: 'Presença',
-    size: '36',
-    data: [
-      { value: 91.87, name: 'Presença', selected: true },
-      { value: 8.13, name: 'Falta' },
-    ]
-  },
-  mock2: {
-    name: 'Presença',
-    size: '18',
-    data: [
-      { value: '84.50%', name: 'Presença', selected: true },
-      { value: '15.50%', name: 'Falta' },
-    ]
-  },
-}
 
 const Partidos = () => {
 
@@ -68,8 +41,8 @@ const Partidos = () => {
             onChange={(event, newValue) => {
               setValue(newValue);
             }}
-            options={top100Films}
-            getOptionLabel={(option) => option.title}
+            options={testData.listaPartidos}
+            // getOptionLabel={(option) => option.title}
             renderInput={(params) => <TextField {...params} label="Partido" variant="outlined" />}
           />
         </Grid>
@@ -80,7 +53,7 @@ const Partidos = () => {
               <Grid container spacing={3} style={{ padding: '1em' }}>
                 <Grid item xs={12}>
                   <Typography variant='h6' align='center' style={{ paddingTop: '1em' }}>
-                    {value.title}
+                    {value}
                   </Typography>
                 </Grid>
                 <Grid item xs={4}>
@@ -88,33 +61,64 @@ const Partidos = () => {
                     Quantidade de Deputados em exercício
                 </Typography>
                   <Typography variant='h3' align='center' >
-                    18
-                </Typography>
+                    {testData.dadosPartidos[value].qtdDeputados}
+                  </Typography>
                 </Grid>
                 <Grid item xs={4}>
                   <Typography variant='body1' align='center' style={{ paddingTop: '1em', paddingBottom: '1em' }}>
                     Média de Gastos por deputado deste partido
                 </Typography>
                   <Typography variant='h5' align='center' >
-                    R$ 12.730,00
-                </Typography>
+                    {
+                      testData.dadosPartidos[value].qtdDeputados === 0 ?
+                        ('R$ 0,00')
+                        :
+                        (Math.round(testData.dadosPartidos[value].somaGastos / testData.dadosPartidos[value].qtdDeputados * 100 + Number.EPSILON) / 100).toLocaleString('pt-BR', { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })
+                    }
+                  </Typography>
                 </Grid>
                 <Grid item xs={4}>
                   <Typography variant='body1' align='center' style={{ paddingTop: '1em', paddingBottom: '0.5em' }}>
                     Média de Proposições por deputado deste partido
                 </Typography>
                   <Typography variant='h3' align='center' >
-                    12
-                </Typography>
+                    {
+                      testData.dadosPartidos[value].qtdDeputados === 0 ?
+                        ('N/A')
+                        :
+                        Math.round(testData.dadosPartidos[value].somaProposicoes / testData.dadosPartidos[value].qtdDeputados + Number.EPSILON)
+                    }
+                  </Typography>
                 </Grid>
                 <Grid item xs={4}>
                   <Typography variant='body1' align='center'>
                     Presença média por deputado
                   </Typography>
-                  <PieChart textsize={prop.mock1.size} data={prop.mock1.data} name={prop.mock1.name} />
+                  {
+                    testData.dadosPartidos[value].qtdDeputados === 0 ?
+                      <Typography variant='h3' align='center' >
+                        N/A
+                      </Typography>
+                      :
+                      (
+                        <PieChart
+                          textsize='36'
+                          data={[
+                            { value: (Math.round((testData.dadosPartidos[value].somaPresenca / testData.dadosPartidos[value].qtdDeputados + Number.EPSILON) * 10000) / 100), name: 'Presença', selected: true },
+                            { value: Math.round((100 - (Math.round(testData.dadosPartidos[value].somaPresenca / testData.dadosPartidos[value].qtdDeputados * 10000 + Number.EPSILON) / 100)) * 100) / 100, name: 'Falta' },
+                          ]} />
+                      )
+                  }
                 </Grid>
                 <Grid item xs={8}>
-                  <DeputadosList elevation={0} />
+                  {
+                    testData.dadosPartidos[value].qtdDeputados === 0 ?
+                      (null)
+                      :
+                      (
+                        <PartidosList data={testData.dadosPartidos[value].deputados} elevation={0} />
+                      )
+                  }
                 </Grid>
               </Grid>
             </Paper>

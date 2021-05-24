@@ -1,17 +1,17 @@
 import React from "react";
 import Layout from "../components/Layout";
 import PieChart from '../components/charts/PieChart';
-import GastosCard from '../components/cards/SmallCard'
-import PresencaCard from '../components/cards/BigCard'
-import HorizBarChart from '../components/charts/HorizBarChart'
-import GeoPresenca from '../components/charts/GeoPresenca'
+import StatsCard from '../components/cards/SmallCard'
+import ProposicoesCard from '../components/cards/BigCard'
+import ProposicoesHorizontal from '../components/charts/ProposicoesHorizontal'
+import VerticalBarChart from "../components/charts/ProposicoesVertical";
+import ProposicoesList from "../components/lists/ProposicoesList";
+import GeoProposicoes from '../components/charts/GeoProposicoes'
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import { Typography } from "@material-ui/core";
 import styled from 'styled-components'
-import VerticalBarChart from "../components/charts/VerticalBarChart";
-import DeputadosList from "../components/lists/DeputadosList";
-
+import testData from "../testData/proposicoes.json"
 
 /*
 GRÁFICOS:
@@ -39,46 +39,48 @@ const Propostas = () => {
           <Grid container spacing={3}>
             <Grid item xs={12}>
               <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
-                <GastosCard
+                <StatsCard
                   titulo='Média de proposições por deputado'
-                  nome='18' />
+                  dado={Math.round(testData.proposicoesMedia)} />
               </Paper>
             </Grid>
             <Grid item xs={12}>
               <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
-                <GastosCard
+                <StatsCard
                   titulo='Mediana de proposições dos deputados'
-                  nome='R$ 31.021,50' />
+                  dado={testData.proposicoesMediana} />
               </Paper>
             </Grid>
           </Grid>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
-            <PresencaCard
+            <ProposicoesCard
               titulo='Menos Ativo'
-              nome='Adriano do Baldy'
-              partido='PP-GO'
-              porcentagem='2 proposições'
-              size='small' />
+              nome={testData.deputadoProposicoesMenor.nomeEleitoral}
+              partido={`${testData.deputadoProposicoesMenor.siglaPartido}-${testData.deputadoProposicoesMenor.siglaUf}`}
+              porcentagem={testData.deputadoProposicoesMenor.proposicoes}
+              foto={testData.deputadoProposicoesMenor.urlFoto + 'maior.jpg'}
+              size='large' />
           </Paper>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
-            <PresencaCard
-              titulo='Mais Ativo'
-              nome='Afonso Florence'
-              partido='PT-BA'
-              porcentagem='24 proposições'
-              size='small' />
+            <ProposicoesCard
+              titulo='Mais ativo'
+              nome={testData.deputadoProposicoesMaior.nomeEleitoral}
+              partido={`${testData.deputadoProposicoesMaior.siglaPartido}-${testData.deputadoProposicoesMaior.siglaUf}`}
+              porcentagem={testData.deputadoProposicoesMaior.proposicoes}
+              foto={testData.deputadoProposicoesMaior.urlFoto + 'maior.jpg'}
+              size='large' />
           </Paper>
         </Grid>
         <Grid item xs={12} md={8}>
           <Paper elevation={6} style={{ height: '100%', width: '100%' }}>
             <Typography variant='h6' align='center'>
-              Menor número de proposições
-                        </Typography>
-            <HorizBarChart />
+              Maior número de proposições
+            </Typography>
+            <ProposicoesHorizontal data={testData.listaDeputadosMaioresProposicoes} />
           </Paper>
         </Grid>
         <Grid item xs={4}>
@@ -86,20 +88,20 @@ const Propostas = () => {
             <Typography variant='h6' align='center'>
               Atividade por região
             </Typography>
-            <GeoPresenca />
+            <GeoProposicoes data={testData.proposicoesPorUnidadeFederativa} />
           </Paper>
         </Grid>
         <Grid item xs={12}>
           <Paper elevation={6} >
             <Typography variant='h6' align='center'>
-              Média de proposições por partido
+              Média de proposições por partido (últimos 30 dias)
             </Typography>
-            <VerticalBarChart />
+            <VerticalBarChart data={testData.proposicoesPorPartido} />
           </Paper>
         </Grid>
         <Grid item xs={12}>
           <Paper elevation={6}>
-            <DeputadosList />
+            <ProposicoesList data={testData.listaCompleta} />
           </Paper>
         </Grid>
       </Grid>

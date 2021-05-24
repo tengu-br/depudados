@@ -10,7 +10,7 @@ const VerticalBarChart = ({ name, data, textsize }) => {
     if (Object.hasOwnProperty.call(data, sigla)) {
       if (data[sigla].qtdDeputados !== 0) {
         xAxisData.push(sigla)
-        yAxisData.push(Math.round(data[sigla].somaPresenca / data[sigla].qtdDeputados * 10000 + Number.EPSILON)/100)
+        yAxisData.push(Math.round(data[sigla].somaProposicoes / data[sigla].qtdDeputados +Number.EPSILON))
       }
     }
   }
