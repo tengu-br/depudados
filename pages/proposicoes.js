@@ -11,7 +11,7 @@ import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import { Typography } from "@material-ui/core";
 import styled from 'styled-components'
-import testData from "../testData/proposicoes.json"
+// import testData from "../testData/proposicoes.json"
 
 /*
 GRÁFICOS:
@@ -31,7 +31,7 @@ GRÁFICOS:
     SEARCHABLE LIST
 */
 
-const Propostas = () => {
+const Propostas = ({ testData }) => {
   return (
     <Layout pageTitle="Propostas">
       <Grid container spacing={3} style={{ paddingTop: '12%', paddingBottom: '5%', width: '100%', margin: '0px' }}>
@@ -108,5 +108,13 @@ const Propostas = () => {
     </Layout>
   );
 };
+
+export async function getServerSideProps() {
+
+  const res = await fetch(`${process.env.NEXT_PUBLIC_API_ADDR}/proposicoes`, { method: 'POST' })
+  const testData = await res.json()
+
+  return { props: { testData: testData.dados } }
+}
 
 export default Propostas;

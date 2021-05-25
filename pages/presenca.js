@@ -10,7 +10,7 @@ import { Typography } from "@material-ui/core";
 import styled from 'styled-components'
 import VerticalBarChart from "../components/charts/PresencaVertical";
 import DeputadosList from "../components/lists/PresencaList";
-import testData from "../testData/presenca.json"
+// import testData from "../testData/presenca.json"
 
 /*
 GRÁFICOS:
@@ -30,7 +30,7 @@ GRÁFICOS:
     SEARCHABLE LIST
 */
 
-const Presenca = () => {
+const Presenca = ({ testData }) => {
 
   return (
     <Layout pageTitle="Presença">
@@ -101,4 +101,13 @@ const Presenca = () => {
     </Layout >
   );
 };
+
+export async function getServerSideProps() {
+  
+  const res = await fetch(`${process.env.NEXT_PUBLIC_API_ADDR}/presenca`, { method: 'POST' })
+  const testData = await res.json()
+
+  return { props: { testData: testData.dados } }
+}
+
 export default Presenca;

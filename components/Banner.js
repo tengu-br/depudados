@@ -9,7 +9,7 @@ import shape5 from "../assets/img/banner/shaps5.png";
 import shape6 from "../assets/img/banner/shaps6.png";
 import shape7 from "../assets/img/banner/shaps7.png";
 
-import bannerMoc from "../assets/img/banner/mockup.png";
+import bannerMoc from "../assets/img/banner/vitor.jpg";
 
 const Banner = () => {
   return (
@@ -59,8 +59,8 @@ const Banner = () => {
                   </div>
                 </div>
 
-                <h1>Olá equipe do Nexo, prazer!</h1>
-                <p>
+                <h1>Olá equipe do<br /> Nexo, prazer!</h1>
+                <p style={{ maxWidth: '30ch' }}>
                   Me chamo Vitor e fiz essa aplicação praticamente do zero para tentar impressionar vocês!
                   Se trata de um dashboard para acompanhar dados da câmara dos deputados.
                 </p>
@@ -73,8 +73,8 @@ const Banner = () => {
               </div>
             </Col>
             <Col md={4} lg={5} className="  offset-lg-1  offse-xl-2">
-              <div className="banner-image">
-                <img src={bannerMoc} alt="" />
+              <div className="banner-image" style={{marginTop:'-100px',paddingBottom:'40px'}}>
+                <img src={bannerMoc} alt="Olá" />
               </div>
             </Col>
           </Row>

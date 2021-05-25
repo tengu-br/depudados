@@ -3,7 +3,9 @@ import ReactECharts from 'echarts-for-react';
 
 const HorizBarChart = ({ name, data, textsize }) => {
 
-  data.reverse()
+  if (data[data.length-1].presencaSessoes > data[0].presencaSessoes) {
+    data.reverse()
+  }
 
 
   var yAxisData = []

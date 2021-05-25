@@ -17,7 +17,7 @@ const CtaThree = () => {
               <h2>Fluxo de Trabalho</h2>
               <p>
                 Comecei analisando quais informações estavam disponíveis pela
-                <a href="http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm" target="_blank">
+                <a style={{marginRight:'1ch',marginLeft:'1ch'}} href="http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm" target="_blank">
                   Lei de Acesso à Informação
                 </a>
                   e escolhi trabalhar com os dados da câmara de deputados pois é uma

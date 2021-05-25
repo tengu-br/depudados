@@ -57,7 +57,7 @@ const GeoPresenca = ({ name, data, textsize }) => {
     },
     series: [
       {
-        name: 'Média Mensais',
+        name: 'Média Mensal',
         selectedMode: false,
         type: 'map',
         roam: false,

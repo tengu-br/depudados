@@ -13,7 +13,7 @@ import Autocomplete from '@material-ui/lab/Autocomplete';
 import { Typography } from "@material-ui/core";
 import PieChart from "../components/charts/PieChart";
 import GastosCard from "../components/cards/SmallCard";
-import testData from "../testData/deputados.json"
+// import testData from "../testData/deputados.json"
 /*
 GRÁFICOS:
 1 - Lista de todos os partidos
@@ -26,30 +26,10 @@ GRÁFICOS:
     2.4 - Média de Gastos, proposições e presença
 */
 
+const Deputados = ({testData}) => {
 
-const prop = {
-  mock1: {
-    name: 'Presença',
-    size: '36',
-    data: [
-      { value: 91.87, name: 'Presença', selected: true },
-      { value: 8.13, name: 'Falta' },
-    ]
-  },
-  mock2: {
-    name: 'Presença',
-    size: '18',
-    data: [
-      { value: '84.50%', name: 'Presença', selected: true },
-      { value: '15.50%', name: 'Falta' },
-    ]
-  },
-}
-
-const Deputados = () => {
-
-  const [value, setValue] = React.useState();
-  const [deputadoIndex, setDeputadoIndex] = React.useState();
+  const [value, setValue] = React.useState(testData.deputados[0].nome);
+  const [deputadoIndex, setDeputadoIndex] = React.useState(0);
 
   return (
     <Layout pageTitle="Deputados">
@@ -82,7 +62,7 @@ const Deputados = () => {
               </Grid>
               <Grid container spacing={3} style={{ padding: '1em' }}>
                 <Grid item xs={12} sm={4}>
-                  <img src={`${testData.deputados[deputadoIndex].urlFoto}maior.jpg`} />
+                  <img height='350' width='300' src={`${testData.deputados[deputadoIndex].urlFoto}maior.jpg`} />
                 </Grid>
                 <Grid item xs={12} sm={4}>
                   <Grid container spacing={6}>
@@ -122,5 +102,13 @@ const Deputados = () => {
     </Layout>
   );
 };
+
+export async function getServerSideProps() {
+
+  const res = await fetch(`${process.env.NEXT_PUBLIC_API_ADDR}/deputados`, { method: 'POST' })
+  const testData = await res.json()
+
+  return { props: { testData: testData.dados } }
+}
 
 export default Deputados;

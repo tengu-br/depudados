@@ -13,7 +13,7 @@ import Autocomplete from '@material-ui/lab/Autocomplete';
 import { Typography } from "@material-ui/core";
 import PieChart from "../components/charts/PieChart";
 import PartidosList from "../components/lists/PartidosList";
-import testData from "../testData/partidos.json"
+// import testData from "../testData/partidos.json"
 
 /*
 GRÁFICOS:
@@ -27,9 +27,9 @@ GRÁFICOS:
     2.4 - Média de Gastos, proposições e presença
 */
 
-const Partidos = () => {
+const Partidos = ({ testData }) => {
 
-  const [value, setValue] = React.useState();
+  const [value, setValue] = React.useState(testData.listaPartidos[0]);
 
   return (
     <Layout pageTitle="Partidos">
@@ -129,5 +129,13 @@ const Partidos = () => {
     </Layout>
   );
 };
+
+export async function getServerSideProps() {
+
+  const res = await fetch(`${process.env.NEXT_PUBLIC_API_ADDR}/partidos`, { method: 'POST' })
+  const testData = await res.json()
+
+  return { props: { testData: testData.dados } }
+}
 
 export default Partidos;

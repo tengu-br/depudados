@@ -11,7 +11,7 @@ import { Typography } from "@material-ui/core";
 import styled from 'styled-components'
 import VerticalBarChart from "../components/charts/GastosVertical";
 import GastosList from "../components/lists/GastosList";
-import testData from "../testData/gastos.json"
+// import testData from "../testData/gastos.json"
 
 /*
 GRÁFICOS:
@@ -31,7 +31,7 @@ GRÁFICOS:
     SEARCHABLE LIST
 */
 
-const Gastos = () => {
+const Gastos = ({ testData }) => {
 
   return (
     <Layout pageTitle="Gastos">
@@ -57,7 +57,7 @@ const Gastos = () => {
         <Grid item xs={12} sm={6} md={4}>
           <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
             <DeputadoCard
-              titulo='Mais Gastão'
+              titulo='Maior Gasto'
               nome={testData.deputadoGastoMaior.nomeEleitoral}
               partido={`${testData.deputadoGastoMaior.siglaPartido}-${testData.deputadoGastoMaior.siglaUf}`}
               porcentagem={testData.deputadoGastoMaior.gastoMedio.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })}
@@ -68,7 +68,7 @@ const Gastos = () => {
         <Grid item xs={12} sm={6} md={4}>
           <Paper elevation={6} style={{ width: '100%', height: '100%' }}>
             <DeputadoCard
-              titulo='Mais Austero'
+              titulo='Menor Gasto'
               nome={testData.deputadoGastoMenor.nomeEleitoral}
               partido={`${testData.deputadoGastoMenor.siglaPartido}-${testData.deputadoGastoMenor.siglaUf}`}
               porcentagem={testData.deputadoGastoMenor.gastoMedio.toLocaleString("pt-BR", { minimumFractionDigits: 2, style: 'currency', currency: 'BRL' })}
@@ -89,7 +89,7 @@ const Gastos = () => {
             <Typography variant='h6' align='center'>
               Gastos por Região
             </Typography>
-            <GeoGastos data={testData.gastosPorUnidadeFederativa}/>
+            <GeoGastos data={testData.gastosPorUnidadeFederativa} />
           </Paper>
         </Grid>
         <Grid item xs={12}>
@@ -97,17 +97,25 @@ const Gastos = () => {
             <Typography variant='h6' align='center'>
               Gasto médio de cada deputado do partido
             </Typography>
-            <VerticalBarChart data={testData.gastosPorPartido}/>
+            <VerticalBarChart data={testData.gastosPorPartido} />
           </Paper>
         </Grid>
         <Grid item xs={12}>
           <Paper elevation={6}>
-            <GastosList data={testData.listaCompleta}/>
+            <GastosList data={testData.listaCompleta} />
           </Paper>
         </Grid>
       </Grid>
     </Layout >
   );
 };
+
+export async function getServerSideProps() {
+
+  const res = await fetch(`${process.env.NEXT_PUBLIC_API_ADDR}/gastos`, { method: 'POST' })
+  const testData = await res.json()
+
+  return { props: { testData: testData.dados } }
+}
 
 export default Gastos;

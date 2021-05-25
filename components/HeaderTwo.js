@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import NavLinks from "./NavLinks";
 
-import headerLogo from "../assets/img/logo2.png";
-import headerLogoSticky from "../assets/img/logo.png";
+import headerLogo from "../assets/img/logo.svg";
+import headerLogoSticky from "../assets/img/logo.svg";
 
 const HeaderHome = (props) => {
   const [sticky, setSticky] = useState(false);

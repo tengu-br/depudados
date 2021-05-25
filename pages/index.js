@@ -23,7 +23,6 @@ const HomePage = () => {
       <Features />
       <CtaTwo />
       <CtaThree />
-      <Video />
       <CtaOne />
     </Layout>
   );

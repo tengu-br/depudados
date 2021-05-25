@@ -33,8 +33,8 @@ const CtaOne = () => {
               </p>
               <p>
                 Um exemplo disso é a maneira ineficaz da coleta de dados. Atualmente o back-end atualiza todos os dados
-                uma vez por dia e sobrescreve os dados antigos. Isso pode ser melhorado com uma metodologia semelhante
-                ao do git, onde apenas as mudanças são atualizadas e registradas, e não todo o código - ou nesse caso, dados.
+                uma vez por dia e sobrescreve os dados antigos. Isso pode ser melhorado com uma lógica semelhante
+                ao git, onde apenas as alterações são atualizadas e registradas, e não todo o código - ou nesse caso, dados.
               </p>
               <h4 style={{ marginBottom: '1em', marginTop: '2em' }}>
                 Ideias não exploradas:
@@ -42,8 +42,9 @@ const CtaOne = () => {
               <p>
                 Já que os dados são todos atualizados apenas uma vez por dia, seria interessante implementar um CI/CD onde
                 após a coleta de dados, eles fossem armazenados dentro do next.js e o site fosse 'buildado' novamente tratando
-                esses dados recentes como dados estáticos. Isso possibilitaria uma configuração de SSR completa, navegação
-                extremamente rápida e a inutilização do banco de dados atual.
+                esses dados recentes como dados estáticos. Isso possibilitaria uma configuração de SSG completa, navegação
+                extremamente rápida (possibilidade de servir o site inteiro por uma CDN) e a inutilização do banco de dados atual.
+                (Talvez usar getStaticProps e fazer uma cron que faça uma build logo após de atualizar os dados?)
               </p>
               <h4 style={{ marginBottom: '1em', marginTop: '2em' }}>
                 Conquistas:
